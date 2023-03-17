@@ -1,26 +1,29 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    best-of-bits
+    best-of-BITs (bytes)
     <br>
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome projects. Updated weekly.</strong>
+    <strong>🏆 A ranked list of awesome BITs — projects related to <i>Beijing Institute of Technology<i></strong>
 </p>
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-0-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-6-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/YDX-2147483647/best-of-bits/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/YDX-2147483647/best-of-bits?color=green&label=updated"></a>
 </p>
 
-This curated list contains 0 awesome open-source projects with a total of 0 stars grouped into 0 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose), submit a [pull request](https://github.com/YDX-2147483647/best-of-bits/pulls), or directly edit the [projects.yaml](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 6 awesome open-source projects with a total of 410 stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose), submit a [pull request](https://github.com/YDX-2147483647/best-of-bits/pulls), or directly edit the [projects.yaml](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
+- [🌏网站](#) _1 projects_
+- [📁模板](#) _1 projects_
+- [⚒️工具](#) _4 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -38,6 +41,80 @@ This curated list contains 0 awesome open-source projects with a total of 0 star
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
 
+<br>
+
+## 🌏网站
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥇6 ·  ⭐ 44 · ➕) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code> <code>🐍python</code></summary>
+
+- [GitHub](https://github.com/flwfdd/BIT101) (👨‍💻 2 · 🔀 2 · 📋 9 - 33% open · ⏱️ 07.03.2023):
+
+	```
+	git clone https://github.com/flwfdd/BIT101
+	```
+</details>
+<br>
+
+## 📁模板
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://bithesis.bitnp.net">BIThesis</a></b> (🥇18 ·  ⭐ 340 · ➕) - LaTeX wiki release. <code><a href="https://tldrlegal.com/search?q=LPPL-1.3c">❗️LPPL-1.3c</a></code> <code>📜LaTeX</code></summary>
+
+- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 18 · 🔀 74 · 📥 5.1K · 📋 130 - 5% open · ⏱️ 16.03.2023):
+
+	```
+	git clone https://github.com/BITNP/BIThesis
+	```
+</details>
+<br>
+
+## ⚒️工具
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/BITNP/bitsrun">bitsrun</a></b> (🥇14 ·  ⭐ 29 · ➕) - A headless login / logout script for 10.0.0.55 at BIT... <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code> <code>🐍python</code></summary>
+
+- [GitHub](https://github.com/BITNP/bitsrun) (👨‍💻 7 · 🔀 6 · 📋 6 - 16% open · ⏱️ 16.03.2023):
+
+	```
+	git clone https://github.com/BITNP/bitsrun
+	```
+- [PyPi](https://pypi.org/project/bitsrun) (📥 200 / month):
+	```
+	pip install bitsrun
+	```
+</details>
+<details><summary><b><a href="https://ydx-2147483647.github.io/BIT-enhanced/">BIT-enhanced</a></b> (🥈5 ·  ⭐ 3 · ➕) - BIT. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code>🕸️Web</code></summary>
+
+- [GitHub](https://github.com/YDX-2147483647/BIT-enhanced) (👨‍💻 3 · ⏱️ 16.03.2023):
+
+	```
+	git clone https://github.com/YDX-2147483647/BIT-enhanced
+	```
+</details>
+<details><summary><b><a href="https://github.com/YDX-2147483647/bus-interrogation-tunnel">Bus Interrogation Tunnel</a></b> (🥉4 ·  ⭐ 1 · ➕) - BIT bitbus. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🐍python</code></summary>
+
+- [GitHub](https://github.com/YDX-2147483647/bus-interrogation-tunnel) (⏱️ 14.03.2023):
+
+	```
+	git clone https://github.com/YDX-2147483647/bus-interrogation-tunnel
+	```
+- [PyPi](https://pypi.org/project/bus-interrogation-tunnel) (📥 110 / month):
+	```
+	pip install bus-interrogation-tunnel
+	```
+</details>
+<details><summary><b><a href="https://haobit.top/dev/site/notice/">Bulletin Issues Transferred</a></b> (🥉3 ·  ⭐ 1 · ➕) - BITRSS. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
+
+- [GitHub](https://github.com/YDX-2147483647/bulletin-issues-transferred) (👨‍💻 2 · 📋 13 - 46% open · ⏱️ 04.03.2023):
+
+	```
+	git clone https://github.com/YDX-2147483647/bulletin-issues-transferred
+	```
+</details>
 
 ---
 
