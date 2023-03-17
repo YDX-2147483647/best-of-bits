@@ -1,19 +1,62 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  min_stars: 0
+  min_projectrank: 0
+  min_description_length: 0
+  require_license: False
+  allowed_licenses: [all]
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: website
+    title: 🌏网站
+  - category: template
+    title: 📁模板
+  - category: tool
+    title: ⚒️工具
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: latex
+    name: 📜LaTeX
+  - label: python
+    name: 🐍python
+  - label: web
+    name: 🕸️Web
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: BIT101
+    description: 百丽宫攻略、课程评价及资料、课表、查成绩。
+    homepage: https://bit101.cn
+    github_id: flwfdd/BIT101
+    category: website
+    labels: [Web, python]
+
+  - name: BIThesis
+    homepage: https://bithesis.bitnp.net
+    github_id: BITNP/BIThesis
+    category: template
+    labels: [latex]
+
+  - name: bitsrun
+    github_id: BITNP/bitsrun
+    pypi_id: bitsrun
+    category: tool
+    labels: [python]
+
+  - name: Bulletin Issues Transferred
+    github_id: YDX-2147483647/bulletin-issues-transferred
+    homepage: https://haobit.top/dev/site/notice/
+    category: tool
+    labels: [Web]
+
+  - name: BIT-enhanced
+    github_id: YDX-2147483647/BIT-enhanced
+    homepage: https://ydx-2147483647.github.io/BIT-enhanced/
+    category: tool
+    labels: [Web]
+
+  - name: Bus Interrogation Tunnel
+    github_id: YDX-2147483647/bus-interrogation-tunnel
+    pypi_id: bus-interrogation-tunnel
+    category: tool
+    labels: [python]

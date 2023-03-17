@@ -1,11 +1,11 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    best-of-bits
+    best-of-BITs (bytes)
     <br>
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome projects. Updated weekly.</strong>
+    <strong>🏆 A ranked list of awesome BITs — projects related to <i>Beijing Institute of Technology<i></strong>
 </p>
 
 <p align="center">
