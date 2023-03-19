@@ -14,6 +14,8 @@ categories:
     title: 📁模板
   - category: tool
     title: ⚒️工具
+  - category: learning
+    title: 📚学习资料
 
 labels:
   - label: latex
@@ -60,3 +62,27 @@ projects:
     pypi_id: bus-interrogation-tunnel
     category: tool
     labels: [python]
+
+  - name: 北京理工大学-本科-人工智能专业-通关经验包
+    github_id: Robin-WZQ/BIT-AI-Review
+    category: learning
+
+  - name: BIT-CS-Learning
+    github_id: songshangru/BIT-CS-Learning
+    category: learning
+
+  - name: SecretWeapon
+    github_id: BITNP/SecretWeapon
+    category: learning
+
+  - name: BIT-CS
+    github_id: xiabee/BIT-CS
+    category: learning
+
+  - name: BITCS Coursework
+    github_id: spencerwooo/BITCS-Coursework
+    category: learning
+
+  - name: BITCS-final-exam-learning-materials
+    github_id: tulerfeng/BITCS-final-exam-learning-materials
+    category: learning
