@@ -6,6 +6,7 @@ configuration:
   min_description_length: 0
   require_license: False
   allowed_licenses: [all]
+  ascii_description: False
 
 categories:
   - category: website
