@@ -96,7 +96,7 @@ This curated list contains 12 awesome open-source projects with a total of 810 s
 	git clone https://github.com/YDX-2147483647/BIT-enhanced
 	```
 </details>
-<details><summary><b><a href="https://haobit.top/dev/site/notice/">Bulletin Issues Transferred</a></b> (🥈5 ·  ⭐ 1 · 📈) - BITRSS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code></summary>
+<details><summary><b><a href="https://haobit.top/dev/site/notice/">Bulletin Issues Transferred</a></b> (🥈5 ·  ⭐ 1) - BITRSS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code></summary>
 
 - [GitHub](https://github.com/YDX-2147483647/bulletin-issues-transferred) (👨‍💻 2 · 📋 13 - 46% open · ⏱️ 17.03.2023):
 
@@ -122,7 +122,7 @@ This curated list contains 12 awesome open-source projects with a total of 810 s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/songshangru/BIT-CS-Learning">BIT-CS-Learning</a></b> (🥈7 ·  ⭐ 99 · ➕) -  <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/songshangru/BIT-CS-Learning">BIT-CS-Learning</a></b> (🥈7 ·  ⭐ 99) -  <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/songshangru/BIT-CS-Learning) (👨‍💻 3 · 🔀 40 · ⏱️ 08.02.2023):
 
@@ -130,7 +130,7 @@ This curated list contains 12 awesome open-source projects with a total of 810 s
 	git clone https://github.com/songshangru/BIT-CS-Learning
 	```
 </details>
-<details><summary><b><a href="https://github.com/Robin-WZQ/BIT-AI-Review">北京理工大学-本科-人工智能专业-通关经验包</a></b> (🥉6 ·  ⭐ 23 · ➕) - star. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Robin-WZQ/BIT-AI-Review">北京理工大学-本科-人工智能专业-通关经验包</a></b> (🥉6 ·  ⭐ 24) - star. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/Robin-WZQ/BIT-AI-Review) (👨‍💻 3 · 🔀 5 · 📋 2 - 50% open · ⏱️ 02.03.2023):
 
@@ -142,7 +142,7 @@ This curated list contains 12 awesome open-source projects with a total of 810 s
 
 - <b><a href="https://github.com/xiabee/BIT-CS">BIT-CS</a></b> (🥇8 ·  ⭐ 110 · 💀) - //PR. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/spencerwooo/BITCS-Coursework">BITCS Coursework</a></b> (🥈7 ·  ⭐ 110 · 💀) -  <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code>
-- <b><a href="https://github.com/tulerfeng/BITCS-final-exam-learning-materials">BITCS-final-exam-learning-materials</a></b> (🥉5 ·  ⭐ 24 · 💀) - CS/PR. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/tulerfeng/BITCS-final-exam-learning-materials">BITCS-final-exam-learning-materials</a></b> (🥉5 ·  ⭐ 25 · 💀) - CS/PR. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/BITNP/SecretWeapon">SecretWeapon</a></b> (🥉5 ·  ⭐ 23 · 💀) - Secret weapons that arm your studies. <code>❗Unlicensed</code>
 </details>
 
