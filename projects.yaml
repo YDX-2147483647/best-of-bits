@@ -87,3 +87,15 @@ projects:
   - name: BITCS-final-exam-learning-materials
     github_id: tulerfeng/BITCS-final-exam-learning-materials
     category: learning
+
+  - name: Web VPN Converter
+    github_id: spencerwooo/bit-webvpn-converter
+    homepage: https://webvpn.swo.moe/
+    category: website
+    labels: [Web]
+
+  - name: BIT WebVPN URL 双向转换器（浏览器扩展）
+    github_id: YDX-2147483647/bit-webvpn-converter-web-extension
+    homepage: https://addons.mozilla.org/zh-CN/firefox/addon/bit-webvpn-converter/
+    category: tool
+    labels: [Web]
