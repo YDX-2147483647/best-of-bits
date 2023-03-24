@@ -115,4 +115,4 @@ If you want to create your own best-of list, we strongly recommend to follow [th
 
 ## Code of Conduct
 
-All members of the project community must abide by the [Contributor Covenant, version 2.0](./.github/CODE_OF_CONDUCT.md). Only by respecting each other we can develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a project maintainer.
+All members of the project community must abide by the [Contributor Covenant, version 2.1](./.github/CODE_OF_CONDUCT.md). Only by respecting each other we can develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a project maintainer.
