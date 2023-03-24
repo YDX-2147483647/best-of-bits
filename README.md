@@ -48,7 +48,7 @@ This curated list contains 14 awesome open-source projects with a total of 880 s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://webvpn.swo.moe/">Web VPN Converter</a></b> (🥇9 ·  ⭐ 65 · ➕) - Web VPN converter. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
+<details><summary><b><a href="https://webvpn.swo.moe/">Web VPN Converter</a></b> (🥇9 ·  ⭐ 65) - Web VPN converter. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
 
 - [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 23 · 📋 8 - 12% open · ⏱️ 21.03.2023):
 
@@ -56,7 +56,7 @@ This curated list contains 14 awesome open-source projects with a total of 880 s
 	git clone https://github.com/spencerwooo/bit-webvpn-converter
 	```
 </details>
-<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥉6 ·  ⭐ 45) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code> <code>🐍python</code></summary>
+<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥉6 ·  ⭐ 46) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code> <code>🐍python</code></summary>
 
 - [GitHub](https://github.com/flwfdd/BIT101) (👨‍💻 2 · 🔀 2 · 📋 9 - 33% open · ⏱️ 07.03.2023):
 
@@ -72,7 +72,7 @@ This curated list contains 14 awesome open-source projects with a total of 880 s
 
 <details><summary><b><a href="https://bithesis.bitnp.net">BIThesis</a></b> (🥇18 ·  ⭐ 340) - LaTeX wiki release. <code><a href="https://tldrlegal.com/search?q=LPPL-1.3c">❗️LPPL-1.3c</a></code> <code>📜LaTeX</code></summary>
 
-- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 18 · 🔀 74 · 📥 5.1K · 📋 130 - 4% open · ⏱️ 20.03.2023):
+- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 18 · 🔀 74 · 📥 5.2K · 📋 130 - 5% open · ⏱️ 20.03.2023):
 
 	```
 	git clone https://github.com/BITNP/BIThesis
@@ -86,7 +86,7 @@ This curated list contains 14 awesome open-source projects with a total of 880 s
 
 <details><summary><b><a href="https://github.com/BITNP/bitsrun">bitsrun</a></b> (🥇14 ·  ⭐ 29) - A headless login / logout script for 10.0.0.55 at BIT. 10.0.0.55.. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code> <code>🐍python</code></summary>
 
-- [GitHub](https://github.com/BITNP/bitsrun) (👨‍💻 7 · 🔀 6 · 📋 6 - 16% open · ⏱️ 16.03.2023):
+- [GitHub](https://github.com/BITNP/bitsrun) (👨‍💻 7 · 🔀 6 · 📋 6 - 16% open · ⏱️ 23.03.2023):
 
 	```
 	git clone https://github.com/BITNP/bitsrun
@@ -138,7 +138,7 @@ This curated list contains 14 awesome open-source projects with a total of 880 s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/songshangru/BIT-CS-Learning">BIT-CS-Learning</a></b> (🥈7 ·  ⭐ 99) -  <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/songshangru/BIT-CS-Learning">BIT-CS-Learning</a></b> (🥈7 ·  ⭐ 100) -  <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/songshangru/BIT-CS-Learning) (👨‍💻 3 · 🔀 40 · ⏱️ 08.02.2023):
 
