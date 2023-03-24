@@ -5,26 +5,27 @@
 </h1>
 
 <p align="center">
-    <strong>🏆 A ranked list of awesome BITs — projects related to <i>Beijing Institute of Technology<i></strong>
+    <strong>🏆 A ranked list of awesome BITs — projects related to <i>Beijing Institute of Technology</i></strong>
 </p>
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-14-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-18-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/YDX-2147483647/best-of-bits/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/YDX-2147483647/best-of-bits?color=green&label=updated"></a>
 </p>
 
-This curated list contains 14 awesome open-source projects with a total of 880 stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose), submit a [pull request](https://github.com/YDX-2147483647/best-of-bits/pulls), or directly edit the [projects.yaml](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml). Contributions are very welcome!
+这是一个北京理工大学相关的精选列表，包含 5 类 18 个开源项目，它们总计获得了 1K 颗星。这些项目会按质量排名，分数根据 GitHub 和各种包管理器自动计算，每周更新。您可以随时添加或更新项目：新建[议题](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose)、提交[拉取请求](https://github.com/YDX-2147483647/best-of-bits/pulls)或直接编辑[`projects.yaml`](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)——都非常欢迎！
 
-> 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
+> 🧙‍♂️ 探索其它 [best-of lists](https://best-of.org)，或者[自己创建一个](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md)。
 
 ## Contents
 
 - [🌏网站](#) _2 projects_
 - [📁模板](#) _1 projects_
-- [⚒️工具](#) _5 projects_
+- [⚒️工具](#) _7 projects_
 - [📚学习资料](#) _6 projects_
+- [🐱‍🐉杂项](#) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -50,7 +51,7 @@ This curated list contains 14 awesome open-source projects with a total of 880 s
 
 <details><summary><b><a href="https://webvpn.swo.moe/">Web VPN Converter</a></b> (🥇9 ·  ⭐ 65) - Web VPN converter. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
 
-- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 23 · 📋 8 - 12% open · ⏱️ 21.03.2023):
+- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 23 · 📋 8 - 12% open · ⏱️ 24.03.2023):
 
 	```
 	git clone https://github.com/spencerwooo/bit-webvpn-converter
@@ -72,7 +73,7 @@ This curated list contains 14 awesome open-source projects with a total of 880 s
 
 <details><summary><b><a href="https://bithesis.bitnp.net">BIThesis</a></b> (🥇18 ·  ⭐ 340) - LaTeX wiki release. <code><a href="https://tldrlegal.com/search?q=LPPL-1.3c">❗️LPPL-1.3c</a></code> <code>📜LaTeX</code></summary>
 
-- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 18 · 🔀 74 · 📥 5.2K · 📋 130 - 5% open · ⏱️ 20.03.2023):
+- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 18 · 🔀 74 · 📥 5.2K · 📋 130 - 4% open · ⏱️ 24.03.2023):
 
 	```
 	git clone https://github.com/BITNP/BIThesis
@@ -84,16 +85,32 @@ This curated list contains 14 awesome open-source projects with a total of 880 s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/BITNP/bitsrun">bitsrun</a></b> (🥇14 ·  ⭐ 29) - A headless login / logout script for 10.0.0.55 at BIT. 10.0.0.55.. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code> <code>🐍python</code></summary>
+<details><summary><b><a href="https://github.com/vouv/srun">Srun</a></b> (🥇13 ·  ⭐ 82 · ➕) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>💨Go</code></summary>
+
+- [GitHub](https://github.com/vouv/srun) (👨‍💻 5 · 🔀 22 · 📥 990 · ⏱️ 17.10.2022):
+
+	```
+	git clone https://github.com/vouv/srun
+	```
+</details>
+<details><summary><b><a href="https://github.com/BITNP/bitsrun">bitsrun</a></b> (🥇13 ·  ⭐ 29 · 📉) - A headless login / logout script for 10.0.0.55 at BIT... <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code> <code>🐍python</code></summary>
 
 - [GitHub](https://github.com/BITNP/bitsrun) (👨‍💻 7 · 🔀 6 · 📋 6 - 16% open · ⏱️ 23.03.2023):
 
 	```
 	git clone https://github.com/BITNP/bitsrun
 	```
-- [PyPi](https://pypi.org/project/bitsrun) (📥 150 / month):
+- [PyPi](https://pypi.org/project/bitsrun) (📥 130 / month):
 	```
 	pip install bitsrun
+	```
+</details>
+<details><summary><b><a href="https://github.com/YoungKlaus/BIT_Auto_Leave">BIT自动请假</a></b> (🥈5 ·  ⭐ 29 · 🐣) -  <code>❗Unlicensed</code> <code>🐍python</code></summary>
+
+- [GitHub](https://github.com/YoungKlaus/BIT_Auto_Leave) (🔀 28 · ⏱️ 08.11.2022):
+
+	```
+	git clone https://github.com/YoungKlaus/BIT_Auto_Leave
 	```
 </details>
 <details><summary><b><a href="https://ydx-2147483647.github.io/BIT-enhanced/">BIT-enhanced</a></b> (🥈5 ·  ⭐ 4) - BIT. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code>🕸️Web</code></summary>
@@ -160,6 +177,17 @@ This curated list contains 14 awesome open-source projects with a total of 880 s
 - <b><a href="https://github.com/spencerwooo/BITCS-Coursework">BITCS Coursework</a></b> (🥈7 ·  ⭐ 110 · 💀) -  <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code>
 - <b><a href="https://github.com/tulerfeng/BITCS-final-exam-learning-materials">BITCS-final-exam-learning-materials</a></b> (🥉5 ·  ⭐ 25 · 💀) - CS/PR. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/BITNP/SecretWeapon">SecretWeapon</a></b> (🥉5 ·  ⭐ 23 · 💀) - Secret weapons that arm your studies. <code>❗Unlicensed</code>
+</details>
+<br>
+
+## 🐱‍🐉杂项
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary>Show 2 hidden projects...</summary>
+
+- <b><a href="https://github.com/jincao2013/BIT-Titled-Letter-Paper">BIT-Titled-Letter-Paper</a></b> (🥇5 ·  ⭐ 10 · 💀) - Beijing institute of technology titled letter paper (). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/BITCS1958/BITCS-Visual-image-recognition-system">北京理工大学计算机学院视觉形象系统</a></b> (🥉3 ·  ⭐ 17 · 💀) -  <code>❗Unlicensed</code>
 </details>
 
 ---
