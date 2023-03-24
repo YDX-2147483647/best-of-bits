@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong>🏆 A ranked list of awesome BITs — projects related to <i>Beijing Institute of Technology<i></strong>
+    <strong>🏆 A ranked list of awesome BITs — projects related to <i>Beijing Institute of Technology</i></strong>
 </p>
 
 <p align="center">
@@ -15,6 +15,6 @@
     <a href="https://github.com/YDX-2147483647/best-of-bits/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/YDX-2147483647/best-of-bits?color=green&label=updated"></a>
 </p>
 
-This curated list contains {project_count} awesome open-source projects with a total of {stars_count} stars grouped into {category_count} categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose), submit a [pull request](https://github.com/YDX-2147483647/best-of-bits/pulls), or directly edit the [projects.yaml](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml). Contributions are very welcome!
+这是一个北京理工大学相关的精选列表，包含 {category_count} 类 {project_count} 个开源项目，它们总计获得了 {stars_count} 颗星。这些项目会按质量排名，分数根据 GitHub 和各种包管理器自动计算，每周更新。您可以随时添加或更新项目：新建[议题](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose)、提交[拉取请求](https://github.com/YDX-2147483647/best-of-bits/pulls)或直接编辑[`projects.yaml`](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)——都非常欢迎！
 
-> 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
+> 🧙‍♂️ 探索其它 [best-of lists](https://best-of.org)，或者[自己创建一个](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md)。
