@@ -17,6 +17,8 @@ categories:
     title: ⚒️工具
   - category: learning
     title: 📚学习资料
+  - category: misc
+    title: 🐱‍🐉杂项
 
 labels:
   - label: latex
@@ -25,6 +27,8 @@ labels:
     name: 🐍python
   - label: web
     name: 🕸️Web
+  - label: go
+    name: 💨Go
 
 projects:
   - name: BIT101
@@ -99,3 +103,21 @@ projects:
     homepage: https://addons.mozilla.org/zh-CN/firefox/addon/bit-webvpn-converter/
     category: tool
     labels: [Web]
+
+  - name: BIT自动请假
+    github_id: YoungKlaus/BIT_Auto_Leave
+    category: tool
+    labels: [python]
+
+  - name: Srun
+    github_id: vouv/srun
+    category: tool
+    labels: [go]
+
+  - name: 北京理工大学计算机学院视觉形象系统
+    github_id: BITCS1958/BITCS-Visual-image-recognition-system
+    category: misc
+
+  - name: BIT-Titled-Letter-Paper
+    github_id: jincao2013/BIT-Titled-Letter-Paper
+    category: misc
