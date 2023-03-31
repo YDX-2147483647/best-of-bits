@@ -49,17 +49,17 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://webvpn.swo.moe/">Web VPN Converter</a></b> (🥇9 ·  ⭐ 65) - Web VPN converter. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
+<details><summary><b><a href="https://webvpn.swo.moe/">Web VPN Converter</a></b> (🥇10 ·  ⭐ 66 · 📈) - Web VPN converter. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
 
-- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 23 · 📋 8 - 12% open · ⏱️ 24.03.2023):
+- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 23 · 📋 8 - 12% open · ⏱️ 30.03.2023):
 
 	```
 	git clone https://github.com/spencerwooo/bit-webvpn-converter
 	```
 </details>
-<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥉6 ·  ⭐ 46) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code> <code>🐍python</code></summary>
+<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥉7 ·  ⭐ 47 · 📈) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code> <code>🐍python</code></summary>
 
-- [GitHub](https://github.com/flwfdd/BIT101) (👨‍💻 2 · 🔀 2 · 📋 9 - 33% open · ⏱️ 07.03.2023):
+- [GitHub](https://github.com/flwfdd/BIT101) (👨‍💻 2 · 🔀 3 · 📋 9 - 33% open · ⏱️ 07.03.2023):
 
 	```
 	git clone https://github.com/flwfdd/BIT101
@@ -73,7 +73,7 @@
 
 <details><summary><b><a href="https://bithesis.bitnp.net">BIThesis</a></b> (🥇18 ·  ⭐ 340) - LaTeX wiki release. <code><a href="https://tldrlegal.com/search?q=LPPL-1.3c">❗️LPPL-1.3c</a></code> <code>📜LaTeX</code></summary>
 
-- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 18 · 🔀 74 · 📥 5.2K · 📋 130 - 4% open · ⏱️ 24.03.2023):
+- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 18 · 🔀 76 · 📥 5.2K · 📋 130 - 3% open · ⏱️ 24.03.2023):
 
 	```
 	git clone https://github.com/BITNP/BIThesis
@@ -85,22 +85,22 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/vouv/srun">Srun</a></b> (🥇13 ·  ⭐ 82 · ➕) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>💨Go</code></summary>
+<details><summary><b><a href="https://github.com/vouv/srun">Srun</a></b> (🥇13 ·  ⭐ 83) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>💨Go</code></summary>
 
-- [GitHub](https://github.com/vouv/srun) (👨‍💻 5 · 🔀 22 · 📥 990 · ⏱️ 17.10.2022):
+- [GitHub](https://github.com/vouv/srun) (👨‍💻 5 · 🔀 22 · 📥 1K · ⏱️ 17.10.2022):
 
 	```
 	git clone https://github.com/vouv/srun
 	```
 </details>
-<details><summary><b><a href="https://github.com/BITNP/bitsrun">bitsrun</a></b> (🥇13 ·  ⭐ 29 · 📉) - A headless login / logout script for 10.0.0.55 at BIT... <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code> <code>🐍python</code></summary>
+<details><summary><b><a href="https://github.com/BITNP/bitsrun">bitsrun</a></b> (🥇13 ·  ⭐ 29) - A headless login / logout script for 10.0.0.55 at BIT. 10.0.0.55.. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code> <code>🐍python</code></summary>
 
 - [GitHub](https://github.com/BITNP/bitsrun) (👨‍💻 7 · 🔀 6 · 📋 6 - 16% open · ⏱️ 23.03.2023):
 
 	```
 	git clone https://github.com/BITNP/bitsrun
 	```
-- [PyPi](https://pypi.org/project/bitsrun) (📥 130 / month):
+- [PyPi](https://pypi.org/project/bitsrun) (📥 97 / month):
 	```
 	pip install bitsrun
 	```
@@ -157,13 +157,13 @@
 
 <details><summary><b><a href="https://github.com/songshangru/BIT-CS-Learning">BIT-CS-Learning</a></b> (🥈7 ·  ⭐ 100) -  <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/songshangru/BIT-CS-Learning) (👨‍💻 3 · 🔀 40 · ⏱️ 08.02.2023):
+- [GitHub](https://github.com/songshangru/BIT-CS-Learning) (👨‍💻 3 · 🔀 41 · ⏱️ 08.02.2023):
 
 	```
 	git clone https://github.com/songshangru/BIT-CS-Learning
 	```
 </details>
-<details><summary><b><a href="https://github.com/Robin-WZQ/BIT-AI-Review">北京理工大学-本科-人工智能专业-通关经验包</a></b> (🥉6 ·  ⭐ 24) - star. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Robin-WZQ/BIT-AI-Review">北京理工大学-本科-人工智能专业-通关经验包</a></b> (🥉6 ·  ⭐ 26) - star. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/Robin-WZQ/BIT-AI-Review) (👨‍💻 3 · 🔀 5 · 📋 2 - 50% open · ⏱️ 02.03.2023):
 
@@ -175,7 +175,7 @@
 
 - <b><a href="https://github.com/xiabee/BIT-CS">BIT-CS</a></b> (🥇8 ·  ⭐ 110 · 💀) - //PR. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/spencerwooo/BITCS-Coursework">BITCS Coursework</a></b> (🥈7 ·  ⭐ 110 · 💀) -  <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code>
-- <b><a href="https://github.com/tulerfeng/BITCS-final-exam-learning-materials">BITCS-final-exam-learning-materials</a></b> (🥉5 ·  ⭐ 25 · 💀) - CS/PR. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/tulerfeng/BITCS-final-exam-learning-materials">BITCS-final-exam-learning-materials</a></b> (🥉5 ·  ⭐ 26 · 💀) - CS/PR. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/BITNP/SecretWeapon">SecretWeapon</a></b> (🥉5 ·  ⭐ 23 · 💀) - Secret weapons that arm your studies. <code>❗Unlicensed</code>
 </details>
 <br>
