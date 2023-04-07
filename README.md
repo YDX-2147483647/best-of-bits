@@ -49,15 +49,15 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://webvpn.swo.moe/">Web VPN Converter</a></b> (🥇10 ·  ⭐ 66 · 📈) - Web VPN converter. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
+<details><summary><b><a href="https://webvpn.swo.moe/">Web VPN Converter</a></b> (🥇10 ·  ⭐ 66) - Web VPN converter. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
 
-- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 23 · 📋 8 - 12% open · ⏱️ 30.03.2023):
+- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 23 · 📋 8 - 12% open · ⏱️ 04.04.2023):
 
 	```
 	git clone https://github.com/spencerwooo/bit-webvpn-converter
 	```
 </details>
-<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥉7 ·  ⭐ 47 · 📈) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code> <code>🐍python</code></summary>
+<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥉7 ·  ⭐ 48) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code> <code>🐍python</code></summary>
 
 - [GitHub](https://github.com/flwfdd/BIT101) (👨‍💻 2 · 🔀 3 · 📋 9 - 33% open · ⏱️ 07.03.2023):
 
@@ -71,9 +71,9 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://bithesis.bitnp.net">BIThesis</a></b> (🥇18 ·  ⭐ 340) - LaTeX wiki release. <code><a href="https://tldrlegal.com/search?q=LPPL-1.3c">❗️LPPL-1.3c</a></code> <code>📜LaTeX</code></summary>
+<details><summary><b><a href="https://bithesis.bitnp.net">BIThesis</a></b> (🥇18 ·  ⭐ 350) - LaTeX wiki release. <code><a href="https://tldrlegal.com/search?q=LPPL-1.3c">❗️LPPL-1.3c</a></code> <code>📜LaTeX</code></summary>
 
-- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 18 · 🔀 76 · 📥 5.2K · 📋 130 - 3% open · ⏱️ 24.03.2023):
+- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 18 · 🔀 76 · 📥 5.3K · 📋 130 - 3% open · ⏱️ 06.04.2023):
 
 	```
 	git clone https://github.com/BITNP/BIThesis
@@ -85,27 +85,27 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/vouv/srun">Srun</a></b> (🥇13 ·  ⭐ 83) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>💨Go</code></summary>
+<details><summary><b><a href="https://github.com/BITNP/bitsrun">bitsrun</a></b> (🥇14 ·  ⭐ 30 · 📈) - A headless login / logout script for 10.0.0.55 at BIT... <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code> <code>🐍python</code></summary>
 
-- [GitHub](https://github.com/vouv/srun) (👨‍💻 5 · 🔀 22 · 📥 1K · ⏱️ 17.10.2022):
+- [GitHub](https://github.com/BITNP/bitsrun) (👨‍💻 7 · 🔀 6 · 📋 6 - 16% open · ⏱️ 04.04.2023):
+
+	```
+	git clone https://github.com/BITNP/bitsrun
+	```
+- [PyPi](https://pypi.org/project/bitsrun) (📥 170 / month):
+	```
+	pip install bitsrun
+	```
+</details>
+<details><summary><b><a href="https://github.com/vouv/srun">Srun</a></b> (🥈13 ·  ⭐ 84) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>💨Go</code></summary>
+
+- [GitHub](https://github.com/vouv/srun) (👨‍💻 5 · 🔀 23 · 📥 1K · ⏱️ 17.10.2022):
 
 	```
 	git clone https://github.com/vouv/srun
 	```
 </details>
-<details><summary><b><a href="https://github.com/BITNP/bitsrun">bitsrun</a></b> (🥇13 ·  ⭐ 29) - A headless login / logout script for 10.0.0.55 at BIT. 10.0.0.55.. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code> <code>🐍python</code></summary>
-
-- [GitHub](https://github.com/BITNP/bitsrun) (👨‍💻 7 · 🔀 6 · 📋 6 - 16% open · ⏱️ 23.03.2023):
-
-	```
-	git clone https://github.com/BITNP/bitsrun
-	```
-- [PyPi](https://pypi.org/project/bitsrun) (📥 97 / month):
-	```
-	pip install bitsrun
-	```
-</details>
-<details><summary><b><a href="https://github.com/YoungKlaus/BIT_Auto_Leave">BIT自动请假</a></b> (🥈5 ·  ⭐ 29 · 🐣) -  <code>❗Unlicensed</code> <code>🐍python</code></summary>
+<details><summary><b><a href="https://github.com/YoungKlaus/BIT_Auto_Leave">BIT自动请假</a></b> (🥈5 ·  ⭐ 29) -  <code>❗Unlicensed</code> <code>🐍python</code></summary>
 
 - [GitHub](https://github.com/YoungKlaus/BIT_Auto_Leave) (🔀 28 · ⏱️ 08.11.2022):
 
@@ -123,20 +123,20 @@
 </details>
 <details><summary><b><a href="https://haobit.top/dev/site/notice/">Bulletin Issues Transferred</a></b> (🥈5 ·  ⭐ 1) - BITRSS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code></summary>
 
-- [GitHub](https://github.com/YDX-2147483647/bulletin-issues-transferred) (👨‍💻 2 · 📋 13 - 46% open · ⏱️ 17.03.2023):
+- [GitHub](https://github.com/YDX-2147483647/bulletin-issues-transferred) (👨‍💻 2 · 📋 14 - 50% open · ⏱️ 17.03.2023):
 
 	```
 	git clone https://github.com/YDX-2147483647/bulletin-issues-transferred
 	```
 </details>
-<details><summary><b><a href="https://github.com/YDX-2147483647/bus-interrogation-tunnel">Bus Interrogation Tunnel</a></b> (🥉4 ·  ⭐ 1) - BIT bitbus. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🐍python</code></summary>
+<details><summary><b><a href="https://github.com/YDX-2147483647/bus-interrogation-tunnel">Bus Interrogation Tunnel</a></b> (🥉4 ·  ⭐ 1 · 🐣) - BIT bitbus. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🐍python</code></summary>
 
 - [GitHub](https://github.com/YDX-2147483647/bus-interrogation-tunnel) (⏱️ 14.03.2023):
 
 	```
 	git clone https://github.com/YDX-2147483647/bus-interrogation-tunnel
 	```
-- [PyPi](https://pypi.org/project/bus-interrogation-tunnel) (📥 130 / month):
+- [PyPi](https://pypi.org/project/bus-interrogation-tunnel) (📥 140 / month):
 	```
 	pip install bus-interrogation-tunnel
 	```
@@ -155,15 +155,15 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/songshangru/BIT-CS-Learning">BIT-CS-Learning</a></b> (🥈7 ·  ⭐ 100) -  <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/songshangru/BIT-CS-Learning">BIT-CS-Learning</a></b> (🥈7 ·  ⭐ 110) -  <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/songshangru/BIT-CS-Learning) (👨‍💻 3 · 🔀 41 · ⏱️ 08.02.2023):
+- [GitHub](https://github.com/songshangru/BIT-CS-Learning) (👨‍💻 3 · 🔀 42 · ⏱️ 08.02.2023):
 
 	```
 	git clone https://github.com/songshangru/BIT-CS-Learning
 	```
 </details>
-<details><summary><b><a href="https://github.com/Robin-WZQ/BIT-AI-Review">北京理工大学-本科-人工智能专业-通关经验包</a></b> (🥉6 ·  ⭐ 26) - star. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Robin-WZQ/BIT-AI-Review">北京理工大学-本科-人工智能专业-通关经验包</a></b> (🥉6 ·  ⭐ 27) - star. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/Robin-WZQ/BIT-AI-Review) (👨‍💻 3 · 🔀 5 · 📋 2 - 50% open · ⏱️ 02.03.2023):
 
