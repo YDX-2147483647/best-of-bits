@@ -51,13 +51,13 @@
 
 <details><summary><b><a href="https://webvpn.swo.moe/">Web VPN Converter</a></b> (🥇10 ·  ⭐ 66) - Web VPN converter. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
 
-- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 23 · 📋 8 - 12% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 23 · 📋 8 - 12% open · ⏱️ 12.04.2023):
 
 	```
 	git clone https://github.com/spencerwooo/bit-webvpn-converter
 	```
 </details>
-<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥉7 ·  ⭐ 48) - 百丽宫攻略、课程评价及资料、课表、查成绩。. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code> <code>🐍python</code></summary>
+<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥉7 ·  ⭐ 49) - 百丽宫攻略、课程评价及资料、课表、查成绩。. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code> <code>🐍python</code></summary>
 
 - [GitHub](https://github.com/flwfdd/BIT101) (👨‍💻 2 · 🔀 3 · 📋 9 - 33% open · ⏱️ 07.03.2023):
 
@@ -71,9 +71,9 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://bithesis.bitnp.net">BIThesis</a></b> (🥇18 ·  ⭐ 360) - 📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和.. <code><a href="https://tldrlegal.com/search?q=LPPL-1.3c">❗️LPPL-1.3c</a></code> <code>📜LaTeX</code></summary>
+<details><summary><b><a href="https://bithesis.bitnp.net">BIThesis</a></b> (🥇18 ·  ⭐ 370) - 📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和.. <code><a href="https://tldrlegal.com/search?q=LPPL-1.3c">❗️LPPL-1.3c</a></code> <code>📜LaTeX</code></summary>
 
-- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 18 · 🔀 79 · 📥 5.5K · 📋 140 - 5% open · ⏱️ 07.04.2023):
+- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 19 · 🔀 81 · 📥 5.6K · 📋 140 - 4% open · ⏱️ 13.04.2023):
 
 	```
 	git clone https://github.com/BITNP/BIThesis
@@ -87,12 +87,12 @@
 
 <details><summary><b><a href="https://github.com/BITNP/bitsrun">bitsrun</a></b> (🥇14 ·  ⭐ 31) - A headless login / logout script for 10.0.0.55 at BIT. 北京理工大学.. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code> <code>🐍python</code></summary>
 
-- [GitHub](https://github.com/BITNP/bitsrun) (👨‍💻 7 · 🔀 6 · 📋 6 - 16% open · ⏱️ 04.04.2023):
+- [GitHub](https://github.com/BITNP/bitsrun) (👨‍💻 7 · 🔀 6 · 📋 7 - 28% open · ⏱️ 04.04.2023):
 
 	```
 	git clone https://github.com/BITNP/bitsrun
 	```
-- [PyPi](https://pypi.org/project/bitsrun) (📥 180 / month):
+- [PyPi](https://pypi.org/project/bitsrun) (📥 170 / month):
 	```
 	pip install bitsrun
 	```
@@ -105,7 +105,15 @@
 	git clone https://github.com/vouv/srun
 	```
 </details>
-<details><summary><b><a href="https://github.com/YoungKlaus/BIT_Auto_Leave">BIT自动请假</a></b> (🥈5 ·  ⭐ 29) - 北京理工大学自动请假. <code>❗Unlicensed</code> <code>🐍python</code></summary>
+<details><summary><b><a href="https://haobit.top/dev/site/notice/">Bulletin Issues Transferred</a></b> (🥈6 ·  ⭐ 2 · 📈) - 汇总BIT各种网站的通知。（以及钉钉、RSS插件等）. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code></summary>
+
+- [GitHub](https://github.com/YDX-2147483647/bulletin-issues-transferred) (👨‍💻 3 · 📋 14 - 35% open · ⏱️ 13.04.2023):
+
+	```
+	git clone https://github.com/YDX-2147483647/bulletin-issues-transferred
+	```
+</details>
+<details><summary><b><a href="https://github.com/YoungKlaus/BIT_Auto_Leave">BIT自动请假</a></b> (🥉5 ·  ⭐ 29) - 北京理工大学自动请假. <code>❗Unlicensed</code> <code>🐍python</code></summary>
 
 - [GitHub](https://github.com/YoungKlaus/BIT_Auto_Leave) (🔀 28 · ⏱️ 08.11.2022):
 
@@ -113,20 +121,12 @@
 	git clone https://github.com/YoungKlaus/BIT_Auto_Leave
 	```
 </details>
-<details><summary><b><a href="https://ydx-2147483647.github.io/BIT-enhanced/">BIT-enhanced</a></b> (🥈5 ·  ⭐ 4) - 一些方便大家使用 BIT 相关网站的用户脚本和用户样式表。. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code>🕸️Web</code></summary>
+<details><summary><b><a href="https://ydx-2147483647.github.io/BIT-enhanced/">BIT-enhanced</a></b> (🥉4 ·  ⭐ 4 · 📉) - 一些方便大家使用 BIT 相关网站的用户脚本和用户样式表。. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code>🕸️Web</code></summary>
 
-- [GitHub](https://github.com/YDX-2147483647/BIT-enhanced) (👨‍💻 3 · ⏱️ 16.03.2023):
+- [GitHub](https://github.com/YDX-2147483647/BIT-enhanced) (👨‍💻 2 · ⏱️ 16.03.2023):
 
 	```
 	git clone https://github.com/YDX-2147483647/BIT-enhanced
-	```
-</details>
-<details><summary><b><a href="https://haobit.top/dev/site/notice/">Bulletin Issues Transferred</a></b> (🥈5 ·  ⭐ 1) - 汇总BIT各种网站的通知。（以及钉钉、RSS插件等）. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code></summary>
-
-- [GitHub](https://github.com/YDX-2147483647/bulletin-issues-transferred) (👨‍💻 2 · 📋 14 - 50% open · ⏱️ 17.03.2023):
-
-	```
-	git clone https://github.com/YDX-2147483647/bulletin-issues-transferred
 	```
 </details>
 <details><summary><b><a href="https://github.com/YDX-2147483647/bus-interrogation-tunnel">Bus Interrogation Tunnel</a></b> (🥉4 ·  ⭐ 1 · 🐣) - BIT 班车查询接口。（bitbus）🚌. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🐍python</code></summary>
@@ -143,7 +143,7 @@
 </details>
 <details><summary><b><a href="https://addons.mozilla.org/zh-CN/firefox/addon/bit-webvpn-converter/">BIT WebVPN URL 双向转换器（浏览器扩展）</a></b> (🥉2 · 🐣) - BIT WebVPN URL 双向转换器。 （浏览器扩展）. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
 
-- [GitHub](https://github.com/YDX-2147483647/bit-webvpn-converter-web-extension) (⏱️ 14.11.2022):
+- [GitHub](https://github.com/YDX-2147483647/bit-webvpn-converter-web-extension) (⏱️ 11.04.2023):
 
 	```
 	git clone https://github.com/YDX-2147483647/bit-webvpn-converter-web-extension
