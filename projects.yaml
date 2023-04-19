@@ -17,6 +17,8 @@ categories:
     title: ⚒️工具
   - category: learning
     title: 📚学习资料
+  - category: exp
+    title: 🧪实验／实践
   - category: misc
     title: 🐱‍🐉杂项
 
@@ -29,6 +31,10 @@ labels:
     name: 🕸️Web
   - label: go
     name: 💨Go
+  - label: hdl
+    name: ⛓️HDL
+  - label: asm
+    name: 🦘Assembly
 
 projects:
   - name: BIT101
@@ -132,3 +138,103 @@ projects:
     github_id: coffeehat/BIT-srun-login-script
     category: tool
     labels: [python]
+
+  - name: BIT睿信空间预约
+    github_id: bitrxc/bitrxc-server
+    category: website
+    homepage: https://bitrxc.com
+    labels: [web]
+
+  - name: CTFd-owl
+    github_id: BIT-NSC/CTFd-owl
+    category: misc
+    labels: [python, web]
+
+  - name: 片上系统设计
+    github_id: silenuszhi/SoC_Design_Archive
+    category: exp
+    labels: [hdl]
+
+  - name: MIPS 指令集 CPU 设计
+    github_id: bit-mips/bitmips_experiments
+    category: exp
+    labels: [asm, hdl]
+
+  - name: 针对参加龙芯杯的若干建议
+    github_id: Silverster98/bit_nscscc_suggestion
+    category: exp
+
+  - name: 未来精工生存指南
+    homepage: https://bitft-wiki.vercel.app
+    github_id: TT2TER/BITFTechWiki
+    category: website
+
+  - name: HowMuch
+    github_id: RaulWei/HowMuch
+    category: tool
+    labels: [python, web]
+
+  - name: 北京理工大学大学生职业发展协会综合签到系统
+    homepage: http://signsys.zhbitscda.com/
+    github_id: zhbitscda/SCDA_signsys_latest
+    category: website
+
+  - name: BIT-thesis-template
+    github_id: PolarLion/BIT-thesis-template
+    category: template
+    labels: [latex]
+
+  - name: BIT-Thesis
+    github_id: BIT-thesis/LaTeX-template
+    category: template
+    labels: [latex]
+
+  - name: LaTeX-materials
+    github_id: BIT-thesis/LaTeX-materials
+    category: learning
+    labels: [latex]
+
+  - name: BIT-thesis-LaTex
+    github_id: jiandahao/BIT-thesis-LaTex
+    category: template
+    labels: [latex]
+
+  - name: BITthesis
+    github_id: qiuzhu/BITthesis
+    category: template
+    labels: [latex]
+
+  - name: BIT_Thesis
+    github_id: zhang-datou/BIT_Thesis
+    category: template
+    labels: [latex]
+
+  - name: BIT_TechRep_CN
+    github_id: yuzhangbit/BIT_TechRep_CN
+    category: template
+    labels: [latex]
+
+  - name: BIT-Automation-Proposal-Report
+    github_id: CharlieLeee/BIT-Automation-Proposal-Report
+    category: template
+    labels: [latex]
+
+  - name: BIThesis-wiki
+    github_id: BITNP/BIThesis-wiki
+    category: website
+    labels: [latex]
+
+  - name: BIT-Thesis-Bachelor
+    github_id: wanicca/BIT-Thesis-Bachelor
+    category: template
+    labels: [latex]
+
+  - name: BIT-Report-LaTeX
+    github_id: CharlieLeee/BIT-Report-LaTeX
+    category: template
+    labels: [latex]
+
+  - name: FDUZS/BIThesis
+    github_id: FDUZS/BIThesis
+    category: template
+    labels: [latex]
