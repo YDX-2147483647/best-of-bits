@@ -121,3 +121,14 @@ projects:
   - name: BIT-Titled-Letter-Paper
     github_id: jincao2013/BIT-Titled-Letter-Paper
     category: misc
+
+  - name: bit-srun-cli
+    github_id: fangli-li/bit-srun-cli
+    pypi_id: srun-bit
+    category: tool
+    labels: [python]
+
+  - name: BIT-srun-login-script
+    github_id: coffeehat/BIT-srun-login-script
+    category: tool
+    labels: [python]
