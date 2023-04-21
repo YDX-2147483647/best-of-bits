@@ -1,0 +1,68 @@
+name: "📦 请求添加新项目"
+description: "想向 bytes 中添加某个项目吗？"
+title: "新增项目："
+labels: ["add-project"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请确保这一项目尚未被收录，而且还没有其他人请求。
+        （已收录的项目在 [projects.yaml](https://github.com/YDX-2147483647/best-of-bits/blob/main/projects.yaml)、
+        [README.md](https://github.com/YDX-2147483647/best-of-bits/blob/main/README.md) 两个文件，
+        其他人的请求在[议题](https://github.com/YDX-2147483647/best-of-bits/issues?q=is%3Aopen+label%3Aadd-project)）
+
+  - type: markdown
+    attributes:
+      value: |
+        ### 项目细节
+
+        请尽可能填写下列信息，不过填不全也没关系。
+
+  - type: input
+    id: name
+    attributes:
+      label: 项目名称
+    validations:
+      required: true
+  - type: input
+    id: github
+    attributes:
+      label: GitHub URL
+  - type: dropdown
+    id: category
+    attributes:
+      label: 类别
+      description: 从已有类别中选，参考`README.md`或`projects.yaml`里的`categories`
+      options:
+        - 🌏网站`website`
+        - 📁模板`template`
+        - ⚒️工具`tool`
+        - 📚学习资料`learning`
+        - 🧪实验／实践`exp`
+        - 🐱‍🐉杂项`misc`
+  - type: input
+    id: license
+    attributes:
+      label: 类别
+  - type: textarea
+    id: package
+    attributes:
+      label: 包管理器
+      description: |
+        填写各种包管理器收录的 ID，包管理器如 npm、pypi、conda、dockerhub、maven、apt……
+      placeholder: |
+        pypi: tensorflow
+        conda: conda-forge/tensorflow
+        dockerhub: tensorflow/tensorflow
+
+  - type: markdown
+    attributes:
+      value: |
+        ### 补充
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 补充信息
+      description: 如有其它相关信息，可在这里注明。
+      placeholder: （可选）
