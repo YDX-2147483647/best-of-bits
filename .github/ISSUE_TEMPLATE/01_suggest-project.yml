@@ -7,9 +7,8 @@ body:
     attributes:
       value: |
         请确保这一项目尚未被收录，而且还没有其他人请求。
-        （已收录的项目在 [projects.yaml](https://github.com/YDX-2147483647/best-of-bits/blob/main/projects.yaml)、
-        [README.md](https://github.com/YDX-2147483647/best-of-bits/blob/main/README.md) 两个文件，
-        其他人的请求在[议题](https://github.com/YDX-2147483647/best-of-bits/issues?q=is%3Aopen+label%3Aadd-project)）
+
+        （已收录的项目在 [projects.yaml](https://github.com/YDX-2147483647/best-of-bits/blob/main/projects.yaml)、[README.md](https://github.com/YDX-2147483647/best-of-bits/blob/main/README.md) 两个文件，其他人的请求在[议题](https://github.com/YDX-2147483647/best-of-bits/issues?q=is%3Aopen+label%3Aadd-project)）
 
   - type: markdown
     attributes:
@@ -21,7 +20,7 @@ body:
   - type: input
     id: name
     attributes:
-      label: 项目名称
+      label: 名称
     validations:
       required: true
   - type: input
@@ -34,16 +33,17 @@ body:
       label: 类别
       description: 从已有类别中选，参考`README.md`或`projects.yaml`里的`categories`
       options:
-        - 🌏网站`website`
-        - 📁模板`template`
-        - ⚒️工具`tool`
-        - 📚学习资料`learning`
-        - 🧪实验／实践`exp`
-        - 🐱‍🐉杂项`misc`
+        - 🌏网站
+        - 📁模板
+        - ⚒️工具
+        - 📚学习资料
+        - 🧪实验／实践
+        - 🐱‍🐉杂项
   - type: input
     id: license
     attributes:
-      label: 类别
+      label: 许可证
+      placeholder: MIT
   - type: textarea
     id: package
     attributes:
