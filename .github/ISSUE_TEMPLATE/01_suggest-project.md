@@ -1,25 +1,26 @@
 ---
-name: "📦 Suggest a project"
-about: "Do you like to suggest a project that hasn't been added to this best-of list yet?"
-title: 'Add project: '
+name: "📦 请求添加新项目"
+about: "想向 bytes 中添加某个项目吗？"
+title: '新增项目：'
 labels: 'add-project'
 assignees: ''
-
 ---
 
 <!--
-Please make sure that the project was not already added or suggested to this best-of list. You can ensure this by searching the projects.yaml, the README.md, and the issue list.
+请确保这一项目尚未被收录，而且还没有其他人请求。
+（已收录的项目在 projects.yaml、README.md 两个文件，其他人的请求在议题）
 -->
 
-**Project details:**
-<!-- Please fill out as much of the following information as possible. -->
+### 项目细节
 
-- Project Name:
-- Github URL:
-- Category:  <!-- Choose one of the existing categories from the README.md or projects.yaml file -->
-- License:
-- Package Managers: <!-- Add the IDs for every package manager that the project is available on (e.g. npm, pypi, conda, dockerhub, maven, apt, ...). For example: pypi:tensorflow conda:conda-forge/tensorflow dockerhub:tensorflow/tensorflow -->
+<!-- 请尽可能填写下列信息，不过填不全也没关系。 -->
 
-**Additional context:**
+- 项目名称：
+- GitHub URL：
+- 类别： <!-- 从已有类别中选，参考 README.md 或 projects.yaml 里的 categories -->
+- 许可证：
+- 包管理器： <!-- 填写各种包管理器收录的 ID，包管理器如 npm、pypi、conda、dockerhub、maven、apt…… 参考格式：pypi:tensorflow conda:conda-forge/tensorflow dockerhub:tensorflow/tensorflow -->
 
-<!-- Optional. Add any other context or additional information about the project. -->
+### 补充
+
+<!-- 可选。如有其它相关信息，可在这里注明。 -->

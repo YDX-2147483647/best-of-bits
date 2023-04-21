@@ -1,42 +1,42 @@
 - name: add-project
   color: a2eeef
-  description: "Add new project to best-of list"
+  description: 向 bytes 添加项目
 - name: update-project
   color: a2eeef
-  description: "Update a project on the best-of list"
+  description: 更新 bytes 中的某个项目
 - name: category
   color: a2eeef
-  description: "Add or update a category to the best-of list"
+  description: 添加或更新 bytes 的类别
 - name: configuration
   color: a2eeef
-  description: "Issue refers to the best-of list configuration"
+  description: best-of list 配置相关
 - name: generation
   color: a2eeef
-  description: "Issue refers to the best-of markdown generation"
+  description: best-of markdown 生成相关
 - name: collection
   color: a2eeef
-  description: "Issue refers to the project metadata collection"
+  description: 项目元数据收集相关
 - name: question
   color: a2eeef
-  description: "Further information is requested"
+  description: 需要进一步信息
 - name: documentation
   color: a2eeef
-  description: "Changes to documentation"
+  description: 文档更改
 - name: bug
   color: d73a4a
-  description: "Something isn't working"
+  description: 某个东西不正常了
 - name: "good first issue"
   color: 98FF98
-  description: "Good for newcomers"
+  description: 对新人友好
 - name: "help wanted"
   color: 98FF98
-  description: "Extra attention is needed"
+  description: 需要特别帮助
 - name: invalid
   color: cfd3d7
-  description: "This doesn't seem right"
+  description: 这一议题看起来发错了
 - name: duplicate
   color: cfd3d7
-  description: "This issue or pull request already exists"
+  description: 这方面的议题或拉取请求已经存在
 - name: "further input needed"
   color: cfd3d7
-  description: "Not enough detail is provided by the creator"
+  description: 创建者未充分介绍细节
