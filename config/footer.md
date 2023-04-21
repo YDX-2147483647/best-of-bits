@@ -1,21 +1,25 @@
 
 ---
 
-## Related Resources
+## 相关资源
 
-- [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**Best-of lists**](https://best-of.org): 探索各种主题出色开源项目的 best-of lists。
 
-## Contribution
+## 贡献
 
-Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
+我们鼓励并随时欢迎您的贡献！
 
-- Open an issue by selecting one of the provided categories from the [issue page](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose) and fill in the requested information.
-- Modify the [projects.yaml](https://github.com/YDX-2147483647/best-of-bits/blob/main/projects.yaml) with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml).
+若要添加或更新项目，有如下两种方法。
 
-If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
+- 提请修改：访问[议题页面](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose)，选择类别，填写信息。
+- 直接编辑：在[`projects.yaml`](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)中增减项目，然后提交拉取请求。（可[直接用 GitHub UI 操作](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)）
 
-For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/YDX-2147483647/best-of-bits/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/YDX-2147483647/best-of-bits/blob/main/.github/CODE_OF_CONDUCT.md).
+> **Note**: 添加、更新项目的更多细节请参考[贡献者指南](https://github.com/YDX-2147483647/best-of-bits/blob/main/CONTRIBUTING.md)。参与此项目即代表遵守[贡献者公约](https://github.com/YDX-2147483647/best-of-bits/blob/main/.github/CODE_OF_CONDUCT.md)。
 
-## License
+除了项目，本列表还涉及收集元数据、生成 markdown 等。这方面的贡献请移步 [best-of-generator](https://github.com/best-of-lists/best-of-generator) 仓库或我们克隆的 [best-of-update-action](https://github.com/YDX-2147483647/best-of-update-action/tree/ascii-description) 仓库。
+
+若您想自己创建一个 best-of list，请参考[官方教程](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md)。
+
+## 许可
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
