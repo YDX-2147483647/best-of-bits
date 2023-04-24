@@ -20,6 +20,10 @@
 
 若您想自己创建一个 best-of list，请参考[官方教程](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md)。
 
+## 星标历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YDX-2147483647/best-of-bits&type=Date)](https://star-history.com/#YDX-2147483647/best-of-bits&Date)
+
 ## 许可
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
