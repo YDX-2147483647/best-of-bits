@@ -1,0 +1,31 @@
+name: "✏️ 更改现有项目"
+description: 某个项目信息不完善？少收录了包，记错许可，分错类……
+title: "更改项目："
+labels: [update-project]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 项目名称
+    validations:
+      required: true
+
+  - type: textarea
+    id: changes
+    attributes:
+      label: 更改
+      description: 要添加、更正、删除哪些信息？
+      placeholder: |
+        主页应该从 http 换成 https
+        添加 description：……
+        删除 python 标签
+        ……
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 补充信息
+      description: 如果想解释更改理由，或有其它相关信息，可在这里注明。
+      placeholder: （可选）

@@ -1,0 +1,53 @@
+name: "🏷️ 添加或更改类别"
+description: 项目分成了好几类，但分得不恰当？
+title: "分类："
+labels: [category]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: 更改类型
+      multiple: false
+      options:
+        - 添加新的类别
+        - 更改现有类别
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ### 更改
+
+        这些内容对应[`projects.yaml` → `categories`](https://github.com/best-of-lists/best-of-generator#categories)，请尽量填写，不过填不全也没关系。
+
+  - type: input
+    id: category
+    attributes:
+      label: 类别的 ID
+      description: `category`，一般是小写拉丁字母。
+      placeholder: website
+  - type: input
+    id: title
+    attributes:
+      label: 类别名称
+      description: `title`，图标 + 汉字，找图标可搜索 [Emojipedia](https://emojipedia.org/)。
+      placeholder: 🌏网站
+  - type: textarea
+    id: subtitle
+    attributes:
+      label: 类别简易介绍
+      description: `subtitle`，一两句话。
+      placeholder: （可选）
+
+  - type: markdown
+    attributes:
+      value: |
+        ### 补充
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 补充信息
+      description: 如果想解释理由，或有其它相关信息，请在这里注明。
+      placeholder: （可选）
