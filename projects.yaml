@@ -238,3 +238,8 @@ projects:
     github_id: FDUZS/BIThesis
     category: template
     labels: [latex]
+
+  - name: BitSrunLoginGo
+    github_id: Mmx233/BitSrunLoginGo
+    category: tool
+    labels: [go]
