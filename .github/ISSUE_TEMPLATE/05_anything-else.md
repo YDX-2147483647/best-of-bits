@@ -1,16 +1,12 @@
 ---
-name: "\U0001F4AC Anything else?"
-about: For questions or suggestions regarding the metadata collection or markdown generation, please refer to the best-of-lists/best-of-generator repository.
-title: ''
+name: "💬 其它问题"
+about: 其它问题请选此类，或者到 [Discussions](https://github.com/YDX-2147483647/best-of-bits/discussions)。
 labels: 'question'
-assignees: ''
-
 ---
 
 <!--
-For questions or suggestions regarding the project metadata collection or markdown generation, please refer to the best-of-generator repository: https://github.com/best-of-lists/best-of-generator
+请尽可能描述您的问题，必要时可附截图、日志、代码等等。
+
+另外，若是收集元数据、生成 markdown 方面的问题，请移步上游 best-of-generator 仓库。
+https://github.com/best-of-lists/best-of-generator
 -->
-
-**Describe the issue:**
-
-<!-- Describe your issue, but please be descriptive! Include screenshots, logs, code or other info to help explain your problem -->

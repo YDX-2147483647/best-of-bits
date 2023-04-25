@@ -1,12 +1,13 @@
 ---
-name: "⚙️ Change configuration"
-about: Do you have a suggestion for changing the configuration, e.g. allow additional licenses or adjust minimal stars?
-title: ''
+name: "⚙️ 修改配置"
+about: 想修改 best-of-generator 配置？接受某种新许可，调整隐藏项目的标准……
+title: "配置："
 labels: 'configuration'
-assignees: ''
-
 ---
 
-**Configuration Change:**
+<!--
+请介绍您认为应该怎么改。
 
-<!-- Describe your suggested configuration change. -->
+如果遇到问题，可参考 best-of-generator 文档。
+https://github.com/best-of-lists/best-of-generator#documentation
+-->
