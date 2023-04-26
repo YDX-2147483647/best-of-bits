@@ -1,118 +1,134 @@
 <!-- markdownlint-disable MD024 -->
-# Contribution Guidelines
+# 贡献者指南
 
-Thanks for your interest in contributing to our project. This page will give you a quick overview of how things are organized and, most importantly, how to get involved. Everyone is welcome to contribute, and we value everybody's contribution.
+感谢你为本项目付出宝贵时间！
 
-## Table of contents
+下面会介绍本项目如何组织，想更改时应该怎样操作。
 
-1. [Add a project](#add-a-project)
-2. [Update a project](#update-a-project)
-3. [Improve metadata collection](#improve-metadata-collection)
-4. [Improve markdown generation](#improve-markdown-generation)
-5. [Create your own best-of list](#improve-markdown-generation)
-6. [Code of conduct](#code-of-conduct)
+> **Note** 下面大多只是指导性建议；如果你知道自己想做什么，跟着感觉走即可。
 
-## Add a project
+## 新增项目
 
-If you like to suggest or add a project, choose one of the following ways:
+若要添加新项目，有如下两种方法。
 
-- Suggest a project by opening an issue: Please use the suggest project template from the [issue page](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose) and fill in the requested information.
-- Add a project by modifying the [projects.yaml](https://github.com/YDX-2147483647/best-of-bits/blob/main/projects.yaml) and submitting a pull request with your addition. This can also be done directly via the [Github UI](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml).
+- 提请修改：访问[议题页面](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose)，选择类别，填写信息。
+- 直接编辑：在[`projects.yaml`](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)中增减项目，然后提交拉取请求。（可[直接用 GitHub UI 操作](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)）
 
-Before opening an issue or pull request, please ensure that you adhere to the following guidelines:
+提交议题、拉取请求前有如下常见问题。
 
-- Please make sure that the project was not already added or suggested to this best-of list. You can ensure this by searching the projects.yaml, the Readme, and the issue list.
-- Add the project to the `projects.yaml` and never to the `README.md` file directly. Use the yaml format and the properties documented in the [project properties](#project-properties) section below to add a new project, for example:
+- 请确保这一项目尚未被收录，而且还没有其他人请求。
+
+    已收录的项目在 [projects.yaml](https://github.com/YDX-2147483647/best-of-bits/blob/main/projects.yaml)、[README.md](https://github.com/YDX-2147483647/best-of-bits/blob/main/README.md) 两个文件，其他人的请求在[议题](https://github.com/YDX-2147483647/best-of-bits/issues?q=is%3Aopen+label%3Aadd-project)，都可以搜索。
+
+- 不要直接改`README.md`，而是改`projects.yaml`。
+
+    `README.md`内容是每周 [GitHub Actions](https://github.com/YDX-2147483647/best-of-bits/actions/workflows/update-best-of-list.yml) 自动生成的，不用直接编辑。
+
+- `projects.yaml`采用 [YAML](https://quickref.me/yaml) 格式，内容见[项目属性](#项目属性)一节。
+
+    下面是个例子，可照猫画虎。
+
     ```yaml
-    - name: Tensorflow
-      github_id: tensorflow/tensorflow
-      pypi_id: tensorflow
-      conda_id: tensorflow
-      labels: ["tensorflow"]
-      category: ml-frameworks
+    - name: BIT101
+      homepage: https://bit101.cn
+      github_id: flwfdd/BIT101
+      category: website
+      labels: [Web, python]
     ```
-- Please create an individual issue or pull request for each project.
-- Please use the following title format for the issue or pull request: `Add project: project-name`.
-- If a project doesn't fit into any of the pre-existing categories, it should go under the `Others` category by not assigning any category. You can also suggest a new category via the add or update category template on the [issue page](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose).
 
-## Update a project
+- 如果要添加好几个独立的项目，请分成多个议题／拉取请求。
 
-If you like to suggest or contribute a project update, choose one of the following ways:
+- 议题、拉取请求的标题请以“新增项目：”开头。
 
-- Suggest a project update by opening an issue: Please use the update project template from the [issue page](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose) and fill in the requested information.
-- Update a project by modifying the [projects.yaml](https://github.com/YDX-2147483647/best-of-bits/blob/main/projects.yaml) and submitting a pull request with your changes. This can also be done directly via the [Github UI](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml).
+    直接使用模板即可。
 
-Before opening an issue or pull request, please ensure that you adhere to the following guidelines:
+- 如果项目哪类也不算，`category`（类别）可以留空。
 
-- Only update the project in the `projects.yaml` and never to the `README.md` file directly. Use the yaml format and the properties documented in the [project properties](#project-properties) section below to update a new project.
-- Please create an individual issue or pull request for each project.
-- Please use the following title format for the issue or pull request: `Update project: project-name`.
+    另外可以[新建议题](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose)添加类别。
 
-## Project properties
+## 更改项目
+
+若要更改现有项目，有如下两种方法。（和[新增项目](#新增项目)一样）
+
+- 提请修改：访问[议题页面](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose)，选择类别，填写信息。
+- 直接编辑：在[`projects.yaml`](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)中增减项目，然后提交拉取请求。（可[直接用 GitHub UI 操作](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)）
+
+提交议题、拉取请求前有如下常见问题。
+
+- 不要直接改`README.md`，而是改`projects.yaml`。
+
+- `projects.yaml`采用 [YAML](https://quickref.me/yaml) 格式，内容见[项目属性](#项目属性)一节。
+
+- 如果要添加好几个独立的项目，请分成多个议题／拉取请求。
+
+- 议题、拉取请求的标题请以“更改项目：”开头。
+
+## 项目属性
+
+> **Note**
+> 最新完整列表请参考 [best-of-generator 文档](https://github.com/best-of-lists/best-of-generator#project-properties)。
 
 <table>
-    <tr>
-        <th>Property</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><code>name</code></td>
-        <td>Name of the project. This name is required to be unique on the best-of list.</td>
-    </tr>
-    <tr>
-        <td><code>github_id</code></td>
-        <td>Github ID of the project based on user or organization and the repository name, e.g. <code>best-of-lists/best-of-generator</code>.</td>
-    </tr>
-    <tr>
-        <td colspan="2"><b>Optional Properties:</b></td>
-    </tr>
-    <tr>
-        <td><code>category</code></td>
-        <td>Category that this project is most related to. You can find all available category IDs in the <code>projects.yaml</code> file. The project will be sorted into the <code>Others</code> category if no category is provided.</td>
-    </tr>
-    <tr>
-        <td><code>labels</code></td>
-        <td>List of labels that this project is related to. You can find all available label IDs in the <code>projects.yaml</code> file.</td>
-    </tr>
-    <tr>
-        <td colspan="2"><b>Supported Package Managers:</b></td>
-    </tr>
-    <tr>
-        <td><code>pypi_id</code></td>
-        <td>Project ID on the python package index (<a href="https://pypi.org">PyPi</a>).</td>
-    </tr>
-    <tr>
-        <td><code>conda_id</code></td>
-        <td>Project ID on the <a href="https://anaconda.org">conda package manager</a>. If the main package is provided on a different channel, prefix the ID with the given channel: e.g. <code>conda-forge/tensorflow</code></td>
-    </tr>
-    <tr>
-        <td><code>npm_id</code></td>
-        <td>Project ID on the Node package manager (<a href="https://www.npmjs.com">npm</a>).</td>
-    </tr>
-    <tr>
-        <td><code>dockerhub_id</code></td>
-        <td>Project ID on the <a href="https://hub.docker.com">Docker Hub container registry</a>. </td>
-    </tr>
-    <tr>
-        <td><code>maven_id</code></td>
-        <td>Artifact ID on <a href="https://mvnrepository.com">Maven central</a>, e.g. <code>org.apache.flink:flink-core</code>. </td>
-    </tr>
+    <thead>
+        <tr>
+            <th>属性</th>
+            <th>描述</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><code>name</code></td>
+            <td>项目名称。必须和其它项目不同。</td>
+        </tr>
+        <tr>
+            <td><code>github_id</code></td>
+            <td>GitHub ID，由作者名（或组织名）、仓库名组成，例如<code>best-of-lists/best-of-generator</code>。</td>
+        </tr>
+        <tr>
+            <td colspan="2"><strong>可选属性：</strong></td>
+        </tr>
+        <tr>
+            <td><code>category</code></td>
+            <td>类别的 ID。若项目涉及好几类，请只写最相关的那一类。具体 ID
+                请参考<code>projects.yaml</code>里的<code>categories</code>。若不填，则会归入“Others”。</td>
+        </tr>
+        <tr>
+            <td><code>labels</code></td>
+            <td>项目相关的标签的列表。具体 ID
+                请参考<code>projects.yaml</code>里的<code>labels</code>。</td>
+        </tr>
+        <tr>
+            <td colspan="2"><strong>支持的包管理器：</strong></td>
+        </tr>
+        <tr>
+            <td><code>pypi_id</code></td>
+            <td>Python Package Index（<a href="https://pypi.org">PyPI</a>）上的项目 ID。</td>
+        </tr>
+        <tr>
+            <td><code>conda_id</code></td>
+            <td><a href="https://anaconda.org">Conda package manager</a> 上的项目 ID。如果主包在别的 channel，要前缀 channel，比如 <code>conda-forge/tensorflow</code>。</td>
+        </tr>
+        <tr>
+            <td><code>npm_id</code></td>
+            <td>Node package manager（<a href="https://www.npmjs.com">npm</a>）上的项目 ID。</td>
+        </tr>
+        <tr>
+            <td><code>dockerhub_id</code></td>
+            <td><a href="https://hub.docker.com">Docker Hub container registry</a> 上的项目 ID。</td>
+        </tr>
+        <tr>
+            <td><code>maven_id</code></td>
+            <td><a href="https://mvnrepository.com">Maven central</a> 上的 artifact ID，例如<code>org.apache.flink:flink-core</code>。</td>
+        </tr>
+    </tbody>
 </table>
 
-Please refer to the [best-of-generator documentation](https://github.com/best-of-lists/best-of-generator#project-properties) for a complete and up-to-date list of supported project properties.
+## 上游项目
 
-## Improve metadata collection
+除了项目，本列表还涉及收集元数据、生成 markdown 等。这方面的贡献请移步 [best-of-generator](https://github.com/best-of-lists/best-of-generator) 仓库或我们克隆的 [best-of-update-action](https://github.com/YDX-2147483647/best-of-update-action/tree/ascii-description) 仓库。
 
-If you like to contribute to or share suggestions regarding the project metadata collection, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository.
+若您想自己创建一个 best-of list，请参考[官方教程](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md)，大概[需要三分钟](https://xkcd.com/2767/)。完成后 GitHub Actions 可以自动运行 best-of-generator。
 
-## Improve markdown generation
+## 贡献者公约
 
-If you like to contribute to or share suggestions regarding the markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository.
-
-## Create your own best-of list
-
-If you want to create your own best-of list, we strongly recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md). With this guide, it will only take about 3 minutes to get you started. It is already set-up to automatically run the best-of generator via our Github Action and includes other useful template files.
-
-## Code of Conduct
-
-All members of the project community must abide by the [Contributor Covenant, version 2.1](./.github/CODE_OF_CONDUCT.md). Only by respecting each other we can develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a project maintainer.
+参与此项目即代表遵守[贡献者公约](https://github.com/YDX-2147483647/best-of-bits/blob/main/.github/CODE_OF_CONDUCT.md)。相互尊重才有我们才能合作干实事。辱骂、骚扰或其他不可接受的行为可向社区监督人报告。
