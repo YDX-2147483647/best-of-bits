@@ -1,20 +1,25 @@
-**What kind of change does this PR introduce?**
-<!-- (Update "[ ]" to "[x]" to check a box) -->
+## 这个拉取请求做了什么？
+<!-- 把“[ ]”改成“[x]”以打✓ -->
 
-- [ ] Add a project
-- [ ] Update a project
-- [ ] Remove a project
-- [ ] Add or update a category
-- [ ] Change configuration
-- [ ] Documentation
-- [ ] Other, please describe:
+- [ ] 新增项目
+- [ ] 更改项目
+- [ ] 删除项目
+- [ ] 添加或更改类别
+- [ ] 修改配置
+- [ ] 文档
+- [ ] 其它，请介绍：
 
-**Description:**
-<!--- Use this section to describe your changes. We recommend only to add, update, or remove one project per pull request. If your PR adds a new project, just put the project name and a short description of the project here.-->
+## 更改
+<!--
+请在此节介绍更改。（若比较简单，比如只是添加项目，可以不写。）
+如果涉及多个独立项目，请尽量分成多个拉取请求。
+-->
 
-**Checklist:**
-<!--- Before you submit the PR, go over this checklist and make sure you can
-tick off all the boxes. [] -> [x] -->
+## 最后检查
+<!--
+[] → [x] ⇒ ✓
+最好全都完成；赶时间的话可忽略。
+-->
 
-- [ ] I have read the [CONTRIBUTING](https://github.com/best-of-lists/best-of/blob/main/CONTRIBUTING.md) guidelines.
-- [ ] I have not modified the `README.md` file. Projects are only supposed to be added or updated within the `projects.yaml` file since the `README.md` file is automatically generated.
+- [ ] 我已阅读[贡献者指南](https://github.com/best-of-lists/best-of/blob/main/CONTRIBUTING.md)。
+- [ ] 我没有直接更改`README.md`。（`README.md`是从`projects.yaml`自动生成的）
