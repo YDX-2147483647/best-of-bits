@@ -1,0 +1,21 @@
+name: Sync repo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  gitee:
+    name: Sync to Gitee
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Push
+        uses: wangchucheng/git-repo-sync@v0.1.0
+        with:
+          target-url: https://gitee.com/YDX-2147483647/best-of-bits.git
+          target-username: YDX-2147483647
+          target-token: ${{ secrets.GITEE_TOKEN }}
