@@ -31,6 +31,8 @@ labels:
     name: 🕸️Web
   - label: go
     name: 💨Go
+  - label: java
+    name: ☕Java
   - label: hdl
     name: ⛓️HDL
   - label: asm
@@ -167,6 +169,7 @@ projects:
   - name: 未来精工生存指南
     homepage: https://bitft-wiki.vercel.app
     github_id: TT2TER/BITFTechWiki
+    gitee_id: tt29294/BITFTechWiki
     category: website
 
   - name: HowMuch
@@ -243,3 +246,8 @@ projects:
     github_id: Mmx233/BitSrunLoginGo
     category: tool
     labels: [go]
+
+  - name: AutoBook
+    gitee_id: guang-ming-fu/auto-book
+    category: tool
+    labels: [java]

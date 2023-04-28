@@ -44,7 +44,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: update-best-of-list
-        uses: YDX-2147483647/best-of-update-action@ascii-description
+        uses: YDX-2147483647/best-of-update-action@best-of-bits
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
           github_key: ${{ secrets.GITHUB_TOKEN }}
