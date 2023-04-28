@@ -33,6 +33,8 @@ labels:
     name: 💨Go
   - label: java
     name: ☕Java
+  - label: cpp
+    name: #️⃣C/C++
   - label: hdl
     name: ⛓️HDL
   - label: asm
@@ -60,12 +62,14 @@ projects:
 
   - name: Bulletin Issues Transferred
     github_id: YDX-2147483647/bulletin-issues-transferred
+    gitee_id: YDX-2147483647/bulletin-issues-transferred
     homepage: https://haobit.top/dev/site/notice/
     category: tool
     labels: [Web]
 
   - name: BIT-enhanced
     github_id: YDX-2147483647/BIT-enhanced
+    gitee_id: YDX-2147483647/BIT-enhanced
     homepage: https://ydx-2147483647.github.io/BIT-enhanced/
     category: tool
     labels: [Web]
@@ -189,6 +193,7 @@ projects:
 
   - name: BIT-Thesis
     github_id: BIT-thesis/LaTeX-template
+    gitee_id: five_cost_QiFei/LaTeX-template
     category: template
     labels: [latex]
 
@@ -251,3 +256,63 @@ projects:
     gitee_id: guang-ming-fu/auto-book
     category: tool
     labels: [java]
+
+  - name: 数字信号处理
+    gitee_id: spaitlab_0/DSP-Book
+    category: learning
+    labels: [python]
+
+  - name: ACM寒假集训
+    gitee_id: TastyHeadphones/BITACM
+    category: exp
+
+  - name: CTF暑期培训
+    gitee_id: Chorolop/bitnsc2021-summer
+    category: exp
+
+  - name: Python机器学习应用
+    gitee_id: chen_zi_chung/Machine-Learning-with-Python
+    category: learning
+
+  - name: 北京理工大学自动评教助手
+    gitee_id: larry6799/pingjiao
+    homepage: https://zhuanlan.zhihu.com/p/346248138
+    category: tool
+    labels: [python]
+
+  - name: PyFMT
+    gitee_id: spaitlab/py-fmt
+    homepage: https://spaitlab.gitee.io/py-fmt/index.html
+    category: tool
+    labels: [python]
+
+  - name: PySPT
+    gitee_id: spaitlab/py-spt
+    homepage: https://spaitlab.gitee.io/py-spt/index.html
+    category: tool
+    labels: [python]
+
+  - name: 英语学习笔记
+    gitee_id: bit-study-notes/college-english
+    homepage: https://bit-study-notes.gitee.io/college-english
+    category: learning
+
+  - name: 混合现实与新型显示实验室/虚拟人资产
+    gitee_id: bitmrlab/virtual-human-assets
+    category: exp
+
+  - name: 合成北理工
+    gitee_id: boboaini/synthetic-north-technology
+    homepage: https://daxigua.liyupi.com
+    category: website
+    labels: [web]
+
+  - name: 校内服务器联网脚本
+    gitee_id: burette/BIT-WEB
+    category: tool
+    labels: [python]
+
+  - name: 嵌入式系统原理与应用/v853-bare
+    gitee_id: bitpmcrg/v853-bare
+    category: learning
+    labels: [asm, cpp]
