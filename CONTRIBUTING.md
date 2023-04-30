@@ -123,6 +123,14 @@
     </tbody>
 </table>
 
+## 方针
+
+### 如何收录 monorepo 型项目
+
+- `name`请用` ➡️ `分隔，例如`Batch_Collections ➡️ Campus_network`。
+- 必须提供`description`。默认爬取的描述是整个仓库的描述，提供`description`可以人为指定，覆盖这一行为。
+- `github_id`仍写整个仓库的。
+
 ## 上游项目
 
 除了项目，本列表还涉及收集元数据、生成 markdown 等。这方面的贡献请移步 [best-of-generator](https://github.com/best-of-lists/best-of-generator) 仓库或我们克隆的 [best-of-update-action](https://github.com/YDX-2147483647/best-of-update-action/tree/ascii-description) 仓库。

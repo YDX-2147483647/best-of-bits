@@ -26,7 +26,9 @@ labels:
   - label: latex
     name: 📜LaTeX
   - label: python
-    name: 🐍python
+    name: 🐍Python
+  - label: rust
+    name: 🦀Rust
   - label: web
     name: 🕸️Web
   - label: go
@@ -34,7 +36,7 @@ labels:
   - label: java
     name: ☕Java
   - label: cpp
-    name: #️⃣C/C++
+    name: "#️⃣C/C++"
   - label: hdl
     name: ⛓️HDL
   - label: asm
@@ -104,6 +106,10 @@ projects:
     github_id: tulerfeng/BITCS-final-exam-learning-materials
     category: learning
 
+  - name: BITCS-final-exam-learning-materials-1
+    github_id: zedarbit/BITCS-final-exam-learning-materials-1
+    category: learning
+
   - name: Web VPN Converter
     github_id: spencerwooo/bit-webvpn-converter
     homepage: https://webvpn.swo.moe/
@@ -121,7 +127,7 @@ projects:
     category: tool
     labels: [python]
 
-  - name: Srun
+  - name: vouv/srun
     github_id: vouv/srun
     category: tool
     labels: [go]
@@ -316,3 +322,280 @@ projects:
     gitee_id: bitpmcrg/v853-bare
     category: learning
     labels: [asm, cpp]
+
+  - name: 智能制造与智能计算实验室
+    homepage: https://leidawt.gitee.io/bit-pse-public/
+    gitee_id: leidawt/bit-pse
+    category: website
+
+  - name: BIT物理实验数据处理工具
+    gitee_id: Creeper_LKF/BIT-Physics-Experiment
+    category: tool
+    labels: [python]
+
+  - name: 延河课堂播放功能增强
+    github_id: OrdosX/yanhekt-tool
+    homepage: https://greasyfork.org/zh-CN/scripts/434987
+    category: tool
+    labels: [web]
+
+  - name: BIT_yanghe_download
+    github_id: AuYang261/BIT_yanhe_download
+    category: tool
+    labels: [python]
+
+  - name: 北理工延河课堂视频下载
+    github_id: GDDG08/YanHeKT_Downloader
+    category: tool
+    labels: [python]
+
+  - name: lexue_ddl
+    github_id: xiabee/lexue_ddl
+    category: tool
+    labels: [python]
+
+  - name: Patch of BITJWC
+    github_id: fenprace/Patch-of-BITJWC
+    category: tool
+    labels: [web]
+
+  - name: cst-notifier
+    github_id: UnicornBoss/cst-notifier
+    category: tool
+    labels: [python]
+
+  - name: 一点儿北理地图
+    homepage: https://map.bitnp.net/
+    gitee_id: YDX-2147483647/map
+    category: website
+    labels: [web]
+
+  - name: BIT CAS login
+    gitee_id: felinae98/BIT-CAS-login
+    category: tool
+    labels: [python]
+
+  - name: bit正方教务处
+    gitee_id: felinae98/bitJwcToolkit
+    category: tool
+    labels: [python]
+
+  - name: 网协主页
+    homepage: https://www.bitnp.net/
+    github_id: BITNP/bitnp-website
+    gitee_id: iruhh/bitnp-website
+    category: website
+    labels: [web]
+
+  - name: 北京理工大学开源软件镜像服务
+    homepage: https://mirrors.bit.edu.cn/
+    github_id: BITNP/bitnp-mirrors-web
+    category: website
+    labels: [web]
+
+  - name: 幻影坦克快速发车工具(带图形界面)
+    github_id: Aloxaf/MirageTankGo
+    category: tool
+    labels: [python]
+
+  - name: Batch_Collections ➡️ Campus_network
+    description: 校园网脚本（登录、登出，自动重连）
+    github_id: KJH-x/Batch_Collections
+    category: tool
+    labels: [python]
+
+  - name: Rust-toys ➡️ bitlogin
+    description: 10_0_0_55_login 的 rust 实现
+    github_id: Aloxaf/Rust-toys
+    category: tool
+    labels: [rust]
+
+  - name: BIT-WEB
+    github_id: Ethan-yt/BIT-WEB
+    npm_id: "@ethanyt/bit"
+    category: tool
+    labels: [web]
+
+  - name: I_NEED_COURSE
+    github_id: friskit-china/I_NEED_COURSE
+    category: tool
+    labels: [python]
+
+  - name: BITLOGIN
+    github_id: Touko2000/BITLOGIN
+    category: tool
+    labels: [python]
+
+  - name: BIT-campus-network-CLI
+    github_id: LiJinyao/BIT-campus-network-CLI
+    category: tool
+    labels: [web]
+
+  - name: BIT-Online-Judge
+    github_id: Lylist/BIT-Online-Judge
+    category: misc
+
+  - name: Aya Login
+    description: 这是一个用于浏览器的 UserScript，提升 bit srun 3000 校园网登录体验。
+    github_id: frantic1048/aya-login
+    homepage: http://frantic1048.com/aya-login/
+    category: tool
+    labels: [web]
+
+  - name: bitsrunlogin
+    github_id: BIT-zhwang/BIT-Srun-Login-Public
+    pypi_id: bitsrunlogin
+    category: tool
+    labels: [python]
+
+  - name: 基于Selenium的BIT-Web登录脚本
+    github_id: MmDawN/BIT_Srun_Login_Selenium
+    category: tool
+    labels: [python]
+
+  - name: bit_jwc
+    description: 成绩查询、考试信息查询、一键评教。
+    github_id: haohaolalahao/bit_jwc
+    category: tool
+    labels: [python]
+
+  - name: bit-jwc-v1
+    description: 教务处数据、微信交互、登录北理在线、课表简单排序。
+    github_id: Freeza91/bit-jwc-v1
+    category: misc
+
+  - name: Starry-BITPT
+    github_id: frantic1048/Starry-BITPT
+    category: tool
+    labels: [web]
+
+  - name: 图书馆座位预约系统辅助工具
+    github_id: DefJia/Auto_Reservation_System_BE
+    category: tool
+    labels: [python]
+
+  - name: 理治棋壮
+    description: 一个基于中国象棋通用引擎协议（UCCI）的中国象棋计算机博弈引擎。
+    github_id: sswv/bitstronger
+    category: misc
+    labels: [cpp]
+
+  - name: 数据挖掘
+    github_id: BITDM/bitdm.github.io
+    homepage: https://bitdm.github.io/
+    category: exp
+
+  - name: BUApp
+    github_id: wuhao-ouyang/BUApp
+    category: tool
+
+  - name: 北理FTP联盟定时自动刷贴
+    github_id: Freeza91/bit-ftp
+    category: tool
+
+  - name: bitunion
+    github_id: finalion/bitunion
+    category: tool
+
+  - name: BITSTAR
+    github_id: WangTe/BITSTAR
+    category: website
+
+  - name: BIT_Matrix_Analysis_Course
+    github_id: NeoSunJZ/BIT_Matrix_Analysis_Course
+    category: learning
+
+  - name: BIT-linux-login
+    github_id: long-username/BIT-linux-login
+    category: tool
+    labels: [web]
+
+  - name: 北京理工大学邮箱推送服务
+    github_id: lywly/BIT_Mail_Monitor
+    category: tool
+    labels: [python]
+
+  - name: BIT_Mail_Backup
+    github_id: lywly/BIT_Mail_Backup
+    category: tool
+    labels: [python]
+
+  - name: BITLogin-Node
+    github_id: BIT-BOBH/BITLogin-Node
+    category: tool
+    labels: [web]
+
+  - name: BIT-Auto-Login-System
+    github_id: majingbit/BIT-Auto-Login-System
+    category: tool
+
+  - name: BITNetworkTool
+    github_id: lgasyou/BITNetworkTool
+    category: tool
+    labels: [python]
+
+  - name: 北理工自动签到脚本（研究生每晚宿舍签到）
+    github_id: WD11/bit_register_auto
+    category: tool
+    labels: [python]
+
+  - name: oh_my_course
+    github_id: MichaelToLearn/oh_my_course
+    category: tool
+    labels: [python]
+
+  - name: BitWebClient
+    github_id: yAnXImIN/BitWebClient
+    category: tool
+    labels: [java]
+
+  - name: BIT_Network_Login
+    github_id: lxalxy/BIT_Network_Login
+    category: tool
+    labels: [python]
+
+  - name: yanhekt-killer
+    description: Eliminate the unfair authority, when we try to learn more in yanhekt.
+    github_id: LeiyaoCui/yanhekt-killer
+    category: tool
+    labels: [web]
+
+  - name: YanhePrivilege
+    github_id: BIT-BOBH/YanhePrivilege
+    category: tool
+    labels: [web]
+
+  - name: zu1k/srun
+    github_id: zu1k/srun
+    category: tool
+    labels: [rust]
+
+  - name: bPlanner
+    homepage: https://zaibit.com
+    github_id: phy25/bPlanner
+    category: tool
+
+  - name: zaiBIT
+    homepage: https://zaibit.com
+    github_id: phy25/zaiBITstatic
+    category: website
+
+  - name: WebvpnExploit
+    github_id: BIT-BOBH/WebvpnExploit
+    homepage: https://webvpn.bit.edu.cn/https/77726476706e69737468656265737421e7f2438a373e2652771cc7b69d5b2730bb0f351d/
+    category: misc
+    labels: [web]
+
+  - name: 学生事务中心办事指南
+    homepage: https://howto.info.bit.edu.cn/
+    category: website
+    license: CC BY 4.0
+    description: “办事指南” DokuWiki 站点，由北京理工大学学生事务中心建立，目前处于试运行阶段。
+    # 修改自 http://howto.info.bit.edu.cn/about
+    updated_at: 2021-11-26
+    # 手动记录于 http://howto.info.bit.edu.cn/index?do=recent
+
+  - name: message_send
+    github_id: Z-ly/message_send
+    category: tool
+    labels: [python]
