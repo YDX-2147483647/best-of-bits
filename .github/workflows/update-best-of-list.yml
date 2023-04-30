@@ -48,6 +48,7 @@ jobs:
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
           github_key: ${{ secrets.GITHUB_TOKEN }}
+          gitee_key: ${{ secrets.GITEE_API_KEY }}
       - name: push-update
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
