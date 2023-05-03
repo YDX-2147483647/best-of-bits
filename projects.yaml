@@ -339,7 +339,7 @@ projects:
     category: tool
     labels: [web]
 
-  - name: BIT_yanghe_download
+  - name: BIT_yanhe_download
     github_id: AuYang261/BIT_yanhe_download
     category: tool
     labels: [python]
