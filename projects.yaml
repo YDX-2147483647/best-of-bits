@@ -599,3 +599,15 @@ projects:
     github_id: Z-ly/message_send
     category: tool
     labels: [python]
+
+  - name: bitroom (Book an Incongruent Topological Room Or be Out of Mind)
+    github_id: YDX-2147483647/bitroom
+    category: tool
+    labels: [python]
+    pypi_id: bitroom
+    docs_url: https://github.com/YDX-2147483647/bitroom/wiki
+
+  - name: BITNP LibreSpeed 内网测速
+    github_id: everything411/speedtest-go
+    category: website
+    homepage: http://speed.bitnp.net/
