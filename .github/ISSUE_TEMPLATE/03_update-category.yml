@@ -25,19 +25,19 @@ body:
     id: category
     attributes:
       label: 类别的 ID
-      description: `category`，一般是小写拉丁字母。
+      description: "`category`，一般是小写拉丁字母。"
       placeholder: website
   - type: input
     id: title
     attributes:
       label: 类别名称
-      description: `title`，图标 + 汉字，找图标可搜索 [Emojipedia](https://emojipedia.org/)。
+      description: "`title`，图标 + 汉字，找图标可搜索 [Emojipedia](https://emojipedia.org/)。"
       placeholder: 🌏网站
   - type: textarea
     id: subtitle
     attributes:
       label: 类别简易介绍
-      description: `subtitle`，一两句话。
+      description: "`subtitle`，一两句话。"
       placeholder: （可选）
 
   - type: markdown
