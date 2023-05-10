@@ -13,6 +13,9 @@ categories:
     title: 🌏网站
   - category: template
     title: 📁模板
+  - category: srun
+    title: 📡校园网
+    subtitle: 检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)）。
   - category: tool
     title: ⚒️工具
   - category: learning
@@ -59,7 +62,7 @@ projects:
   - name: bitsrun
     github_id: BITNP/bitsrun
     pypi_id: bitsrun
-    category: tool
+    category: srun
     labels: [python]
 
   - name: Bulletin Issues Transferred
@@ -129,7 +132,7 @@ projects:
 
   - name: vouv/srun
     github_id: vouv/srun
-    category: tool
+    category: srun
     labels: [go]
 
   - name: 北京理工大学计算机学院视觉形象系统
@@ -143,12 +146,12 @@ projects:
   - name: bit-srun-cli
     github_id: fangli-li/bit-srun-cli
     pypi_id: srun-bit
-    category: tool
+    category: srun
     labels: [python]
 
   - name: BIT-srun-login-script
     github_id: coffeehat/BIT-srun-login-script
-    category: tool
+    category: srun
     labels: [python]
 
   - name: BIT睿信空间预约
@@ -255,7 +258,7 @@ projects:
 
   - name: BitSrunLoginGo
     github_id: Mmx233/BitSrunLoginGo
-    category: tool
+    category: srun
     labels: [go]
 
   - name: AutoBook
@@ -315,7 +318,7 @@ projects:
 
   - name: 校内服务器联网脚本
     gitee_id: burette/BIT-WEB
-    category: tool
+    category: srun
     labels: [python]
 
   - name: 嵌入式系统原理与应用/v853-bare
@@ -401,19 +404,19 @@ projects:
   - name: Batch_Collections ➡️ Campus_network
     description: 校园网脚本（登录、登出，自动重连）
     github_id: KJH-x/Batch_Collections
-    category: tool
+    category: srun
     labels: [python]
 
   - name: Rust-toys ➡️ bitlogin
     description: 10_0_0_55_login 的 rust 实现
     github_id: Aloxaf/Rust-toys
-    category: tool
+    category: srun
     labels: [rust]
 
   - name: BIT-WEB
     github_id: Ethan-yt/BIT-WEB
     npm_id: "@ethanyt/bit"
-    category: tool
+    category: srun
     labels: [web]
 
   - name: I_NEED_COURSE
@@ -423,12 +426,12 @@ projects:
 
   - name: BITLOGIN
     github_id: Touko2000/BITLOGIN
-    category: tool
+    category: srun
     labels: [python]
 
   - name: BIT-campus-network-CLI
     github_id: LiJinyao/BIT-campus-network-CLI
-    category: tool
+    category: srun
     labels: [web]
 
   - name: BIT-Online-Judge
@@ -439,18 +442,18 @@ projects:
     description: 这是一个用于浏览器的 UserScript，提升 bit srun 3000 校园网登录体验。
     github_id: frantic1048/aya-login
     homepage: http://frantic1048.com/aya-login/
-    category: tool
+    category: srun
     labels: [web]
 
   - name: bitsrunlogin
     github_id: BIT-zhwang/BIT-Srun-Login-Public
     pypi_id: bitsrunlogin
-    category: tool
+    category: srun
     labels: [python]
 
   - name: 基于Selenium的BIT-Web登录脚本
     github_id: MmDawN/BIT_Srun_Login_Selenium
-    category: tool
+    category: srun
     labels: [python]
 
   - name: bit_jwc
@@ -507,7 +510,7 @@ projects:
 
   - name: BIT-linux-login
     github_id: long-username/BIT-linux-login
-    category: tool
+    category: srun
     labels: [web]
 
   - name: 北京理工大学邮箱推送服务
@@ -522,16 +525,16 @@ projects:
 
   - name: BITLogin-Node
     github_id: BIT-BOBH/BITLogin-Node
-    category: tool
+    category: srun
     labels: [web]
 
   - name: BIT-Auto-Login-System
     github_id: majingbit/BIT-Auto-Login-System
-    category: tool
+    category: srun
 
   - name: BITNetworkTool
     github_id: lgasyou/BITNetworkTool
-    category: tool
+    category: srun
     labels: [python]
 
   - name: 北理工自动签到脚本（研究生每晚宿舍签到）
@@ -546,12 +549,12 @@ projects:
 
   - name: BitWebClient
     github_id: yAnXImIN/BitWebClient
-    category: tool
+    category: srun
     labels: [java]
 
   - name: BIT_Network_Login
     github_id: lxalxy/BIT_Network_Login
-    category: tool
+    category: srun
     labels: [python]
 
   - name: yanhekt-killer
@@ -567,7 +570,7 @@ projects:
 
   - name: zu1k/srun
     github_id: zu1k/srun
-    category: tool
+    category: srun
     labels: [rust]
 
   - name: bPlanner
