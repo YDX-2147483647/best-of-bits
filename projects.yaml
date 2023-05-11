@@ -614,3 +614,9 @@ projects:
     github_id: everything411/speedtest-go
     category: website
     homepage: http://speed.bitnp.net/
+
+  - name: 10.0.0.55 enhance
+    github_id: fky2015/10-0-0-55-enhance
+    category: srun
+    labels: [web]
+    greasy_fork_id: 367663
