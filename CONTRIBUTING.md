@@ -66,7 +66,7 @@
 ## 项目属性
 
 > **Note**
-> 最新完整列表请参考 [best-of-generator 文档](https://github.com/best-of-lists/best-of-generator#project-properties)。
+> 最新完整列表请参考 [best-of-generator 文档](https://github.com/best-of-lists/best-of-generator#project-properties)或[我们克隆的版本](https://github.com/YDX-2147483647/best-of-generator/tree/best-of-bits)。
 
 <table>
     <thead>
