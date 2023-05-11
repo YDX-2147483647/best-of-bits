@@ -33,6 +33,7 @@ body:
       label: 类别
       description: 从已有类别中选，参考`README.md`或`projects.yaml`里的`categories`
       options:
+        # sync-categories: start
         - 🌏网站
         - 📁模板
         - 📡校园网
@@ -40,6 +41,7 @@ body:
         - 📚学习资料
         - 🧪实验／实践
         - 🐱‍🐉杂项
+        # sync-categories: end
   - type: input
     id: license
     attributes:
