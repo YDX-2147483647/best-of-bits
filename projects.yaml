@@ -7,6 +7,7 @@ configuration:
   require_license: False
   allowed_licenses: [all]
   ascii_description: False
+  category_heading: robust
 
 categories:
   - category: website
