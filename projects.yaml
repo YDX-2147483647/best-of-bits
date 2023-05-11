@@ -16,6 +16,9 @@ categories:
   - category: srun
     title: 📡校园网
     subtitle: 检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)）。
+  - category: agg
+    title: 📥汇总或重定向信息
+    subtitle: 其实什么信息都有，只是你可能没找到。
   - category: tool
     title: ⚒️工具
   - category: learning
@@ -50,7 +53,7 @@ projects:
     description: 百丽宫攻略、课程评价及资料、课表、查成绩。
     homepage: https://bit101.cn
     github_id: flwfdd/BIT101
-    category: website
+    category: agg
     labels: [Web, python]
 
   - name: BIThesis
@@ -69,7 +72,7 @@ projects:
     github_id: YDX-2147483647/bulletin-issues-transferred
     gitee_id: YDX-2147483647/bulletin-issues-transferred
     homepage: https://haobit.top/dev/site/notice/
-    category: tool
+    category: agg
     labels: [Web]
 
   - name: BIT-enhanced
@@ -183,7 +186,7 @@ projects:
     homepage: https://bitft-wiki.vercel.app
     github_id: TT2TER/BITFTechWiki
     gitee_id: tt29294/BITFTechWiki
-    category: website
+    category: agg
 
   - name: HowMuch
     github_id: RaulWei/HowMuch
@@ -354,7 +357,7 @@ projects:
 
   - name: lexue_ddl
     github_id: xiabee/lexue_ddl
-    category: tool
+    category: agg
     labels: [python]
 
   - name: Patch of BITJWC
@@ -364,7 +367,7 @@ projects:
 
   - name: cst-notifier
     github_id: UnicornBoss/cst-notifier
-    category: tool
+    category: agg
     labels: [python]
 
   - name: 一点儿北理地图
@@ -459,7 +462,7 @@ projects:
   - name: bit_jwc
     description: 成绩查询、考试信息查询、一键评教。
     github_id: haohaolalahao/bit_jwc
-    category: tool
+    category: agg
     labels: [python]
 
   - name: bit-jwc-v1
@@ -502,7 +505,7 @@ projects:
 
   - name: BITSTAR
     github_id: WangTe/BITSTAR
-    category: website
+    category: agg
 
   - name: BIT_Matrix_Analysis_Course
     github_id: NeoSunJZ/BIT_Matrix_Analysis_Course
@@ -576,12 +579,12 @@ projects:
   - name: bPlanner
     homepage: https://zaibit.com
     github_id: phy25/bPlanner
-    category: tool
+    category: agg
 
   - name: zaiBIT
     homepage: https://zaibit.com
     github_id: phy25/zaiBITstatic
-    category: website
+    category: agg
 
   - name: WebvpnExploit
     github_id: BIT-BOBH/WebvpnExploit
@@ -591,7 +594,7 @@ projects:
 
   - name: 学生事务中心办事指南
     homepage: https://howto.info.bit.edu.cn/
-    category: website
+    category: agg
     license: CC BY 4.0
     description: “办事指南” DokuWiki 站点，由北京理工大学学生事务中心建立，目前处于试运行阶段。
     # 修改自 http://howto.info.bit.edu.cn/about
