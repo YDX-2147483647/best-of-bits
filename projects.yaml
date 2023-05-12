@@ -20,6 +20,9 @@ categories:
   - category: agg
     title: 📥汇总或重定向信息
     subtitle: 其实什么信息都有，只是你可能没找到。
+  - category: academic
+    title: 👩‍🏫教学运行与考务
+    subtitle: 选课、上课、查分、评教。
   - category: tool
     title: ⚒️工具
   - category: learning
@@ -191,7 +194,7 @@ projects:
 
   - name: HowMuch
     github_id: RaulWei/HowMuch
-    category: tool
+    category: academic
     labels: [python, web]
 
   - name: 北京理工大学大学生职业发展协会综合签到系统
@@ -290,7 +293,7 @@ projects:
   - name: 北京理工大学自动评教助手
     gitee_id: larry6799/pingjiao
     homepage: https://zhuanlan.zhihu.com/p/346248138
-    category: tool
+    category: academic
     labels: [python]
 
   - name: PyFMT
@@ -343,17 +346,17 @@ projects:
   - name: 延河课堂播放功能增强
     github_id: OrdosX/yanhekt-tool
     greasy_fork_id: 434987
-    category: tool
+    category: academic
     labels: [web]
 
   - name: BIT_yanhe_download
     github_id: AuYang261/BIT_yanhe_download
-    category: tool
+    category: academic
     labels: [python]
 
   - name: 北理工延河课堂视频下载
     github_id: GDDG08/YanHeKT_Downloader
-    category: tool
+    category: academic
     labels: [python]
 
   - name: lexue_ddl
@@ -363,7 +366,7 @@ projects:
 
   - name: Patch of BITJWC
     github_id: fenprace/Patch-of-BITJWC
-    category: tool
+    category: academic
     labels: [web]
 
   - name: cst-notifier
@@ -384,7 +387,7 @@ projects:
 
   - name: bit正方教务处
     gitee_id: felinae98/bitJwcToolkit
-    category: tool
+    category: academic
     labels: [python]
 
   - name: 网协主页
@@ -425,7 +428,7 @@ projects:
 
   - name: I_NEED_COURSE
     github_id: friskit-china/I_NEED_COURSE
-    category: tool
+    category: academic
     labels: [python]
 
   - name: BITLOGIN
@@ -469,7 +472,7 @@ projects:
   - name: bit-jwc-v1
     description: 教务处数据、微信交互、登录北理在线、课表简单排序。
     github_id: Freeza91/bit-jwc-v1
-    category: misc
+    category: academic
 
   - name: Starry-BITPT
     github_id: frantic1048/Starry-BITPT
@@ -548,7 +551,7 @@ projects:
 
   - name: oh_my_course
     github_id: MichaelToLearn/oh_my_course
-    category: tool
+    category: academic
     labels: [python]
 
   - name: BitWebClient
@@ -564,12 +567,12 @@ projects:
   - name: yanhekt-killer
     description: Eliminate the unfair authority, when we try to learn more in yanhekt.
     github_id: LeiyaoCui/yanhekt-killer
-    category: tool
+    category: academic
     labels: [web]
 
   - name: YanhePrivilege
     github_id: BIT-BOBH/YanhePrivilege
-    category: tool
+    category: academic
     labels: [web]
 
   - name: zu1k/srun
@@ -627,17 +630,17 @@ projects:
 
   - name: 优化北理工成绩列表显示
     greasy_fork_id: 456009
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 北京理工大学评教脚本
     greasy_fork_id: 446772
-    category: tool
+    category: academic
     labels: [web]
 
   - name: BIT北理工一键评教 - pj.bit.edu.cn
     greasy_fork_id: 456110
-    category: tool
+    category: academic
     labels: [web]
 
   - name: helping-check-answer
@@ -647,12 +650,12 @@ projects:
 
   - name: BIT-Moodle-Video-Speed-Up
     greasy_fork_id: 396818
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 北理乐学视频下载助手
     greasy_fork_id: 422933
-    category: tool
+    category: academic
     labels: [web]
 
   - name: BIT-Moodle-Theme-Enhance
@@ -660,22 +663,22 @@ projects:
     # Alternate:
     # BIT-Moodle-Enhance
     # https://greasyfork.org/zh-CN/scripts/397149
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 北理乐学美化
     greasy_fork_id: 415353
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 延河课堂视频下载
     greasy_fork_id: 420055
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 北理工乐学增强
     greasy_fork_id: 34730
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 让北理工网站正常一点
