@@ -23,6 +23,9 @@ categories:
   - category: academic
     title: 👩‍🏫教学运行与考务
     subtitle: 选课、上课、查分、评教。
+  - category: cal
+    title: 📅管理时空流形
+    subtitle: 整理日程，预约书院社区、图书馆等。
   - category: tool
     title: ⚒️工具
   - category: learning
@@ -92,7 +95,7 @@ projects:
   - name: Bus Interrogation Tunnel
     github_id: YDX-2147483647/bus-interrogation-tunnel
     pypi_id: bus-interrogation-tunnel
-    category: tool
+    category: cal
     labels: [python]
 
   - name: 北京理工大学-本科-人工智能专业-通关经验包
@@ -166,7 +169,7 @@ projects:
 
   - name: BIT睿信空间预约
     github_id: bitrxc/bitrxc-server
-    category: website
+    category: cal
     homepage: https://bitrxc.com
     labels: [web]
 
@@ -273,7 +276,7 @@ projects:
 
   - name: AutoBook
     gitee_id: guang-ming-fu/auto-book
-    category: tool
+    category: cal
     labels: [java]
 
   - name: 数字信号处理
@@ -364,7 +367,7 @@ projects:
 
   - name: lexue_ddl
     github_id: xiabee/lexue_ddl
-    category: agg
+    category: cal
     labels: [python]
 
   - name: Patch of BITJWC
@@ -380,7 +383,7 @@ projects:
   - name: 一点儿北理地图
     homepage: https://map.bitnp.net/
     gitee_id: YDX-2147483647/map
-    category: website
+    category: cal
     labels: [web]
 
   - name: BIT CAS login
@@ -469,7 +472,7 @@ projects:
   - name: bit_jwc
     description: 成绩查询、考试信息查询、一键评教。
     github_id: haohaolalahao/bit_jwc
-    category: agg
+    category: academic
     labels: [python]
 
   - name: bit-jwc-v1
@@ -484,7 +487,7 @@ projects:
 
   - name: 图书馆座位预约系统辅助工具
     github_id: DefJia/Auto_Reservation_System_BE
-    category: tool
+    category: cal
     labels: [python]
 
   - name: 理治棋壮
@@ -586,7 +589,7 @@ projects:
   - name: bPlanner
     homepage: https://zaibit.com
     github_id: phy25/bPlanner
-    category: agg
+    category: cal
 
   - name: zaiBIT
     homepage: https://zaibit.com
@@ -615,7 +618,7 @@ projects:
 
   - name: bitroom (Book an Incongruent Topological Room Or be Out of Mind)
     github_id: YDX-2147483647/bitroom
-    category: tool
+    category: cal
     labels: [python]
     pypi_id: bitroom
     docs_url: https://github.com/YDX-2147483647/bitroom/wiki
