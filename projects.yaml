@@ -32,6 +32,9 @@ categories:
     title: 📚学习资料
   - category: exp
     title: 🧪实验／实践
+  - category: org
+    title: 🧑‍🤝‍🧑存在一定结构的人的集合
+    subtitle: 学生组织、社团及其它自发集体。
   - category: apollo
     title: 👩‍🚀First BIT for Mankind
     subtitle: 由 BITers 发起，同时可能帮助其他人。
@@ -206,7 +209,7 @@ projects:
   - name: 北京理工大学大学生职业发展协会综合签到系统
     homepage: http://signsys.zhbitscda.com/
     github_id: zhbitscda/SCDA_signsys_latest
-    category: website
+    category: org
 
   - name: BIT-thesis-template
     github_id: PolarLion/BIT-thesis-template
@@ -342,7 +345,7 @@ projects:
   - name: 智能制造与智能计算实验室
     homepage: https://leidawt.gitee.io/bit-pse-public/
     gitee_id: leidawt/bit-pse
-    category: website
+    category: exp
 
   - name: BIT物理实验数据处理工具
     gitee_id: Creeper_LKF/BIT-Physics-Experiment
@@ -400,7 +403,7 @@ projects:
     homepage: https://www.bitnp.net/
     github_id: BITNP/bitnp-website
     gitee_id: iruhh/bitnp-website
-    category: website
+    category: org
     labels: [web]
 
   - name: 北京理工大学开源软件镜像服务
@@ -482,7 +485,7 @@ projects:
 
   - name: Starry-BITPT
     github_id: frantic1048/Starry-BITPT
-    category: tool
+    category: org
     labels: [web]
 
   - name: 图书馆座位预约系统辅助工具
@@ -503,15 +506,15 @@ projects:
 
   - name: BUApp
     github_id: wuhao-ouyang/BUApp
-    category: tool
+    category: org
 
   - name: 北理FTP联盟定时自动刷贴
     github_id: Freeza91/bit-ftp
-    category: tool
+    category: org
 
   - name: bitunion
     github_id: finalion/bitunion
-    category: tool
+    category: org
 
   - name: BITSTAR
     github_id: WangTe/BITSTAR
