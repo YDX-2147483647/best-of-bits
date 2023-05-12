@@ -29,6 +29,9 @@ categories:
     title: 📚学习资料
   - category: exp
     title: 🧪实验／实践
+  - category: apollo
+    title: 👩‍🚀First BIT for Mankind
+    subtitle: 由 BITers 发起，同时可能帮助其他人。
   - category: misc
     title: 🐱‍🐉杂项
 
@@ -299,13 +302,13 @@ projects:
   - name: PyFMT
     gitee_id: spaitlab/py-fmt
     homepage: https://spaitlab.gitee.io/py-fmt/index.html
-    category: tool
+    category: apollo
     labels: [python]
 
   - name: PySPT
     gitee_id: spaitlab/py-spt
     homepage: https://spaitlab.gitee.io/py-spt/index.html
-    category: tool
+    category: apollo
     labels: [python]
 
   - name: 英语学习笔记
@@ -400,12 +403,12 @@ projects:
   - name: 北京理工大学开源软件镜像服务
     homepage: https://mirrors.bit.edu.cn/
     github_id: BITNP/bitnp-mirrors-web
-    category: website
+    category: apollo
     labels: [web]
 
   - name: 幻影坦克快速发车工具(带图形界面)
     github_id: Aloxaf/MirageTankGo
-    category: tool
+    category: apollo
     labels: [python]
 
   - name: Batch_Collections ➡️ Campus_network
@@ -487,7 +490,7 @@ projects:
   - name: 理治棋壮
     description: 一个基于中国象棋通用引擎协议（UCCI）的中国象棋计算机博弈引擎。
     github_id: sswv/bitstronger
-    category: misc
+    category: apollo
     labels: [cpp]
 
   - name: 数据挖掘
