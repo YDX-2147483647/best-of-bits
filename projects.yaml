@@ -339,7 +339,7 @@ projects:
 
   - name: 延河课堂播放功能增强
     github_id: OrdosX/yanhekt-tool
-    homepage: https://greasyfork.org/zh-CN/scripts/434987
+    greasy_fork_id: 434987
     category: tool
     labels: [web]
 
@@ -615,3 +615,67 @@ projects:
     github_id: everything411/speedtest-go
     category: website
     homepage: http://speed.bitnp.net/
+
+  - name: 10.0.0.55 enhance
+    github_id: fky2015/10-0-0-55-enhance
+    category: srun
+    labels: [web]
+    greasy_fork_id: 367663
+
+  - name: 优化北理工成绩列表显示
+    greasy_fork_id: 456009
+    category: tool
+    labels: [web]
+
+  - name: 北京理工大学评教脚本
+    greasy_fork_id: 446772
+    category: tool
+    labels: [web]
+
+  - name: BIT北理工一键评教 - pj.bit.edu.cn
+    greasy_fork_id: 456110
+    category: tool
+    labels: [web]
+
+  - name: helping-check-answer
+    greasy_fork_id: 367662
+    category: tool
+    labels: [web]
+
+  - name: BIT-Moodle-Video-Speed-Up
+    greasy_fork_id: 396818
+    category: tool
+    labels: [web]
+
+  - name: 北理乐学视频下载助手
+    greasy_fork_id: 422933
+    category: tool
+    labels: [web]
+
+  - name: BIT-Moodle-Theme-Enhance
+    greasy_fork_id: 397151
+    # Alternate:
+    # BIT-Moodle-Enhance
+    # https://greasyfork.org/zh-CN/scripts/397149
+    category: tool
+    labels: [web]
+
+  - name: 北理乐学美化
+    greasy_fork_id: 415353
+    category: tool
+    labels: [web]
+
+  - name: 延河课堂视频下载
+    greasy_fork_id: 420055
+    category: tool
+    labels: [web]
+
+  - name: 北理工乐学增强
+    greasy_fork_id: 34730
+    category: tool
+    labels: [web]
+
+  - name: 让北理工网站正常一点
+    greasy_fork_id: 33194
+    category: tool
+    labels: [web]
