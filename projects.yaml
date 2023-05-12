@@ -14,12 +14,15 @@ categories:
     title: 🌏网站
   - category: template
     title: 📁模板
-  - category: srun
-    title: 📡校园网
-    subtitle: 检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)）。
   - category: agg
     title: 📥汇总或重定向信息
     subtitle: 其实什么信息都有，只是你可能没找到。
+  - category: srun
+    title: 🔑认证校园网
+    subtitle: 检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)。
+  - category: edu-cn
+    title: 📡学校网站与网络
+    subtitle: 给 *.edu.cn 打补丁。
   - category: academic
     title: 👩‍🏫教学运行与考务
     subtitle: 选课、上课、查分、评教。
@@ -92,7 +95,7 @@ projects:
     github_id: YDX-2147483647/BIT-enhanced
     gitee_id: YDX-2147483647/BIT-enhanced
     homepage: https://ydx-2147483647.github.io/BIT-enhanced/
-    category: tool
+    category: edu-cn
     labels: [Web]
 
   - name: Bus Interrogation Tunnel
@@ -132,13 +135,13 @@ projects:
   - name: Web VPN Converter
     github_id: spencerwooo/bit-webvpn-converter
     homepage: https://webvpn.swo.moe/
-    category: website
+    category: edu-cn
     labels: [Web]
 
   - name: BIT WebVPN URL 双向转换器（浏览器扩展）
     github_id: YDX-2147483647/bit-webvpn-converter-web-extension
     homepage: https://addons.mozilla.org/zh-CN/firefox/addon/bit-webvpn-converter/
-    category: tool
+    category: edu-cn
     labels: [Web]
 
   - name: BIT自动请假
@@ -602,7 +605,7 @@ projects:
   - name: WebvpnExploit
     github_id: BIT-BOBH/WebvpnExploit
     homepage: https://webvpn.bit.edu.cn/https/77726476706e69737468656265737421e7f2438a373e2652771cc7b69d5b2730bb0f351d/
-    category: misc
+    category: edu-cn
     labels: [web]
 
   - name: 学生事务中心办事指南
@@ -628,7 +631,7 @@ projects:
 
   - name: BITNP LibreSpeed 内网测速
     github_id: everything411/speedtest-go
-    category: website
+    category: edu-cn
     homepage: http://speed.bitnp.net/
 
   - name: 10.0.0.55 enhance
@@ -692,5 +695,5 @@ projects:
 
   - name: 让北理工网站正常一点
     greasy_fork_id: 33194
-    category: tool
+    category: edu-cn
     labels: [web]
