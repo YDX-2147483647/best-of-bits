@@ -78,6 +78,12 @@ projects:
     category: template
     labels: [latex]
 
+  - name: BIThesis-wiki
+    github_id: BITNP/BIThesis-wiki
+    homepage: https://bithesis.bitnp.net
+    category: template
+    labels: [latex]
+
   - name: bitsrun
     github_id: BITNP/bitsrun
     pypi_id: bitsrun
@@ -253,11 +259,6 @@ projects:
   - name: BIT-Automation-Proposal-Report
     github_id: CharlieLeee/BIT-Automation-Proposal-Report
     category: template
-    labels: [latex]
-
-  - name: BIThesis-wiki
-    github_id: BITNP/BIThesis-wiki
-    category: website
     labels: [latex]
 
   - name: BIT-Thesis-Bachelor
