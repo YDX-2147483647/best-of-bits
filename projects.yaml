@@ -10,8 +10,6 @@ configuration:
   category_heading: robust
 
 categories:
-  - category: website
-    title: 🌏网站
   - category: template
     title: 📁模板
   - category: agg
@@ -29,8 +27,6 @@ categories:
   - category: cal
     title: 📅管理时空流形
     subtitle: 整理日程，预约书院社区、图书馆等。
-  - category: tool
-    title: ⚒️工具
   - category: learning
     title: 📚学习资料
   - category: exp
@@ -152,7 +148,7 @@ projects:
 
   - name: BIT自动请假
     github_id: YoungKlaus/BIT_Auto_Leave
-    category: tool
+    category: cal
     labels: [python]
 
   - name: vouv/srun
@@ -162,7 +158,7 @@ projects:
 
   - name: 北京理工大学计算机学院视觉形象系统
     github_id: BITCS1958/BITCS-Visual-image-recognition-system
-    category: misc
+    category: org
 
   - name: BIT-Titled-Letter-Paper
     github_id: jincao2013/BIT-Titled-Letter-Paper
@@ -333,7 +329,7 @@ projects:
   - name: 合成北理工
     gitee_id: boboaini/synthetic-north-technology
     homepage: https://daxigua.liyupi.com
-    category: website
+    category: misc
     labels: [web]
 
   - name: 校内服务器联网脚本
@@ -353,7 +349,7 @@ projects:
 
   - name: BIT物理实验数据处理工具
     gitee_id: Creeper_LKF/BIT-Physics-Experiment
-    category: tool
+    category: misc
     labels: [python]
 
   - name: 延河课堂播放功能增强
@@ -395,7 +391,7 @@ projects:
 
   - name: BIT CAS login
     gitee_id: felinae98/BIT-CAS-login
-    category: tool
+    category: misc
     labels: [python]
 
   - name: bit正方教务处
@@ -535,12 +531,12 @@ projects:
 
   - name: 北京理工大学邮箱推送服务
     github_id: lywly/BIT_Mail_Monitor
-    category: tool
+    category: misc
     labels: [python]
 
   - name: BIT_Mail_Backup
     github_id: lywly/BIT_Mail_Backup
-    category: tool
+    category: misc
     labels: [python]
 
   - name: BITLogin-Node
@@ -559,7 +555,7 @@ projects:
 
   - name: 北理工自动签到脚本（研究生每晚宿舍签到）
     github_id: WD11/bit_register_auto
-    category: tool
+    category: misc
     labels: [python]
 
   - name: oh_my_course
@@ -620,7 +616,7 @@ projects:
 
   - name: message_send
     github_id: Z-ly/message_send
-    category: tool
+    category: misc
     labels: [python]
 
   - name: bitroom (Book an Incongruent Topological Room Or be Out of Mind)
@@ -658,7 +654,7 @@ projects:
 
   - name: helping-check-answer
     greasy_fork_id: 367662
-    category: tool
+    category: misc
     labels: [web]
 
   - name: BIT-Moodle-Video-Speed-Up

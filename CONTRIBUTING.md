@@ -42,7 +42,7 @@
 
     直接使用模板即可。
 
-- 如果项目哪类也不算，`category`（类别）可以留空。
+- 如果项目哪类也不算，`category`（类别）请写“杂项”（misc）。
 
     另外可以[新建议题](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose)添加类别。
 
