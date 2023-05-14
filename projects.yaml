@@ -669,7 +669,7 @@ projects:
 
   - name: BIT-Moodle-Theme-Enhance
     greasy_fork_id: 397151
-    # Alternate:
+    # Alternative:
     # BIT-Moodle-Enhance
     # https://greasyfork.org/zh-CN/scripts/397149
     category: academic
