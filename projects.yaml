@@ -11,19 +11,33 @@ configuration:
   category_heading: robust
 
 categories:
-  - category: website
-    title: 🌏网站
   - category: template
     title: 📁模板
+  - category: agg
+    title: 📥汇总或重定向信息
+    subtitle: 其实什么信息都有，只是你可能没找到。
   - category: srun
-    title: 📡校园网
-    subtitle: 检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)）。
-  - category: tool
-    title: ⚒️工具
+    title: 🔑认证校园网
+    subtitle: 检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)。
+  - category: edu-cn
+    title: 📡学校网站与网络
+    subtitle: 给 *.edu.cn 打补丁。
+  - category: academic
+    title: 👩‍🏫教学运行与考务
+    subtitle: 选课、上课、查分、评教。
+  - category: cal
+    title: 📅管理时空流形
+    subtitle: 整理日程，预约书院社区、图书馆等。
   - category: learning
     title: 📚学习资料
   - category: exp
     title: 🧪实验／实践
+  - category: org
+    title: 🧑‍🤝‍🧑存在一定结构的人的集合
+    subtitle: 学生组织、社团及其它自发集体。
+  - category: apollo
+    title: 👩‍🚀First BIT for Mankind
+    subtitle: 由 BITers 发起，同时可能帮助其他人。
   - category: misc
     title: 🐱‍🐉杂项
 
@@ -52,12 +66,18 @@ projects:
     description: 百丽宫攻略、课程评价及资料、课表、查成绩。
     homepage: https://bit101.cn
     github_id: flwfdd/BIT101
-    category: website
+    category: agg
     labels: [Web, python]
 
   - name: BIThesis
     homepage: https://bithesis.bitnp.net
     github_id: BITNP/BIThesis
+    category: template
+    labels: [latex]
+
+  - name: BIThesis-wiki
+    github_id: BITNP/BIThesis-wiki
+    homepage: https://bithesis.bitnp.net
     category: template
     labels: [latex]
 
@@ -71,20 +91,20 @@ projects:
     github_id: YDX-2147483647/bulletin-issues-transferred
     gitee_id: YDX-2147483647/bulletin-issues-transferred
     homepage: https://haobit.top/dev/site/notice/
-    category: tool
+    category: agg
     labels: [Web]
 
   - name: BIT-enhanced
     github_id: YDX-2147483647/BIT-enhanced
     gitee_id: YDX-2147483647/BIT-enhanced
     homepage: https://ydx-2147483647.github.io/BIT-enhanced/
-    category: tool
+    category: edu-cn
     labels: [Web]
 
   - name: Bus Interrogation Tunnel
     github_id: YDX-2147483647/bus-interrogation-tunnel
     pypi_id: bus-interrogation-tunnel
-    category: tool
+    category: cal
     labels: [python]
 
   - name: 北京理工大学-本科-人工智能专业-通关经验包
@@ -118,18 +138,18 @@ projects:
   - name: Web VPN Converter
     github_id: spencerwooo/bit-webvpn-converter
     homepage: https://webvpn.swo.moe/
-    category: website
+    category: edu-cn
     labels: [Web]
 
   - name: BIT WebVPN URL 双向转换器（浏览器扩展）
     github_id: YDX-2147483647/bit-webvpn-converter-web-extension
     homepage: https://addons.mozilla.org/zh-CN/firefox/addon/bit-webvpn-converter/
-    category: tool
+    category: edu-cn
     labels: [Web]
 
   - name: BIT自动请假
     github_id: YoungKlaus/BIT_Auto_Leave
-    category: tool
+    category: cal
     labels: [python]
 
   - name: vouv/srun
@@ -139,7 +159,7 @@ projects:
 
   - name: 北京理工大学计算机学院视觉形象系统
     github_id: BITCS1958/BITCS-Visual-image-recognition-system
-    category: misc
+    category: org
 
   - name: BIT-Titled-Letter-Paper
     github_id: jincao2013/BIT-Titled-Letter-Paper
@@ -158,7 +178,7 @@ projects:
 
   - name: BIT睿信空间预约
     github_id: bitrxc/bitrxc-server
-    category: website
+    category: cal
     homepage: https://bitrxc.com
     labels: [web]
 
@@ -185,17 +205,17 @@ projects:
     homepage: https://bitft-wiki.vercel.app
     github_id: TT2TER/BITFTechWiki
     gitee_id: tt29294/BITFTechWiki
-    category: website
+    category: agg
 
   - name: HowMuch
     github_id: RaulWei/HowMuch
-    category: tool
+    category: academic
     labels: [python, web]
 
   - name: 北京理工大学大学生职业发展协会综合签到系统
     homepage: http://signsys.zhbitscda.com/
     github_id: zhbitscda/SCDA_signsys_latest
-    category: website
+    category: org
 
   - name: BIT-thesis-template
     github_id: PolarLion/BIT-thesis-template
@@ -238,11 +258,6 @@ projects:
     category: template
     labels: [latex]
 
-  - name: BIThesis-wiki
-    github_id: BITNP/BIThesis-wiki
-    category: website
-    labels: [latex]
-
   - name: BIT-Thesis-Bachelor
     github_id: wanicca/BIT-Thesis-Bachelor
     category: template
@@ -265,7 +280,7 @@ projects:
 
   - name: AutoBook
     gitee_id: guang-ming-fu/auto-book
-    category: tool
+    category: cal
     labels: [java]
 
   - name: 数字信号处理
@@ -288,19 +303,19 @@ projects:
   - name: 北京理工大学自动评教助手
     gitee_id: larry6799/pingjiao
     homepage: https://zhuanlan.zhihu.com/p/346248138
-    category: tool
+    category: academic
     labels: [python]
 
   - name: PyFMT
     gitee_id: spaitlab/py-fmt
     homepage: https://spaitlab.gitee.io/py-fmt/index.html
-    category: tool
+    category: apollo
     labels: [python]
 
   - name: PySPT
     gitee_id: spaitlab/py-spt
     homepage: https://spaitlab.gitee.io/py-spt/index.html
-    category: tool
+    category: apollo
     labels: [python]
 
   - name: 英语学习笔记
@@ -315,7 +330,7 @@ projects:
   - name: 合成北理工
     gitee_id: boboaini/synthetic-north-technology
     homepage: https://daxigua.liyupi.com
-    category: website
+    category: misc
     labels: [web]
 
   - name: 校内服务器联网脚本
@@ -331,76 +346,76 @@ projects:
   - name: 智能制造与智能计算实验室
     homepage: https://leidawt.gitee.io/bit-pse-public/
     gitee_id: leidawt/bit-pse
-    category: website
+    category: exp
 
   - name: BIT物理实验数据处理工具
     gitee_id: Creeper_LKF/BIT-Physics-Experiment
-    category: tool
+    category: misc
     labels: [python]
 
   - name: 延河课堂播放功能增强
     github_id: OrdosX/yanhekt-tool
     greasy_fork_id: 434987
-    category: tool
+    category: academic
     labels: [web]
 
   - name: BIT_yanhe_download
     github_id: AuYang261/BIT_yanhe_download
-    category: tool
+    category: academic
     labels: [python]
 
   - name: 北理工延河课堂视频下载
     github_id: GDDG08/YanHeKT_Downloader
-    category: tool
+    category: academic
     labels: [python]
 
   - name: lexue_ddl
     github_id: xiabee/lexue_ddl
-    category: tool
+    category: cal
     labels: [python]
 
   - name: Patch of BITJWC
     github_id: fenprace/Patch-of-BITJWC
-    category: tool
+    category: academic
     labels: [web]
 
   - name: cst-notifier
     github_id: UnicornBoss/cst-notifier
-    category: tool
+    category: agg
     labels: [python]
 
   - name: 一点儿北理地图
     homepage: https://map.bitnp.net/
     gitee_id: YDX-2147483647/map
-    category: website
+    category: cal
     labels: [web]
 
   - name: BIT CAS login
     gitee_id: felinae98/BIT-CAS-login
-    category: tool
+    category: misc
     labels: [python]
 
   - name: bit正方教务处
     gitee_id: felinae98/bitJwcToolkit
-    category: tool
+    category: academic
     labels: [python]
 
   - name: 网协主页
     homepage: https://www.bitnp.net/
     github_id: BITNP/bitnp-website
     gitee_id: iruhh/bitnp-website
-    category: website
+    category: org
     labels: [web]
 
   - name: 北京理工大学开源软件镜像服务
     homepage: https://mirrors.bit.edu.cn/
     github_id: BITNP/bitnp-mirrors-web
-    category: website
+    category: apollo
     labels: [web]
 
   - name: 幻影坦克快速发车工具(带图形界面)
     github_id: Aloxaf/MirageTankGo
-    category: tool
+    category: apollo
     labels: [python]
 
   - name: Batch_Collections ➡️ Campus_network
@@ -423,7 +438,7 @@ projects:
 
   - name: I_NEED_COURSE
     github_id: friskit-china/I_NEED_COURSE
-    category: tool
+    category: academic
     labels: [python]
 
   - name: BITLOGIN
@@ -461,28 +476,28 @@ projects:
   - name: bit_jwc
     description: 成绩查询、考试信息查询、一键评教。
     github_id: haohaolalahao/bit_jwc
-    category: tool
+    category: academic
     labels: [python]
 
   - name: bit-jwc-v1
     description: 教务处数据、微信交互、登录北理在线、课表简单排序。
     github_id: Freeza91/bit-jwc-v1
-    category: misc
+    category: academic
 
   - name: Starry-BITPT
     github_id: frantic1048/Starry-BITPT
-    category: tool
+    category: org
     labels: [web]
 
   - name: 图书馆座位预约系统辅助工具
     github_id: DefJia/Auto_Reservation_System_BE
-    category: tool
+    category: cal
     labels: [python]
 
   - name: 理治棋壮
     description: 一个基于中国象棋通用引擎协议（UCCI）的中国象棋计算机博弈引擎。
     github_id: sswv/bitstronger
-    category: misc
+    category: apollo
     labels: [cpp]
 
   - name: 数据挖掘
@@ -492,19 +507,19 @@ projects:
 
   - name: BUApp
     github_id: wuhao-ouyang/BUApp
-    category: tool
+    category: org
 
   - name: 北理FTP联盟定时自动刷贴
     github_id: Freeza91/bit-ftp
-    category: tool
+    category: org
 
   - name: bitunion
     github_id: finalion/bitunion
-    category: tool
+    category: org
 
   - name: BITSTAR
     github_id: WangTe/BITSTAR
-    category: website
+    category: agg
 
   - name: BIT_Matrix_Analysis_Course
     github_id: NeoSunJZ/BIT_Matrix_Analysis_Course
@@ -517,12 +532,12 @@ projects:
 
   - name: 北京理工大学邮箱推送服务
     github_id: lywly/BIT_Mail_Monitor
-    category: tool
+    category: misc
     labels: [python]
 
   - name: BIT_Mail_Backup
     github_id: lywly/BIT_Mail_Backup
-    category: tool
+    category: misc
     labels: [python]
 
   - name: BITLogin-Node
@@ -541,12 +556,12 @@ projects:
 
   - name: 北理工自动签到脚本（研究生每晚宿舍签到）
     github_id: WD11/bit_register_auto
-    category: tool
+    category: misc
     labels: [python]
 
   - name: oh_my_course
     github_id: MichaelToLearn/oh_my_course
-    category: tool
+    category: academic
     labels: [python]
 
   - name: BitWebClient
@@ -562,12 +577,12 @@ projects:
   - name: yanhekt-killer
     description: Eliminate the unfair authority, when we try to learn more in yanhekt.
     github_id: LeiyaoCui/yanhekt-killer
-    category: tool
+    category: academic
     labels: [web]
 
   - name: YanhePrivilege
     github_id: BIT-BOBH/YanhePrivilege
-    category: tool
+    category: academic
     labels: [web]
 
   - name: zu1k/srun
@@ -578,22 +593,22 @@ projects:
   - name: bPlanner
     homepage: https://zaibit.com
     github_id: phy25/bPlanner
-    category: tool
+    category: cal
 
   - name: zaiBIT
     homepage: https://zaibit.com
     github_id: phy25/zaiBITstatic
-    category: website
+    category: agg
 
   - name: WebvpnExploit
     github_id: BIT-BOBH/WebvpnExploit
     homepage: https://webvpn.bit.edu.cn/https/77726476706e69737468656265737421e7f2438a373e2652771cc7b69d5b2730bb0f351d/
-    category: misc
+    category: edu-cn
     labels: [web]
 
   - name: 学生事务中心办事指南
     homepage: https://howto.info.bit.edu.cn/
-    category: website
+    category: agg
     license: CC BY 4.0
     description: “办事指南” DokuWiki 站点，由北京理工大学学生事务中心建立，目前处于试运行阶段。
     # 修改自 http://howto.info.bit.edu.cn/about
@@ -602,19 +617,19 @@ projects:
 
   - name: message_send
     github_id: Z-ly/message_send
-    category: tool
+    category: misc
     labels: [python]
 
   - name: bitroom (Book an Incongruent Topological Room Or be Out of Mind)
     github_id: YDX-2147483647/bitroom
-    category: tool
+    category: cal
     labels: [python]
     pypi_id: bitroom
     docs_url: https://github.com/YDX-2147483647/bitroom/wiki
 
   - name: BITNP LibreSpeed 内网测速
     github_id: everything411/speedtest-go
-    category: website
+    category: edu-cn
     homepage: http://speed.bitnp.net/
 
   - name: 10.0.0.55 enhance
@@ -625,58 +640,58 @@ projects:
 
   - name: 优化北理工成绩列表显示
     greasy_fork_id: 456009
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 北京理工大学评教脚本
     greasy_fork_id: 446772
-    category: tool
+    category: academic
     labels: [web]
 
   - name: BIT北理工一键评教 - pj.bit.edu.cn
     greasy_fork_id: 456110
-    category: tool
+    category: academic
     labels: [web]
 
   - name: helping-check-answer
     greasy_fork_id: 367662
-    category: tool
+    category: misc
     labels: [web]
 
   - name: BIT-Moodle-Video-Speed-Up
     greasy_fork_id: 396818
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 北理乐学视频下载助手
     greasy_fork_id: 422933
-    category: tool
+    category: academic
     labels: [web]
 
   - name: BIT-Moodle-Theme-Enhance
     greasy_fork_id: 397151
-    # Alternate:
+    # Alternative:
     # BIT-Moodle-Enhance
     # https://greasyfork.org/zh-CN/scripts/397149
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 北理乐学美化
     greasy_fork_id: 415353
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 延河课堂视频下载
     greasy_fork_id: 420055
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 北理工乐学增强
     greasy_fork_id: 34730
-    category: tool
+    category: academic
     labels: [web]
 
   - name: 让北理工网站正常一点
     greasy_fork_id: 33194
-    category: tool
+    category: edu-cn
     labels: [web]
