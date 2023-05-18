@@ -695,3 +695,8 @@ projects:
     greasy_fork_id: 33194
     category: edu-cn
     labels: [web]
+
+  - name: 北京理工大学集成电路设计实践1
+    github_id: Devil-SX/integrated_circuit_practice
+    category: learning
+    labels: [hdl]
