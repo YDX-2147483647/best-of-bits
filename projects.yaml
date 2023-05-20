@@ -700,3 +700,7 @@ projects:
     github_id: Devil-SX/integrated_circuit_practice
     category: learning
     labels: [hdl]
+
+  - name: 问答：操作系统原理
+    github_id: YDX-2147483647/os_qa
+    category: learning
