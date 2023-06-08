@@ -714,3 +714,8 @@ projects:
   - name: 问答：操作系统原理
     github_id: YDX-2147483647/os_qa
     category: learning
+
+  - name: detect-BITOJ
+    github_id: YDX-2147483647/detect-BITOJ
+    category: academic
+    labels: [python]
