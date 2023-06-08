@@ -67,7 +67,17 @@ projects:
     homepage: https://bit101.cn
     github_id: flwfdd/BIT101
     category: agg
-    labels: [Web, python]
+    labels: [web]
+
+  - name: BIT101-GO
+    homepage: https://bit101.cn
+    github_id: flwfdd/BIT101-GO
+    category: agg
+    labels: [go]
+
+  - name: BIT101-Android
+    github_id: flwfdd/BIT101-Android
+    category: agg
 
   - name: BIThesis
     homepage: https://bithesis.bitnp.net
