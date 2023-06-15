@@ -10,24 +10,24 @@
 
 <p align="center">
     <a href="https://best-of.org"><img alt="best-of badge" src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="项目数量"><img alt="projects 120" src="https://img.shields.io/badge/projects-120-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="项目数量"><img alt="projects 130" src="https://img.shields.io/badge/projects-130-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img alt="Contributions Welcome" src="https://img.shields.io/badge/Contributions-Welcome-green.svg"></a>
     <a href="https://github.com/YDX-2147483647/best-of-bits/releases" title="最近更新"><img alt="updated" src="https://img.shields.io/github/release-date/YDX-2147483647/best-of-bits?color=green&label=updated"></a>
     <a href="https://github.com/YDX-2147483647/best-of-bits/"><img alt="Source GitHub" src="https://img.shields.io/badge/Source-GitHub-lightgray?logo=github"></a>
     <a href="https://gitee.com/YDX-2147483647/best-of-bits/"><img alt="Mirror Gitee" src="https://img.shields.io/badge/Mirror-Gitee-red?logo=gitee"></a>
 </p>
 
-这是一个北京理工大学相关的精选列表，包含 11 类 120 个开源项目，它们总计获得了 2.7K 颗星。这些项目会按质量排名，分数根据 GitHub 和各种包管理器自动计算，每周更新。您可以随时添加或更新项目：新建[议题](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose)、提交[拉取请求](https://github.com/YDX-2147483647/best-of-bits/pulls)或直接编辑[`projects.yaml`](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)——都非常欢迎！
+这是一个北京理工大学相关的精选列表，包含 11 类 130 个开源项目，它们总计获得了 2.8K 颗星。这些项目会按质量排名，分数根据 GitHub 和各种包管理器自动计算，每周更新。您可以随时添加或更新项目：新建[议题](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose)、提交[拉取请求](https://github.com/YDX-2147483647/best-of-bits/pulls)或直接编辑[`projects.yaml`](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)——都非常欢迎！
 
 > 🧙‍♂️ 探索其它 [best-of lists](https://best-of.org)，或者[自己创建一个](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md)。
 
 ## Contents
 
 - [📁模板](#template) _12 projects_
-- [📥汇总或重定向信息](#agg) _7 projects_
+- [📥汇总或重定向信息](#agg) _9 projects_
 - [🔑认证校园网](#srun) _22 projects_
 - [📡学校网站与网络](#edu-cn) _6 projects_
-- [👩‍🏫教学运行与考务](#academic) _21 projects_
+- [👩‍🏫教学运行与考务](#academic) _22 projects_
 - [📅管理时空流形](#cal) _9 projects_
 - [📚学习资料](#learning) _15 projects_
 - [🧪实验／实践](#exp) _8 projects_
@@ -57,17 +57,17 @@
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://bithesis.bitnp.net">BIThesis</a></b> (🥇21 ·  ⭐ 430) - 📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）. <code><a href="https://tldrlegal.com/search?q=LPPL-1.3c">❗️LPPL-1.3c</a></code> <code>📜LaTeX</code></summary>
+<details><summary><b><a href="https://bithesis.bitnp.net">BIThesis</a></b> (🥇21 ·  ⭐ 440) - 📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）. <code><a href="https://tldrlegal.com/search?q=LPPL-1.3c">❗️LPPL-1.3c</a></code> <code>📜LaTeX</code></summary>
 
-- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 22 · 🔀 91 · 📥 7.3K · 📋 170 - 4% open · ⏱️ 07.06.2023):
+- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 22 · 🔀 91 · 📥 7.5K · 📋 170 - 2% open · ⏱️ 12.06.2023):
 
 	```
 	git clone https://github.com/BITNP/BIThesis
 	```
 </details>
-<details><summary><b><a href="https://bithesis.bitnp.net">BIThesis-wiki</a></b> (🥇10 ·  ⭐ 6 · 📉) - 非官方本科生毕业设计论文/研究生学位论文 LaTeX 模板（以及更多）在线文档. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code> <code>📜LaTeX</code></summary>
+<details><summary><b><a href="https://bithesis.bitnp.net">BIThesis-wiki</a></b> (🥇11 ·  ⭐ 6 · 📈) - 非官方本科生毕业设计论文/研究生学位论文 LaTeX 模板（以及更多）在线文档. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code> <code>📜LaTeX</code></summary>
 
-- [GitHub](https://github.com/BITNP/BIThesis-wiki) (👨‍💻 13 · 🔀 3 · 📋 33 - 21% open · ⏱️ 29.05.2023):
+- [GitHub](https://github.com/BITNP/BIThesis-wiki) (👨‍💻 13 · 🔀 3 · 📋 33 - 21% open · ⏱️ 11.06.2023):
 
 	```
 	git clone https://github.com/BITNP/BIThesis-wiki
@@ -91,7 +91,7 @@
 </details>
 <details><summary>Show 8 hidden projects...</summary>
 
-- <b><a href="https://github.com/BIT-thesis/LaTeX-template">BIT-Thesis</a></b> (🥇10 ·  ⭐ 320 · 💀) - LaTeX template for BIT thesis. <code>❗Unlicensed</code> <code>📜LaTeX</code>
+- <b><a href="https://github.com/BIT-thesis/LaTeX-template">BIT-Thesis</a></b> (🥈10 ·  ⭐ 320 · 💀) - LaTeX template for BIT thesis. <code>❗Unlicensed</code> <code>📜LaTeX</code>
 - <b><a href="https://github.com/qiuzhu/BITthesis">BITthesis</a></b> (🥈7 ·  ⭐ 57 · 💀) - Thesis Template of Beijing Institute of Technology Using LaTeX. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code>📜LaTeX</code>
 - <b><a href="https://github.com/jiandahao/BIT-thesis-LaTex">BIT-thesis-LaTex</a></b> (🥈6 ·  ⭐ 47 · 💀) - 北京理工大学学硕士/博士学位毕业论文LaTeX模板（LaTeX Template for BIT thesis）. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>📜LaTeX</code>
 - <b><a href="https://github.com/CharlieLeee/BIT-Report-LaTeX">BIT-Report-LaTeX</a></b> (🥈6 ·  ⭐ 8 · 💀) - English and Chinese LaTeX template for reports/projects/proposal at Beijing Institute of Technology. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>📜LaTeX</code>
@@ -108,7 +108,7 @@
 
 _其实什么信息都有，只是你可能没找到。_
 
-<details><summary><b><a href="https://haobit.top/dev/site/notice/">Bulletin Issues Transferred</a></b> (🥇8 ·  ⭐ 19) - 汇总BIT各种网站的通知。（以及钉钉、RSS插件等）. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code></summary>
+<details><summary><b><a href="https://haobit.top/dev/site/notice/">Bulletin Issues Transferred</a></b> (🥇8 ·  ⭐ 20) - 汇总BIT各种网站的通知。（以及钉钉、RSS插件等）. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code></summary>
 
 - [GitHub](https://github.com/YDX-2147483647/bulletin-issues-transferred) (👨‍💻 3 · 🔀 1 · 📋 20 - 15% open · ⏱️ 22.05.2023):
 
@@ -121,12 +121,20 @@ _其实什么信息都有，只是你可能没找到。_
 	git clone https://gitee.com/YDX-2147483647/bulletin-issues-transferred
 	```
 </details>
-<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥈7 ·  ⭐ 54) - 百丽宫攻略、课程评价及资料、课表、查成绩。. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code>🕸️Web</code> <code>🐍Python</code></summary>
+<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥈7 ·  ⭐ 55) - 百丽宫攻略、课程评价及资料、课表、查成绩。. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code>🕸️Web</code></summary>
 
 - [GitHub](https://github.com/flwfdd/BIT101) (👨‍💻 2 · 🔀 3 · 📋 10 - 40% open · ⏱️ 18.05.2023):
 
 	```
 	git clone https://github.com/flwfdd/BIT101
+	```
+</details>
+<details><summary><b><a href="https://bit101.cn">BIT101-GO</a></b> (🥈4 ·  ⭐ 2 · 🐣) - 针对北京理工大学搞的怪东西后面的东西. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code>💨Go</code></summary>
+
+- [GitHub](https://github.com/flwfdd/BIT101-GO) (⏱️ 08.06.2023):
+
+	```
+	git clone https://github.com/flwfdd/BIT101-GO
 	```
 </details>
 <details><summary><b><a href="https://bitft-wiki.vercel.app">未来精工生存指南</a></b> (🥈4 · 💤) - 北理工未来精工技术学院生存指南. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
@@ -140,6 +148,14 @@ _其实什么信息都有，只是你可能没找到。_
 
 	```
 	git clone https://gitee.com/tt29294/BITFTechWiki
+	```
+</details>
+<details><summary><b><a href="https://github.com/flwfdd/BIT101-Android">BIT101-Android</a></b> (🥉3 ·  ⭐ 5 · 🐣) - 针对北京理工大学搞的怪安卓. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/flwfdd/BIT101-Android) (⏱️ 22.05.2023):
+
+	```
+	git clone https://github.com/flwfdd/BIT101-Android
 	```
 </details>
 <details><summary>Show 4 hidden projects...</summary>
@@ -157,9 +173,9 @@ _其实什么信息都有，只是你可能没找到。_
 
 _检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)。_
 
-<details><summary><b><a href="https://github.com/Mmx233/BitSrunLoginGo">BitSrunLoginGo</a></b> (🥇15 ·  ⭐ 150 · 📈) - 深澜校园网登录程序 Go 语言版，适用于路由器、windows、linux 等。提供对 OpenWrt、Docker、Go Module 的支持. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code>💨Go</code></summary>
+<details><summary><b><a href="https://github.com/Mmx233/BitSrunLoginGo">BitSrunLoginGo</a></b> (🥇14 ·  ⭐ 150 · 📉) - 深澜校园网登录程序 Go 语言版，适用于路由器、windows、linux 等。提供对 OpenWrt、Docker、Go Module 的支持. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code>💨Go</code></summary>
 
-- [GitHub](https://github.com/Mmx233/BitSrunLoginGo) (👨‍💻 4 · 🔀 21 · 📥 1.9K · ⏱️ 04.06.2023):
+- [GitHub](https://github.com/Mmx233/BitSrunLoginGo) (👨‍💻 4 · 🔀 20 · 📥 2K · ⏱️ 04.06.2023):
 
 	```
 	git clone https://github.com/Mmx233/BitSrunLoginGo
@@ -173,21 +189,21 @@ _检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)。_
 	git clone https://github.com/vouv/srun
 	```
 </details>
-<details><summary><b><a href="https://github.com/BITNP/bitsrun">bitsrun</a></b> (🥇14 ·  ⭐ 34) - A headless login / logout script for 10.0.0.55 at BIT. 北京理工大学 10.0.0.55 校园网登录登出的 Python 实现. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code> <code>🐍Python</code></summary>
+<details><summary><b><a href="https://github.com/BITNP/bitsrun">bitsrun</a></b> (🥈13 ·  ⭐ 34 · 📉) - A headless login / logout script for 10.0.0.55 at BIT. 北京理工大学 10.0.0.55 校园网登录登出的 Python 实现. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code> <code>🐍Python</code></summary>
 
 - [GitHub](https://github.com/BITNP/bitsrun) (👨‍💻 7 · 🔀 8 · 📋 7 - 14% open · ⏱️ 09.05.2023):
 
 	```
 	git clone https://github.com/BITNP/bitsrun
 	```
-- [PyPi](https://pypi.org/project/bitsrun) (📥 220 / month):
+- [PyPi](https://pypi.org/project/bitsrun) (📥 180 / month):
 	```
 	pip install bitsrun
 	```
 </details>
 <details><summary><b><a href="https://github.com/zu1k/srun">zu1k/srun</a></b> (🥈10 ·  ⭐ 140) - srun 深澜认证登录，超轻量、多平台，支持多拨、自动探测IP、指定网卡. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code>🦀Rust</code></summary>
 
-- [GitHub](https://github.com/zu1k/srun) (👨‍💻 3 · 🔀 12 · 📥 1.4K · ⏱️ 11.04.2023):
+- [GitHub](https://github.com/zu1k/srun) (👨‍💻 3 · 🔀 12 · 📥 1.5K · ⏱️ 11.04.2023):
 
 	```
 	git clone https://github.com/zu1k/srun
@@ -245,20 +261,20 @@ _给 *.edu.cn 打补丁。_
 
 <details><summary><b><a href="https://webvpn.swo.moe/">Web VPN Converter</a></b> (🥇11 ·  ⭐ 70) - Web VPN converter. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
 
-- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 24 · 📋 8 - 12% open · ⏱️ 07.06.2023):
+- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 25 · 📋 8 - 12% open · ⏱️ 13.06.2023):
 
 	```
 	git clone https://github.com/spencerwooo/bit-webvpn-converter
 	```
 </details>
-<details><summary><b><a href="https://ydx-2147483647.github.io/BIT-enhanced/">BIT-enhanced</a></b> (🥈5 ·  ⭐ 4) - 一些方便大家使用 BIT 相关网站的用户脚本和用户样式表。. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code>🕸️Web</code></summary>
+<details><summary><b><a href="https://ydx-2147483647.github.io/BIT-enhanced/">BIT-enhanced</a></b> (🥈5 ·  ⭐ 5) - 一些方便大家使用 BIT 相关网站的用户脚本和用户样式表。. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code>🕸️Web</code></summary>
 
-- [GitHub](https://github.com/YDX-2147483647/BIT-enhanced) (👨‍💻 2 · 🔀 3 · 📋 3 - 33% open · ⏱️ 03.05.2023):
+- [GitHub](https://github.com/YDX-2147483647/BIT-enhanced) (👨‍💻 2 · 🔀 3 · 📋 3 - 33% open · ⏱️ 14.06.2023):
 
 	```
 	git clone https://github.com/YDX-2147483647/BIT-enhanced
 	```
-- [Gitee](https://gitee.com/YDX-2147483647/BIT-enhanced) (🔀 3 · 📋 3 - 33% open · ⏱️ 03.05.2023):
+- [Gitee](https://gitee.com/YDX-2147483647/BIT-enhanced) (🔀 3 · 📋 3 - 33% open · ⏱️ 14.06.2023):
 
 	```
 	git clone https://gitee.com/YDX-2147483647/BIT-enhanced
@@ -293,7 +309,7 @@ _给 *.edu.cn 打补丁。_
 
 _选课、上课、查分、评教。_
 
-<details><summary><b><a href="https://github.com/AuYang261/BIT_yanhe_download">BIT_yanhe_download</a></b> (🥇4 ·  ⭐ 9 · 🐣) - 北京理工大学延河课堂回放下载器. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🐍Python</code></summary>
+<details><summary><b><a href="https://github.com/AuYang261/BIT_yanhe_download">BIT_yanhe_download</a></b> (🥇4 ·  ⭐ 10 · 🐣) - 北京理工大学延河课堂回放下载器. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🐍Python</code></summary>
 
 - [GitHub](https://github.com/AuYang261/BIT_yanhe_download) (👨‍💻 2 · 🔀 1 · ⏱️ 16.05.2023):
 
@@ -301,9 +317,9 @@ _选课、上课、查分、评教。_
 	git clone https://github.com/AuYang261/BIT_yanhe_download
 	```
 </details>
-<details><summary><b><a href="https://github.com/GDDG08/YanHeKT_Downloader">北理工延河课堂视频下载</a></b> (🥇4 ·  ⭐ 8 · 🐣) - 北理工延河课堂视频下载. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code>🐍Python</code></summary>
+<details><summary><b><a href="https://github.com/GDDG08/YanHeKT_Downloader">北理工延河课堂视频下载</a></b> (🥇4 ·  ⭐ 9 · 🐣) - 北理工延河课堂视频下载. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <code>🐍Python</code></summary>
 
-- [GitHub](https://github.com/GDDG08/YanHeKT_Downloader) (👨‍💻 2 · 🔀 1 · 📥 13 · ⏱️ 17.05.2023):
+- [GitHub](https://github.com/GDDG08/YanHeKT_Downloader) (👨‍💻 2 · 🔀 1 · 📥 14 · ⏱️ 17.05.2023):
 
 	```
 	git clone https://github.com/GDDG08/YanHeKT_Downloader
@@ -316,13 +332,21 @@ _选课、上课、查分、评教。_
 </details>
 <details><summary><b><a href="https://greasyfork.org/scripts/446772-%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E8%AF%84%E6%95%99%E8%84%9A%E6%9C%AC">北京理工大学评教脚本</a></b> (🥇4 · 💤) - 北理工一键评教. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code></summary>
 
-- [Greasy Fork](https://greasyfork.org/scripts/446772)  (📥 18 (total) · 🌟 5):
+- [Greasy Fork](https://greasyfork.org/scripts/446772)  (📥 19 (total) · 🌟 5):
 	[446772](https://greasyfork.org/scripts/446772-%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E8%AF%84%E6%95%99%E8%84%9A%E6%9C%AC/code/%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E8%AF%84%E6%95%99%E8%84%9A%E6%9C%AC.user.js)
 </details>
 <details><summary><b><a href="https://greasyfork.org/scripts/456110-bit%E5%8C%97%E7%90%86%E5%B7%A5%E4%B8%80%E9%94%AE%E8%AF%84%E6%95%99-pj-bit-edu-cn">BIT北理工一键评教 - pj.bit.edu.cn</a></b> (🥇4 · 🐣) - 2022/12/6 16:46:46. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🕸️Web</code></summary>
 
 - [Greasy Fork](https://greasyfork.org/scripts/456110)  (📥 12 (total) · 🌟 5):
 	[456110](https://greasyfork.org/scripts/456110-bit%E5%8C%97%E7%90%86%E5%B7%A5%E4%B8%80%E9%94%AE%E8%AF%84%E6%95%99-pj-bit-edu-cn/code/BIT%E5%8C%97%E7%90%86%E5%B7%A5%E4%B8%80%E9%94%AE%E8%AF%84%E6%95%99%20-%20pjbiteducn.user.js)
+</details>
+<details><summary><b><a href="https://github.com/YDX-2147483647/detect-BITOJ">detect-BITOJ</a></b> (🥉2 ·  ⭐ 2 · 💤) - 探测BIT乐学OJ的保密测试用例（合法方法）. <code>❗Unlicensed</code> <code>🐍Python</code></summary>
+
+- [GitHub](https://github.com/YDX-2147483647/detect-BITOJ) (🔀 2 · ⏱️ 25.10.2022):
+
+	```
+	git clone https://github.com/YDX-2147483647/detect-BITOJ
+	```
 </details>
 <details><summary><b><a href="https://github.com/BIT-BOBH/YanhePrivilege">YanhePrivilege</a></b> (🥉1 ·  ⭐ 1 · 💤) - A tampermonkey script that allows you to play any class video in YanheKetang. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
 
@@ -336,12 +360,12 @@ _选课、上课、查分、评教。_
 
 - <b><a href="https://github.com/Freeza91/bit-jwc-v1">bit-jwc-v1</a></b> (🥇4 ·  ⭐ 3 · 💀) - 教务处数据、微信交互、登录北理在线、课表简单排序。. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/MichaelToLearn/oh_my_course">oh_my_course</a></b> (🥇4 ·  ⭐ 3 · 💀) - 【北理工】填一个excel表格就能抢课的python脚本。. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>🐍Python</code>
-- <b><a href="https://github.com/friskit-china/I_NEED_COURSE">I_NEED_COURSE</a></b> (🥈3 ·  ⭐ 14 · 💀) - 北理工教务系统抢课工具. <code>❗Unlicensed</code> <code>🐍Python</code>
 - <b><a href="https://github.com/RaulWei/HowMuch">HowMuch</a></b> (🥈3 · 💀) - 北京理工大学研究生教务处机器人. <code>❗Unlicensed</code> <code>🐍Python</code> <code>🕸️Web</code>
-- <b><a href="https://github.com/haohaolalahao/bit_jwc">bit_jwc</a></b> (🥈3 · 💀) - 成绩查询、考试信息查询、一键评教。. <code>❗Unlicensed</code> <code>🐍Python</code>
 - <b><a href="https://greasyfork.org/scripts/34730-%E5%8C%97%E7%90%86%E5%B7%A5%E4%B9%90%E5%AD%A6%E5%A2%9E%E5%BC%BA">北理工乐学增强</a></b> (🥈3 · 💀) - 增强北理工乐学的功能. <code>❗Unlicensed</code> <code>🕸️Web</code>
+- <b><a href="https://github.com/friskit-china/I_NEED_COURSE">I_NEED_COURSE</a></b> (🥉2 ·  ⭐ 14 · 💀) - 北理工教务系统抢课工具. <code>❗Unlicensed</code> <code>🐍Python</code>
 - <b><a href="https://github.com/fenprace/Patch-of-BITJWC">Patch of BITJWC</a></b> (🥉2 ·  ⭐ 2 · 💀) - A script fixing bugs on the pages of jwc.bit.edu.cn. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code>🕸️Web</code>
 - <b><a href="https://github.com/OrdosX/yanhekt-tool">延河课堂播放功能增强</a></b> (🥉2 ·  ⭐ 1 · 💀) - 延河课堂播放功能增强脚本. <code>❗Unlicensed</code> <code>🕸️Web</code>
+- <b><a href="https://github.com/haohaolalahao/bit_jwc">bit_jwc</a></b> (🥉2 · 💀) - 成绩查询、考试信息查询、一键评教。. <code>❗Unlicensed</code> <code>🐍Python</code>
 - <b><a href="https://greasyfork.org/scripts/396818-bit-moodle-video-speed-up">BIT-Moodle-Video-Speed-Up</a></b> (🥉2 · 💀) - 北理乐学视频倍率播放. <code>❗Unlicensed</code> <code>🕸️Web</code>
 - <b><a href="https://greasyfork.org/scripts/422933-%E5%8C%97%E7%90%86%E4%B9%90%E5%AD%A6%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B">北理乐学视频下载助手</a></b> (🥉2 · 💀) - 将课程列表的播放页面链接替换成视频文件下载链接！. <code>❗Unlicensed</code> <code>🕸️Web</code>
 - <b><a href="https://greasyfork.org/scripts/397151-bit-moodle-theme-enhance">BIT-Moodle-Theme-Enhance</a></b> (🥉2 · 💀) - provide mordern theme design for moodle system. <code>❗Unlicensed</code> <code>🕸️Web</code>
@@ -358,14 +382,14 @@ _选课、上课、查分、评教。_
 
 _整理日程，预约书院社区、图书馆等。_
 
-<details><summary><b><a href="https://github.com/YDX-2147483647/bitroom">bitroom (Book an Incongruent Topological Room Or be Out of Mind)</a></b> (🥇8 · 🐣) - BIT 场地预约查询接口。（bitroom）🚩🏠. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🐍Python</code></summary>
+<details><summary><b><a href="https://github.com/YDX-2147483647/bitroom">bitroom (Book an Incongruent Topological Room Or be Out of Mind)</a></b> (🥇7 · 🐣) - BIT 场地预约查询接口。（bitroom）🚩🏠. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🐍Python</code></summary>
 
 - [GitHub](https://github.com/YDX-2147483647/bitroom) (📋 5 - 40% open · ⏱️ 18.05.2023):
 
 	```
 	git clone https://github.com/YDX-2147483647/bitroom
 	```
-- [PyPi](https://pypi.org/project/bitroom) (📥 160 / month):
+- [PyPi](https://pypi.org/project/bitroom) (📥 140 / month):
 	```
 	pip install bitroom
 	```
@@ -386,7 +410,7 @@ _整理日程，预约书院社区、图书馆等。_
 	git clone https://github.com/xiabee/lexue_ddl
 	```
 </details>
-<details><summary><b><a href="https://map.bitnp.net/">一点儿北理地图</a></b> (🥉3 ·  ⭐ 4 · 📈) - 一个校园地图。 校内：https://map.bitnp.net/ 。 旧版：https://capchdo.com/xyc/map 。. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
+<details><summary><b><a href="https://map.bitnp.net/">一点儿北理地图</a></b> (🥉3 ·  ⭐ 4) - 一个校园地图。 校内：https://map.bitnp.net/ 。 旧版：https://capchdo.com/xyc/map 。. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
 
 - [Gitee](https://gitee.com/YDX-2147483647/map) (🔀 0 · ⏱️ 01.06.2023):
 
@@ -394,14 +418,14 @@ _整理日程，预约书院社区、图书馆等。_
 	git clone https://gitee.com/YDX-2147483647/map
 	```
 </details>
-<details><summary><b><a href="https://github.com/YDX-2147483647/bus-interrogation-tunnel">Bus Interrogation Tunnel</a></b> (🥉3 ·  ⭐ 2 · 🐣) - BIT 班车查询接口。（bitbus）🚌. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🐍Python</code></summary>
+<details><summary><b><a href="https://github.com/YDX-2147483647/bus-interrogation-tunnel">Bus Interrogation Tunnel</a></b> (🥉2 ·  ⭐ 2 · 🐣) - BIT 班车查询接口。（bitbus）🚌. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>🐍Python</code></summary>
 
 - [GitHub](https://github.com/YDX-2147483647/bus-interrogation-tunnel) (⏱️ 21.04.2023):
 
 	```
 	git clone https://github.com/YDX-2147483647/bus-interrogation-tunnel
 	```
-- [PyPi](https://pypi.org/project/bus-interrogation-tunnel) (📥 14 / month):
+- [PyPi](https://pypi.org/project/bus-interrogation-tunnel) (📥 13 / month):
 	```
 	pip install bus-interrogation-tunnel
 	```
@@ -426,15 +450,15 @@ _整理日程，预约书院社区、图书馆等。_
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/songshangru/BIT-CS-Learning">BIT-CS-Learning</a></b> (🥇8 ·  ⭐ 130 · 📈) - 保存一下我自己整理的北理工计科的学习资料，欢迎分享资源. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/songshangru/BIT-CS-Learning">BIT-CS-Learning</a></b> (🥇8 ·  ⭐ 140) - 保存一下我自己整理的北理工计科的学习资料，欢迎分享资源. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/songshangru/BIT-CS-Learning) (👨‍💻 4 · 🔀 49 · ⏱️ 04.06.2023):
+- [GitHub](https://github.com/songshangru/BIT-CS-Learning) (👨‍💻 5 · 🔀 49 · ⏱️ 10.06.2023):
 
 	```
 	git clone https://github.com/songshangru/BIT-CS-Learning
 	```
 </details>
-<details><summary><b><a href="https://github.com/Robin-WZQ/BIT-AI-Review">北京理工大学-本科-人工智能专业-通关经验包</a></b> (🥈6 ·  ⭐ 41 · 📈) - 本项目分享了本人在北京理工大学计算机学院人工智能专业的相关课程资料与经验分享。希望对你们有所帮助❤️，如果喜欢的话记得给个star哦🌟. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Robin-WZQ/BIT-AI-Review">北京理工大学-本科-人工智能专业-通关经验包</a></b> (🥈6 ·  ⭐ 49) - 本项目分享了本人在北京理工大学计算机学院人工智能专业的相关课程资料与经验分享。希望对你们有所帮助❤️，如果喜欢的话记得给个star哦🌟. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/Robin-WZQ/BIT-AI-Review) (👨‍💻 3 · 🔀 6 · 📋 2 - 50% open · ⏱️ 07.06.2023):
 
@@ -484,10 +508,10 @@ _整理日程，预约书院社区、图书馆等。_
 </details>
 <details><summary>Show 8 hidden projects...</summary>
 
-- <b><a href="https://github.com/xiabee/BIT-CS">BIT-CS</a></b> (🥇9 ·  ⭐ 130 · 💀) - 北京理工大学计算机学院课程代码/历年试卷/知识点总结等，欢迎PR. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/xiabee/BIT-CS">BIT-CS</a></b> (🥇9 ·  ⭐ 140 · 💀) - 北京理工大学计算机学院课程代码/历年试卷/知识点总结等，欢迎PR. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/spencerwooo/BITCS-Coursework">BITCS Coursework</a></b> (🥈7 ·  ⭐ 120 · 💀) - 不完整北京理工大学计算机学院课程项目资料清单。. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code>
-- <b><a href="https://github.com/zedarbit/BITCS-final-exam-learning-materials-1">BITCS-final-exam-learning-materials-1</a></b> (🥈6 ·  ⭐ 31 · 💀) - 北理工计算机大一到大四各学期CS期末考试复习资料/历年考题汇总，欢迎PR. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
-- <b><a href="https://github.com/tulerfeng/BITCS-final-exam-learning-materials">BITCS-final-exam-learning-materials</a></b> (🥉5 ·  ⭐ 33 · 💀) - 北理工计算机CS期末考试复习资料/历年考题汇总，欢迎PR. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/zedarbit/BITCS-final-exam-learning-materials-1">BITCS-final-exam-learning-materials-1</a></b> (🥈6 ·  ⭐ 37 · 💀) - 北理工计算机大一到大四各学期CS期末考试复习资料/历年考题汇总，欢迎PR. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/tulerfeng/BITCS-final-exam-learning-materials">BITCS-final-exam-learning-materials</a></b> (🥉5 ·  ⭐ 35 · 💀) - 北理工计算机CS期末考试复习资料/历年考题汇总，欢迎PR. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/BITNP/SecretWeapon">SecretWeapon</a></b> (🥉5 ·  ⭐ 23 · 💀) - Secret weapons that arm your studies. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/BIT-thesis/LaTeX-materials">LaTeX-materials</a></b> (🥉4 ·  ⭐ 55 · 💀) - LaTeX 学习资料 （for BIT-Thesis）. <code>❗Unlicensed</code> <code>📜LaTeX</code>
 - <b><a href="https://gitee.com/chen_zi_chung/Machine-Learning-with-Python">Python机器学习应用</a></b> ( ⭐ 1 · 💀) - 北京理工大学Python相关系列全套课程. <code>❗Unlicensed</code>
@@ -527,7 +551,7 @@ _整理日程，预约书院社区、图书馆等。_
 
 - <b><a href="https://bitdm.github.io/">数据挖掘</a></b> (🥇11 ·  ⭐ 41 · 💀) - Contents for data mining course. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/bit-mips/bitmips_experiments">MIPS 指令集 CPU 设计</a></b> (🥈6 ·  ⭐ 29 · 💀) - 北京理工大学 MIPS 指令集 CPU 设计系列教学实验. <code>❗Unlicensed</code> <code>🦘Assembly</code> <code>⛓️HDL</code>
-- <b><a href="https://github.com/Silverster98/bit_nscscc_suggestion">针对参加龙芯杯的若干建议</a></b> (🥈4 ·  ⭐ 81 · 💀) - 为了更好地帮助后来的同学参加龙芯杯，草拟了这份建议，望对后来人有所帮助. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Silverster98/bit_nscscc_suggestion">针对参加龙芯杯的若干建议</a></b> (🥈4 ·  ⭐ 83 · 💀) - 为了更好地帮助后来的同学参加龙芯杯，草拟了这份建议，望对后来人有所帮助. <code>❗Unlicensed</code>
 - <b><a href="https://gitee.com/bitmrlab/virtual-human-assets">混合现实与新型显示实验室/虚拟人资产</a></b> (🥉3 · 💀) - 本仓库开源了基于lightstage搭建的大球人脸形状及材质系统采集的高精度人脸模型和材质资产。数据来源北京理工大学混合现实与新型显示实验室。. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/silenuszhi/SoC_Design_Archive">片上系统设计</a></b> (🥉2 ·  ⭐ 4 · 💀) - Archive for scripts, codes, slides in the class. <code>❗Unlicensed</code> <code>⛓️HDL</code>
 </details>
@@ -577,20 +601,20 @@ _由 BITers 发起，同时可能帮助其他人。_
 	git clone https://gitee.com/spaitlab/py-spt
 	```
 </details>
-<details><summary><b><a href="https://mirrors.bit.edu.cn/">北京理工大学开源软件镜像服务</a></b> (🥈5 ·  ⭐ 4) - 镜像服务 Web 页面. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
-
-- [GitHub](https://github.com/BITNP/bitnp-mirrors-web) (👨‍💻 3 · 📋 4 - 25% open · ⏱️ 25.04.2023):
-
-	```
-	git clone https://github.com/BITNP/bitnp-mirrors-web
-	```
-</details>
 <details><summary><b><a href="https://spaitlab.gitee.io/py-fmt/index.html">PyFMT</a></b> (🥉4 ·  ⭐ 5 · 💤) - Python基础数学工具箱 Python Fundamental Mathematics Toolbox. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code> <code>🐍Python</code></summary>
 
 - [Gitee](https://gitee.com/spaitlab/py-fmt) (🔀 4 · ⏱️ 06.10.2022):
 
 	```
 	git clone https://gitee.com/spaitlab/py-fmt
+	```
+</details>
+<details><summary><b><a href="https://mirrors.bit.edu.cn/">北京理工大学开源软件镜像服务</a></b> (🥉4 ·  ⭐ 4 · 📉) - 镜像服务 Web 页面. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
+
+- [GitHub](https://github.com/BITNP/bitnp-mirrors-web) (👨‍💻 3 · 📋 4 - 25% open · ⏱️ 25.04.2023):
+
+	```
+	git clone https://github.com/BITNP/bitnp-mirrors-web
 	```
 </details>
 <details><summary>Show 2 hidden projects...</summary>
