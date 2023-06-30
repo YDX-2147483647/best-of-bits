@@ -59,7 +59,7 @@
 
 <details><summary><b><a href="https://bithesis.bitnp.net">BIThesis</a></b> (🥇21 ·  ⭐ 440) - 📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）. <code><a href="https://tldrlegal.com/search?q=LPPL-1.3c">❗️LPPL-1.3c</a></code> <code>📜LaTeX</code></summary>
 
-- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 22 · 🔀 91 · 📥 7.6K · 📋 170 - 2% open · ⏱️ 21.06.2023):
+- [GitHub](https://github.com/BITNP/BIThesis) (👨‍💻 22 · 🔀 91 · 📥 7.6K · 📋 170 - 3% open · ⏱️ 21.06.2023):
 
 	```
 	git clone https://github.com/BITNP/BIThesis
@@ -121,7 +121,7 @@ _其实什么信息都有，只是你可能没找到。_
 	git clone https://gitee.com/YDX-2147483647/bulletin-issues-transferred
 	```
 </details>
-<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥈6 ·  ⭐ 55 · 📉) - 百丽宫攻略、课程评价及资料、课表、查成绩。. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code>🕸️Web</code></summary>
+<details><summary><b><a href="https://bit101.cn">BIT101</a></b> (🥈6 ·  ⭐ 55) - 百丽宫攻略、课程评价及资料、课表、查成绩。. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code>🕸️Web</code></summary>
 
 - [GitHub](https://github.com/flwfdd/BIT101) (👨‍💻 2 · 🔀 4 · 📋 12 - 41% open · ⏱️ 18.05.2023):
 
@@ -171,7 +171,7 @@ _其实什么信息都有，只是你可能没找到。_
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-_检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)。_
+_检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)）。_
 
 <details><summary><b><a href="https://github.com/Mmx233/BitSrunLoginGo">BitSrunLoginGo</a></b> (🥇14 ·  ⭐ 150) - 深澜校园网登录程序 Go 语言版，适用于路由器、windows、linux 等。提供对 OpenWrt、Docker、Go Module 的支持. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code>💨Go</code></summary>
 
@@ -196,7 +196,7 @@ _检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)。_
 	```
 	git clone https://github.com/BITNP/bitsrun
 	```
-- [PyPi](https://pypi.org/project/bitsrun) (📥 110 / month):
+- [PyPi](https://pypi.org/project/bitsrun) (📥 130 / month):
 	```
 	pip install bitsrun
 	```
@@ -259,9 +259,9 @@ _检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)。_
 
 _给 *.edu.cn 打补丁。_
 
-<details><summary><b><a href="https://webvpn.swo.moe/">Web VPN Converter</a></b> (🥇11 ·  ⭐ 71) - Web VPN converter. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
+<details><summary><b><a href="https://webvpn.swo.moe/">Web VPN Converter</a></b> (🥇11 ·  ⭐ 70) - Web VPN converter. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
 
-- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 25 · 📋 8 - 12% open · ⏱️ 28.06.2023):
+- [GitHub](https://github.com/spencerwooo/bit-webvpn-converter) (👨‍💻 7 · 🔀 25 · 📋 8 - 12% open · ⏱️ 29.06.2023):
 
 	```
 	git clone https://github.com/spencerwooo/bit-webvpn-converter
@@ -389,7 +389,7 @@ _整理日程，预约书院社区、图书馆等。_
 	```
 	git clone https://github.com/YDX-2147483647/bitroom
 	```
-- [PyPi](https://pypi.org/project/bitroom) (📥 82 / month):
+- [PyPi](https://pypi.org/project/bitroom) (📥 80 / month):
 	```
 	pip install bitroom
 	```
@@ -425,7 +425,7 @@ _整理日程，预约书院社区、图书馆等。_
 	```
 	git clone https://github.com/YDX-2147483647/bus-interrogation-tunnel
 	```
-- [PyPi](https://pypi.org/project/bus-interrogation-tunnel) (📥 10 / month):
+- [PyPi](https://pypi.org/project/bus-interrogation-tunnel) (📥 9 / month):
 	```
 	pip install bus-interrogation-tunnel
 	```
@@ -450,7 +450,7 @@ _整理日程，预约书院社区、图书馆等。_
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/songshangru/BIT-CS-Learning">BIT-CS-Learning</a></b> (🥇9 ·  ⭐ 150 · 📈) - 保存一下我自己整理的北理工计科的学习资料，欢迎分享资源. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/songshangru/BIT-CS-Learning">BIT-CS-Learning</a></b> (🥇9 ·  ⭐ 150) - 保存一下我自己整理的北理工计科的学习资料，欢迎分享资源. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/songshangru/BIT-CS-Learning) (👨‍💻 6 · 🔀 50 · ⏱️ 21.06.2023):
 
@@ -601,7 +601,7 @@ _由 BITers 发起，同时可能帮助其他人。_
 	git clone https://gitee.com/spaitlab/py-spt
 	```
 </details>
-<details><summary><b><a href="https://spaitlab.gitee.io/py-fmt/index.html">PyFMT</a></b> (🥈5 ·  ⭐ 5 · 📈) - Python基础数学工具箱 Python Fundamental Mathematics Toolbox. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code> <code>🐍Python</code></summary>
+<details><summary><b><a href="https://spaitlab.gitee.io/py-fmt/index.html">PyFMT</a></b> (🥈5 ·  ⭐ 5) - Python基础数学工具箱 Python Fundamental Mathematics Toolbox. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code> <code>🐍Python</code></summary>
 
 - [Gitee](https://gitee.com/spaitlab/py-fmt) (🔀 5 · ⏱️ 22.06.2023):
 
