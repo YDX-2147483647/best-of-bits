@@ -7,7 +7,7 @@ python := env_var_or_default('PYTHON','python')
 
 # 安装、升级依赖
 bootstrap:
-	{{ python }} -m pip install --upgrade PyYAML
+	{{ python }} -m pip install --upgrade ruamel.yaml
 
 # 同步类别
 sync-categories *ARGS:

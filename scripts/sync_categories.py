@@ -8,12 +8,8 @@ from argparse import ArgumentParser
 from pathlib import Path
 from typing import TYPE_CHECKING
 
-from yaml import load
+from ruamel.yaml import YAML
 
-try:
-    from yaml import CLoader as Loader
-except ImportError:
-    from yaml import Loader
 
 if TYPE_CHECKING:
     from typing import Generator
@@ -64,7 +60,8 @@ if __name__ == "__main__":
     src: Path = args.source
     dst: Path = args.destination
 
-    projects_yaml = load(src.read_text(encoding="utf-8"), Loader=Loader)
+    yaml = YAML(typ="safe")
+    projects_yaml = yaml.load(src.read_text(encoding="utf-8"))
     issue_template = dst.read_text(encoding="utf-8")
 
     dst.write_text(transform(issue_template, projects_yaml), encoding="utf-8")
