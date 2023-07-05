@@ -719,3 +719,7 @@ projects:
     github_id: YDX-2147483647/detect-BITOJ
     category: academic
     labels: [python]
+
+  - name: BITCS-2019
+    github_id: bingo123122121/BITCS-2019
+    category: learning
