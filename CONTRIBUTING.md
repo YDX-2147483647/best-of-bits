@@ -85,6 +85,14 @@
             <td>GitHub ID，由作者名（或组织名）、仓库名组成，例如<code>best-of-lists/best-of-generator</code>。</td>
         </tr>
         <tr>
+            <td><code>gitee_id</code></td>
+            <td>Gitee ID，格式同<code>github_id</code></td>
+        </tr>
+        <tr>
+            <td><code>greasy_fork_id</code></td>
+            <td>Greasy Fork ID，是 URL 中的数字，例如<code>https://greasyfork.org/scripts/299792458-speed-of-light</code>中的<code>299792458</code>。</td>
+        </tr>
+        <tr>
             <td colspan="2"><strong>可选属性：</strong></td>
         </tr>
         <tr>
