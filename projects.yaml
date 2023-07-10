@@ -723,3 +723,7 @@ projects:
   - name: BITCS-2019
     github_id: bingo123122121/BITCS-2019
     category: learning
+
+  - name: BIT-MiniCC
+    github_id: jiweixing/BIT-MiniCC
+    category: apollo
