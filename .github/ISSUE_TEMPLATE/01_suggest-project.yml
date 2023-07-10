@@ -26,7 +26,8 @@ body:
   - type: input
     id: url
     attributes:
-      label: URL (GitHub / Gitee / Greasy Fork / …)
+      label: URL
+      description: GitHub、Gitee、Greasy Fork……
   - type: dropdown
     id: category
     attributes:
