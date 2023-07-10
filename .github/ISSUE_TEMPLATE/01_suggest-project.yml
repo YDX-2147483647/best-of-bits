@@ -24,9 +24,10 @@ body:
     validations:
       required: true
   - type: input
-    id: github
+    id: url
     attributes:
-      label: GitHub URL
+      label: URL
+      description: GitHub、Gitee、Greasy Fork……
   - type: dropdown
     id: category
     attributes:

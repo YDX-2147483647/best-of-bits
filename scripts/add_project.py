@@ -1,10 +1,15 @@
+"""从 issue 添加项目
+
+    python add_project.py --help
+"""
 from __future__ import annotations
 
+import argparse
 import json
 import re
-import argparse
 from pathlib import Path
 from typing import TYPE_CHECKING
+from urllib.parse import urlparse
 
 from ruamel.yaml import YAML
 
@@ -14,7 +19,24 @@ if TYPE_CHECKING:
 
 if TYPE_CHECKING:
     Transformer: TypeAlias = Callable[[str], dict[str, str]]
-    """original_value ⇒ { key: value}"""
+    """original_value ⇒ { key: value }
+    
+    `value`将直接出现在 YAML 中，后续不会转义，例如`{ "key": "123"}`会变成`key: 123`，值是数字。
+    """
+
+
+def url_to_id(url: str) -> dict[str, str]:
+    u = urlparse(url.strip())
+    match u.netloc:
+        case "github.com" | "gitee.com":
+            key = f"{u.netloc.removesuffix('.com')}_id"
+            return {key: u.path.removeprefix("/").removesuffix("/")}
+        case "greasyfork.org":
+            m = re.match(R"^/scripts/(?P<id>\d+)-", u.path)
+            assert m is not None, f"Fail to parse Greasy Fork URL path: {u.path}"
+            return {"greasy_fork_id": m.group("id")}
+        case _:
+            raise Exception(f"Cannot recognize URL netloc “{u.netloc}”: {url}")
 
 
 def build_transformers(project_yaml: str) -> dict[str, Transformer]:
@@ -28,6 +50,8 @@ def build_transformers(project_yaml: str) -> dict[str, Transformer]:
 
     return {
         "名称": lambda v: {"name": v.strip()},
+        "URL": url_to_id,
+        # GitHub URL 已被替换为 URL，仅为兼容而保留，#45, #68, #70 全部解决后可删除
         "GitHub URL": lambda v: {
             "github_id": v.strip()
             .removeprefix("https://github.com/")
@@ -48,7 +72,7 @@ def parse_issue_body(body: str, transformers: dict[str, Transformer]) -> dict[st
     body = body[: body.index("### 补充信息")]
 
     # 分段
-    sections = body.removeprefix("### ").split("\n\n### ")
+    sections = body.removeprefix("### ").replace("\r\n", "\n").split("\n\n### ")
     pairs = (s.split("\n\n", maxsplit=1) for s in sections)
 
     # 转换
