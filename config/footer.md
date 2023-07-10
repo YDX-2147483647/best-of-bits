@@ -5,6 +5,12 @@
 
 - [**Best-of lists**](https://best-of.org): 探索各种主题出色开源项目的 best-of lists。
 
+- **徽章**：[![best of BITs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YDX-2147483647/best-of-bits/main/config/badge/v1.json)](https://github.com/YDX-2147483647/best-of-bits)
+
+  ```markdown
+  [![best of BITs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YDX-2147483647/best-of-bits/main/config/badge/v1.json)](https://github.com/YDX-2147483647/best-of-bits)
+  ```
+
 ## 贡献
 
 我们鼓励并随时欢迎您的贡献！
