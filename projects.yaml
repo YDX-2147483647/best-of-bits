@@ -679,6 +679,7 @@ projects:
     labels: [web]
 
   - name: BIT-Moodle-Theme-Enhance
+    github_id: fky2015/BIT-Moodle-dracula-Theme
     greasy_fork_id: 397151
     # Alternative:
     # BIT-Moodle-Enhance
