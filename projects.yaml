@@ -728,3 +728,24 @@ projects:
   - name: BIT-MiniCC
     github_id: jiweixing/BIT-MiniCC
     category: apollo
+
+  - name: BIT-Courses-for-C-and-CPP
+    github_id: dzyxdd/BIT-Courses-for-C-and-CPP
+    category: learning
+
+  - name: Hyperzsb/bit-cs
+    github_id: Hyperzsb/bit-cs
+    category: learning
+
+  - name: vouv/SrunBar
+    github_id: vouv/SrunBar
+    category: srun
+
+  - name: Bon-for-Mac
+    github_id: Chriskuei/Bon-for-Mac
+    category: srun
+
+  - name: BIT Online Code Helper
+    github_id: Crawler995/BITOnlineCodeHelper
+    category: academic
+    pypi_id: BIT-Online-Code-Helper
