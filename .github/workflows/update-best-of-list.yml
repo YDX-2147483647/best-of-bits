@@ -38,6 +38,7 @@ jobs:
           --github-key=${{ secrets.GITHUB_TOKEN }}
           --gitee-key=${{ secrets.GITEE_API_KEY }}
       - name: Create pull request
+        id: pr
         uses: peter-evans/create-pull-request@v5
         with:
           branch: ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }}
@@ -53,6 +54,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ env.VERSION  }}
+          target_commitish: ${{ steps.pr.outputs.pull-request-head-sha }}
           name: "Update: ${{ env.VERSION  }}"
           body_path: "latest-changes.md"
           draft: true
