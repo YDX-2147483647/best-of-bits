@@ -43,12 +43,14 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: install best-of-generator
+        run: pip install "best-of @ git+https://github.com/YDX-2147483647/best-of-generator.git@best-of-bits"
       - name: update-best-of-list
-        uses: YDX-2147483647/best-of-update-action@best-of-bits
-        with:
-          libraries_key: ${{ secrets.LIBRARIES_KEY }}
-          github_key: ${{ secrets.GITHUB_TOKEN }}
-          gitee_key: ${{ secrets.GITEE_API_KEY }}
+        run: >-
+          best-of generate projects.yaml
+          --libraries-key=${{ secrets.LIBRARIES_KEY }}
+          --github-key=${{ secrets.GITHUB_TOKEN }}
+          --gitee-key=${{ secrets.GITEE_API_KEY }}
       - name: push-update
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
