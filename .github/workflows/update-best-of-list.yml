@@ -12,72 +12,48 @@ on:
 
 env:
   BRANCH_PREFIX: "update/"
-  DEFAULT_BRANCH: "main"
 
 jobs:
   update-best-of-list:
     runs-on: ubuntu-latest
     steps:
-      - if: ${{ github.event.inputs != null  &&  github.event.inputs.version != null }}
-        name: set-version-from-input
+      - name: Set version from input
+        if: ${{ github.event.inputs != null  &&  github.event.inputs.version != null }}
         run: echo "VERSION=${{ github.event.inputs.version }}" >> $GITHUB_ENV
-      - if: ${{ ! (env.VERSION != null && env.VERSION != '') }}
-        name: set-version-via-date
+      - name: Set version via date
+        if: ${{ ! (env.VERSION != null && env.VERSION != '') }}
         run: echo "VERSION=$(date '+%Y.%m.%d')" >> $GITHUB_ENV
-      - uses: actions/checkout@v2
-      - name: check-version-tag
+      - uses: actions/checkout@v3
+      - name: Append time to version if necessary
         shell: bash
         run: |
           git fetch --tags --force
           git show-ref --tags --verify --quiet -- "refs/tags/${{ env.VERSION }}" && echo "VERSION=$(date '+%Y.%m.%d-%H.%M')" >> $GITHUB_ENV || exit 0
-      - name: create-update-branch
-        uses: peterjgrainger/action-create-branch@v2.0.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          branch: "${{ env.BRANCH_PREFIX }}${{ env.VERSION }}"
-      - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-          ref: ${{ env.BRANCH_PREFIX }}${{ env.VERSION }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: install best-of-generator
+      - name: Install best-of generator
         run: pip install "best-of @ git+https://github.com/YDX-2147483647/best-of-generator.git@best-of-bits"
-      - name: update-best-of-list
+      - name: Update best-of list
         run: >-
           best-of generate projects.yaml
           --libraries-key=${{ secrets.LIBRARIES_KEY }}
           --github-key=${{ secrets.GITHUB_TOKEN }}
           --gitee-key=${{ secrets.GITEE_API_KEY }}
-      - name: push-update
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v5
         with:
           branch: ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }}
-          commit_user_name: best-of update
-          commit_user_email: actions@github.com
-          commit_message: Update best-of list for version ${{ env.VERSION  }}
-          tagging_message: ${{ env.VERSION  }}
-          skip_dirty_check: true
-          commit_options: "--allow-empty"
-      - name: create-pull-request
-        shell: bash
-        run: |
-          # Stops script execution if a command has an error
-          set -e
-          curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.2
-          bin/hub pull-request -b ${{ env.DEFAULT_BRANCH }} -h ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }} --no-edit -m "Best-of update: ${{ env.VERSION  }}" -m "To finish this update: Select <code>Merge pull request</code> below and <code>Confirm merge</code>. Also, make sure to publish the created draft release in the [releases section](../releases) as well." || true
-          rm bin/hub
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: create-release
-        uses: actions/create-release@v1
+          committer: best-of update <actions@github.com>
+          commit-message: Update best-of list for version ${{ env.VERSION  }}
+          title: "Best-of update: ${{ env.VERSION  }}"
+          body: |
+            To finish this update: Select `Merge pull request` below and `Confirm merge`.
+            Also, make sure to publish the created draft release in the [releases section](../releases) as well.
+      - name: Publish release
+        uses: softprops/action-gh-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ env.VERSION  }}
-          release_name: "Update: ${{ env.VERSION  }}"
+          name: "Update: ${{ env.VERSION  }}"
           body_path: "latest-changes.md"
           draft: true
           prerelease: false
