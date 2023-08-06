@@ -749,3 +749,7 @@ projects:
     github_id: Crawler995/BITOnlineCodeHelper
     category: academic
     pypi_id: BIT-Online-Code-Helper
+
+  - name: 组织部芝士虾
+    github_id: bitnp/cheesy-shrimp
+    category: org
