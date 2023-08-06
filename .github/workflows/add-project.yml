@@ -6,7 +6,7 @@ on:
 
 jobs:
   add-project:
-    if: ${{ !github.event.issue.pull_request && contains(github.event.issue.labels, 'add-project') && startsWith(github.event.comment.body, '/draft-pr') }}
+    if: ${{ !github.event.issue.pull_request && contains(github.event.issue.labels.*.name, 'add-project') && startsWith(github.event.comment.body, '/draft-pr') }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
