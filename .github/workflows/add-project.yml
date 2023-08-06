@@ -19,14 +19,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: just bootstrap
-      - run: just add-project ${{ github.event.issue.id }}
+      - run: just add-project ${{ github.event.issue.number }}
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: |
             [projects] ${{ github.event.issue.title }}
 
-            Resolves #${{ github.event.issue.id }}
+            Resolves #${{ github.event.issue.number }}
           title: "[projects] ${{ github.event.issue.title }}"
           body: |
             ## 这个拉取请求做了什么？
@@ -35,7 +35,7 @@ jobs:
 
             ## 更改
 
-            Resolves #${{ github.event.issue.id }}
+            Resolves #${{ github.event.issue.number }}
 
             ## 最后检查
 
