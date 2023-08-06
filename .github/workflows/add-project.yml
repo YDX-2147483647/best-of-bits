@@ -20,6 +20,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: just bootstrap
       - run: just add-project ${{ github.event.issue.number }}
+        env:
+          # For GitHub CLI
+          GH_TOKEN: ${{ github.token }}
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
         with:
