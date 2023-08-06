@@ -754,3 +754,7 @@ projects:
     github_id: bitnp/cheesy-shrimp
     category: org
     homepage: https://bitnp.github.io/cheesy-shrimp/
+
+  - name: BlockIt
+    github_id: Devil-SX/BlockIt
+    category: apollo
