@@ -1,0 +1,44 @@
+name: Add a project
+
+on:
+  issue_comment:
+    types: [created, edited]
+
+jobs:
+  add-project:
+    if: ${{ !github.event.issue.pull_request && contains(github.event.issue.labels, 'add-project') && startsWith(github.event.comment.body, '/draft-pr') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: justfile
+      - uses: extractions/setup-just@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: just bootstrap
+      - run: just add-project ${{ github.event.issue.id }}
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: |
+            [projects] ${{ github.event.issue.title }}
+
+            Resolves #${{ github.event.issue.id }}
+          title: "[projects] ${{ github.event.issue.title }}"
+          body: |
+            ## 这个拉取请求做了什么？
+
+            - [x] 新增项目
+
+            ## 更改
+
+            Resolves #${{ github.event.issue.id }}
+
+            ## 最后检查
+
+            - [ ] 我已阅读[贡献者指南](https://github.com/best-of-lists/best-of/blob/main/CONTRIBUTING.md)。
+            - [x] 我没有直接更改`README.md`。（`README.md`是从`projects.yaml`自动生成的）
+          draft: true
