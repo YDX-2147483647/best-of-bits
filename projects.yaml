@@ -758,3 +758,7 @@ projects:
   - name: BlockIt
     github_id: Devil-SX/BlockIt
     category: apollo
+
+  - name: BIT_Score_Inquiry
+    github_id: YaooXu/BIT_Score_Inquiry
+    category: academic
