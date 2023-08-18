@@ -11,8 +11,13 @@
 
 若要添加新项目，有如下两种方法。
 
-- 提请修改：访问[议题页面](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose)，选择类别，填写信息。
-- 直接编辑：在[`projects.yaml`](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)中增减项目，然后提交拉取请求。（可[直接用 GitHub UI 操作](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)）
+- 提请修改（更简单）：
+
+  1. 访问[议题页面](https://github.com/YDX-2147483647/best-of-bits/issues/new/choose)，选择类别，填写信息。
+
+  2. 讨论充分后（或者你认为没必要讨论），评论`/draft-pr`，会[自动创建拉取请求](.github/workflows/add-project.yml)。
+
+- 直接编辑（更自由）：在[`projects.yaml`](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)中增减项目，然后提交拉取请求。（可[直接用 GitHub UI 操作](https://github.com/YDX-2147483647/best-of-bits/edit/main/projects.yaml)）
 
 提交议题、拉取请求前有如下常见问题。
 
