@@ -32,6 +32,9 @@ categories:
     title: 📚学习资料
   - category: exp
     title: 🧪实验／实践
+  - category: office
+    title: 📬学生事务
+    subtitle: 简化杂务、整理文件等。
   - category: org
     title: 🧑‍🤝‍🧑存在一定结构的人的集合
     subtitle: 学生组织、社团及其它自发集体。
@@ -173,7 +176,7 @@ projects:
 
   - name: BIT-Titled-Letter-Paper
     github_id: jincao2013/BIT-Titled-Letter-Paper
-    category: misc
+    category: office
 
   - name: bit-srun-cli
     github_id: fangli-li/bit-srun-cli
@@ -627,7 +630,7 @@ projects:
 
   - name: message_send
     github_id: Z-ly/message_send
-    category: misc
+    category: office
     labels: [python]
 
   - name: bitroom (Book an Incongruent Topological Room Or be Out of Mind)
@@ -762,3 +765,17 @@ projects:
   - name: BIT_Score_Inquiry
     github_id: YaooXu/BIT_Score_Inquiry
     category: academic
+
+  - name: BIT-Zongce
+    github_id: Devil-SX/BIT-Zongce
+    category: office
+
+  - name: poems-2023 ➡️ 综测表一生成表二
+    github_id: BITNP/poems-2023
+    category: office
+    description: 睿信书院综测需填写两表，其中表二是汇总表，内容来自表一。每次填写不免繁琐，因此开发这个小软件，自动根据表一内容生成表二，手动粘贴即可快速完成填写。
+    license: MIT
+
+  - name: Signs
+    github_id: YDX-2147483647/signs
+    category: office
