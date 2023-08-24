@@ -779,3 +779,7 @@ projects:
   - name: Signs
     github_id: YDX-2147483647/signs
     category: office
+
+  - name: BIT-DA/RIPU
+    github_id: BIT-DA/RIPU
+    category: apollo
