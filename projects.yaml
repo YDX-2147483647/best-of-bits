@@ -783,3 +783,7 @@ projects:
   - name: BIT-DA/RIPU
     github_id: BIT-DA/RIPU
     category: apollo
+
+  - name: LexueAPI
+    github_id: BIT-BOBH/LexueAPI
+    category: academic
