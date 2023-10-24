@@ -787,3 +787,8 @@ projects:
   - name: LexueAPI
     github_id: BIT-BOBH/LexueAPI
     category: academic
+
+  - name: 北京理工大学数据库复习总结
+    github_id: donglinkang2021/DatabaseReview
+    category: learning
+    homepage: https://donglinkang2021.github.io/DatabaseReview/
