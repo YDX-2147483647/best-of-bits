@@ -787,3 +787,7 @@ projects:
   - name: LexueAPI
     github_id: BIT-BOBH/LexueAPI
     category: academic
+
+  - name: biteduML
+    github_id: bigablecat/biteduML
+    category: learning
