@@ -26,6 +26,8 @@ jobs:
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
         with:
+          branch: |
+            create-pull-request/patch-for-issue-${{ github.event.issue.number }}
           commit-message: |
             [projects] ${{ github.event.issue.title }}
 
