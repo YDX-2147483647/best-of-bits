@@ -787,3 +787,7 @@ projects:
   - name: LexueAPI
     github_id: BIT-BOBH/LexueAPI
     category: academic
+
+  - name: 北京理工大学-本科-人工智能专业-通关手册
+    github_id: Z-Luan/BIT-AI
+    category: learning
