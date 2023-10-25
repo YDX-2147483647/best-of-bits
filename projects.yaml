@@ -790,4 +790,7 @@ projects:
 
   - name: BIT_Second_Round_Exam
     github_id: pandapan1997/BIT_Second_Round_Exam
+
+  - name: biteduML
+    github_id: bigablecat/biteduML
     category: learning
