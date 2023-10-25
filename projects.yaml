@@ -787,3 +787,11 @@ projects:
   - name: LexueAPI
     github_id: BIT-BOBH/LexueAPI
     category: academic
+
+  - name: BIT_Second_Round_Exam
+    github_id: pandapan1997/BIT_Second_Round_Exam
+    category: learning
+
+  - name: biteduML
+    github_id: bigablecat/biteduML
+    category: learning
