@@ -5,7 +5,8 @@
 
 下面会介绍本项目如何组织，想更改时应该怎样操作。
 
-> **Note**
+> [!NOTE]
+>
 > 下面大多只是指导性建议；如果你知道自己想做什么，跟着感觉走即可。
 
 ## 新增项目
@@ -71,7 +72,8 @@
 
 ## 项目属性
 
-> **Note**
+> [!NOTE]
+>
 > 最新完整列表请参考 [best-of-generator 文档](https://github.com/best-of-lists/best-of-generator#project-properties)或[我们克隆的版本](https://github.com/YDX-2147483647/best-of-generator/tree/best-of-bits)。
 
 <table>
