@@ -68,18 +68,18 @@ projects:
   - name: BIT101
     description: 百丽宫攻略、课程评价及资料、课表、查成绩。
     homepage: https://bit101.cn
-    github_id: flwfdd/BIT101
+    github_id: BIT101-dev/BIT101
     category: agg
     labels: [web]
 
   - name: BIT101-GO
     homepage: https://bit101.cn
-    github_id: flwfdd/BIT101-GO
+    github_id: BIT101-dev/BIT101-GO
     category: agg
     labels: [go]
 
   - name: BIT101-Android
-    github_id: flwfdd/BIT101-Android
+    github_id: BIT101-dev/BIT101-Android
     category: agg
 
   - name: BIThesis
@@ -790,4 +790,21 @@ projects:
 
   - name: 北京理工大学-本科-人工智能专业-通关手册
     github_id: Z-Luan/BIT-AI
+    category: learning
+
+  - name: 北京理工大学-本科-人工智能专业-变得更强秘籍
+    github_id: lyccyl1/BIT-AI
+    category: learning
+
+  - name: 北京理工大学数据库复习总结
+    github_id: donglinkang2021/DatabaseReview
+    category: learning
+    homepage: https://donglinkang2021.github.io/DatabaseReview/
+
+  - name: BIT_Second_Round_Exam
+    github_id: pandapan1997/BIT_Second_Round_Exam
+    category: learning
+
+  - name: biteduML
+    github_id: bigablecat/biteduML
     category: learning
