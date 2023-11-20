@@ -808,3 +808,8 @@ projects:
   - name: biteduML
     github_id: bigablecat/biteduML
     category: learning
+
+  - name: bit-genshin
+    github_id: xinyi-cherry/bit-genshin
+    category: edu-cn
+    homepage: https://userstyles.world/style/11791/default-slug
