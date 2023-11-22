@@ -813,3 +813,8 @@ projects:
     github_id: xinyi-cherry/bit-genshin
     category: edu-cn
     homepage: https://userstyles.world/style/11791/default-slug
+
+  - name: Virtual BIT Network
+    github_id: YDX-2147483647/virtual-BIT-network
+    category: edu-cn
+    npm_id: virtual-bit-network
