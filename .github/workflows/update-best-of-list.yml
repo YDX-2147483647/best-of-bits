@@ -38,7 +38,10 @@ jobs:
           --github-key=${{ secrets.GITHUB_TOKEN }}
           --gitee-key=${{ secrets.GITEE_API_KEY }}
       - name: Show latest changes
-        run: cat latest-changes.md >> $GITHUB_STEP_SUMMARY
+        id: latest-changes
+        run: |
+          cat latest-changes.md >> $GITHUB_STEP_SUMMARY
+          echo "body=$(cat latest-changes.md)" >> "$GITHUB_OUTPUT"
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
         with:
@@ -56,6 +59,8 @@ jobs:
         with:
           tag_name: ${{ env.VERSION  }}
           name: "Update: ${{ env.VERSION  }}"
-          body_path: "latest-changes.md"
+          # Setting `body_path` to `latest-changes.md` behaves unexpectedly.
+          # https://github.com/YDX-2147483647/best-of-bits/issues/147
+          body: ${{ steps.latest-changes.outputs.body }}
           draft: true
           prerelease: false
