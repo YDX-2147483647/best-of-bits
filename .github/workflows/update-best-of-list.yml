@@ -52,6 +52,8 @@ jobs:
           body: |
             To finish this update: Select `Merge pull request` below and `Confirm merge`.
             Also, make sure to publish the created draft release in the [releases section](../releases) as well.
+      - run: |
+          echo 'import("fs").then(({ readFileSync }) => readFileSync("latest-changes.md").toString("utf8")).then(console.log)' | node
       - name: Publish release
         uses: softprops/action-gh-release@v1
         env:
