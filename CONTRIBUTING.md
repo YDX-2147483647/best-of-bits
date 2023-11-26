@@ -157,7 +157,7 @@
 
 ## 上游项目
 
-除了项目，本列表还涉及收集元数据、生成 markdown 等。这方面的贡献请移步 [best-of-generator](https://github.com/best-of-lists/best-of-generator) 仓库或我们克隆的 [best-of-update-action](https://github.com/YDX-2147483647/best-of-update-action/tree/ascii-description) 仓库。
+除了项目，本列表还涉及收集元数据、生成 markdown 等。这方面的贡献请移步 [best-of-generator](https://github.com/best-of-lists/best-of-generator) 仓库或[我们克隆的版本](https://github.com/YDX-2147483647/best-of-generator/tree/best-of-bits)。
 
 若您想自己创建一个 best-of list，请参考[官方教程](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md)，大概[需要三分钟](https://xkcd.com/2767/)。完成后 GitHub Actions 可以自动运行 best-of-generator。
 
