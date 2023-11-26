@@ -37,6 +37,8 @@ jobs:
           --libraries-key=${{ secrets.LIBRARIES_KEY }}
           --github-key=${{ secrets.GITHUB_TOKEN }}
           --gitee-key=${{ secrets.GITEE_API_KEY }}
+      - name: Show latest changes
+        run: cat latest-changes.md >> $GITHUB_STEP_SUMMARY
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
         with:
