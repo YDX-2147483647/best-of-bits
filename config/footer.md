@@ -24,7 +24,7 @@
 >
 > 添加、更新项目的更多细节请参考[贡献者指南](https://github.com/YDX-2147483647/best-of-bits/blob/main/CONTRIBUTING.md)。参与此项目即代表遵守[贡献者公约](https://github.com/YDX-2147483647/best-of-bits/blob/main/.github/CODE_OF_CONDUCT.md)。
 
-除了项目，本列表还涉及收集元数据、生成 markdown 等。这方面的贡献请移步 [best-of-generator](https://github.com/best-of-lists/best-of-generator) 仓库或我们克隆的 [best-of-update-action](https://github.com/YDX-2147483647/best-of-update-action/tree/ascii-description) 仓库。
+除了项目，本列表还涉及收集元数据、生成 markdown 等。这方面的贡献请移步 [best-of-generator](https://github.com/best-of-lists/best-of-generator) 仓库或[我们克隆的版本](https://github.com/YDX-2147483647/best-of-generator/tree/best-of-bits)。
 
 若您想自己创建一个 best-of list，请参考[官方教程](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md)。
 
