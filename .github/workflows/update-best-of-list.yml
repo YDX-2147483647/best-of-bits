@@ -42,6 +42,8 @@ jobs:
         run: |
           cat latest-changes.md >> $GITHUB_STEP_SUMMARY
           echo "body=$(cat latest-changes.md)" >> "$GITHUB_OUTPUT"
+      - run: |
+          git status
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
         with:
@@ -53,7 +55,7 @@ jobs:
             To finish this update: Select `Merge pull request` below and `Confirm merge`.
             Also, make sure to publish the created draft release in the [releases section](../releases) as well.
       - run: |
-          echo 'import("fs").then(({ readFileSync }) => readFileSync("latest-changes.md").toString("utf8")).then(console.log)' | node
+          git status
       - run: |
           cat "latest-changes.md"
       - name: Publish release
