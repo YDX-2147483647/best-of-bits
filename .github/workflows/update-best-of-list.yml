@@ -54,6 +54,8 @@ jobs:
             Also, make sure to publish the created draft release in the [releases section](../releases) as well.
       - run: |
           echo 'import("fs").then(({ readFileSync }) => readFileSync("latest-changes.md").toString("utf8")).then(console.log)' | node
+      - run: |
+          cat "latest-changes.md"
       - name: Publish release
         uses: softprops/action-gh-release@v1
         env:
