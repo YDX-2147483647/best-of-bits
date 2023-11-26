@@ -37,6 +37,10 @@ jobs:
           --libraries-key=${{ secrets.LIBRARIES_KEY }}
           --github-key=${{ secrets.GITHUB_TOKEN }}
           --gitee-key=${{ secrets.GITEE_API_KEY }}
+      - name: Report latest changes
+        run: |
+          echo "# Best-of update: ${{ env.VERSION  }}" >> "$GITHUB_STEP_SUMMARY"
+          cat latest-changes.md >> "$GITHUB_STEP_SUMMARY"
       - name: Create pull request
         uses: peter-evans/create-pull-request@v5
         with:
@@ -47,6 +51,10 @@ jobs:
           body: |
             To finish this update: Select `Merge pull request` below and `Confirm merge`.
             Also, make sure to publish the created draft release in the [releases section](../releases) as well.
+      - name: Switch to updated branch
+        # “Create pull request” committed to a new branch without switching to it,
+        # but “Publish release” needs the updated file.
+        run: git switch "${{ env.BRANCH_PREFIX }}${{ env.VERSION  }}"
       - name: Publish release
         uses: softprops/action-gh-release@v1
         env:
