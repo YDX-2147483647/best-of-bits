@@ -818,3 +818,7 @@ projects:
     github_id: YDX-2147483647/virtual-BIT-network
     category: edu-cn
     npm_id: virtual-bit-network
+
+  - name: i乐学助手
+    github_id: BobH233/LexueSwiftUI
+    category: academic
