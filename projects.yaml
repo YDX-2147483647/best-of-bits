@@ -820,5 +820,7 @@ projects:
     npm_id: virtual-bit-network
 
   - name: i乐学助手
+    description: 提供“乐学”服务的iOS端手机应用，具有“临近作业期限提醒”“小组件显示最近日程”“聚合全校消息通知”等增强功能。
+    homepage: https://apps.apple.com/cn/app/i%E4%B9%90%E5%AD%A6%E5%8A%A9%E6%89%8B/id6468846337
     github_id: BobH233/LexueSwiftUI
     category: academic
