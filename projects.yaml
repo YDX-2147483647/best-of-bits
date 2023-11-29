@@ -824,3 +824,7 @@ projects:
     homepage: https://apps.apple.com/cn/app/i%E4%B9%90%E5%AD%A6%E5%8A%A9%E6%89%8B/id6468846337
     github_id: BobH233/LexueSwiftUI
     category: academic
+
+  - name: QtUnblockNeteaseMusic
+    github_id: FrzMtrsprt/QtUnblockNeteaseMusic
+    category: apollo
