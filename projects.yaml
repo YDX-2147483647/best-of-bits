@@ -825,6 +825,11 @@ projects:
     github_id: BobH233/LexueSwiftUI
     category: academic
 
+  - name: QtUnblockNeteaseMusic
+    github_id: FrzMtrsprt/QtUnblockNeteaseMusic
+    category: apollo
+
   - name: LenovoPlayPause
     github_id: FrzMtrsprt/LenovoPlayPause
     category: apollo
+
