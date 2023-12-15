@@ -833,3 +833,6 @@ projects:
     github_id: FrzMtrsprt/LenovoPlayPause
     category: apollo
 
+  - name: BITlife
+    github_id: shinianzhihou/BITlife
+    category: learning
