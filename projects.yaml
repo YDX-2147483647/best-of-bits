@@ -836,3 +836,7 @@ projects:
   - name: BITlife
     github_id: shinianzhihou/BITlife
     category: learning
+
+  - name: BIT Computer Science and Technology
+    github_id: fan2goa1/BIT-CS-UnderGraduate
+    category: learning
