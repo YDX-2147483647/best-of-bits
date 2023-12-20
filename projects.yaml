@@ -840,3 +840,7 @@ projects:
   - name: BIT Computer Science and Technology
     github_id: fan2goa1/BIT-CS-UnderGraduate
     category: learning
+
+  - name: STRAP
+    github_id: leiyaocui/STRAP
+    category: apollo
