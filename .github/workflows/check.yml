@@ -1,0 +1,37 @@
+name: Check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  yaml:
+    name: Check projects.yaml
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch projects.yaml
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            projects.yaml
+          sparse-checkout-cone-mode: false
+      - name: Get names
+        uses: mikefarah/yq@master
+        id: projects-names
+        with:
+          cmd: yq '.projects.[] | line + " " + .name' projects.yaml
+      - name: Make sure names are unique
+        run: |
+          duplicates=$(echo "${{ steps.projects-names.outputs.result }}" | sort --key 2 | uniq --skip-fields=1 --all-repeated)
+
+          if [ -n "$duplicates" ]; then
+            echo "# Some projects' names are duplicate" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            echo "$duplicates" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            exit 1
+          fi
