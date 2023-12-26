@@ -842,6 +842,7 @@ projects:
     category: learning
 
   - name: STRAP
-    description: An official implementation of STRAP: Structured Object Affordance Segmentation with Point Supervision.
+    description: |
+      An official implementation of STRAP: Structured Object Affordance Segmentation with Point Supervision.
     github_id: leiyaocui/STRAP
     category: apollo
