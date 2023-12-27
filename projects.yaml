@@ -846,3 +846,8 @@ projects:
       An official implementation of STRAP: Structured Object Affordance Segmentation with Point Supervision.
     github_id: leiyaocui/STRAP
     category: apollo
+
+  - name: bitsrun-rs
+    github_id: spencerwooo/bitsrun-rs
+    category: srun
+    cargo_id: bitsrun
