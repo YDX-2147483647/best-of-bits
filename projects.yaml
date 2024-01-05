@@ -851,3 +851,7 @@ projects:
     github_id: spencerwooo/bitsrun-rs
     category: srun
     cargo_id: bitsrun
+
+  - name: BITCS19
+    github_id: Worter623/BITCS19
+    category: learning
