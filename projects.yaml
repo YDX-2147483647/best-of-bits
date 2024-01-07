@@ -847,3 +847,8 @@ projects:
     github_id: spencerwooo/bitsrun-rs
     category: srun
     cargo_id: bitsrun
+
+  - name: BITCS19
+    description: 北京理工大学（特立）计算机课程资料：19级or往年考题/项目代码/知识点总结
+    github_id: Worter623/BITCS19
+    category: learning
