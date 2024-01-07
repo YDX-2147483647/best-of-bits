@@ -141,11 +141,7 @@ projects:
     category: learning
 
   - name: BITCS-final-exam-learning-materials
-    github_id: tulerfeng/BITCS-final-exam-learning-materials
-    category: learning
-
-  - name: BITCS-final-exam-learning-materials-1
-    github_id: zedarbit/BITCS-final-exam-learning-materials-1
+    github_id: Sharpiless/BITCS-final-exam-learning-materials
     category: learning
 
   - name: Web VPN Converter
