@@ -21,7 +21,7 @@ categories:
     subtitle: 检测、登录、改善校园网（深澜 [10.0.0.55](http://10.0.0.55)）。
   - category: edu-cn
     title: 📡学校网站与网络
-    subtitle: 给 *.edu.cn 打补丁。
+    subtitle: 给`*.edu.cn`打补丁。
   - category: academic
     title: 👩‍🏫教学运行与考务
     subtitle: 选课、上课、查分、评教。
