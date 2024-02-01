@@ -472,7 +472,7 @@ projects:
     labels: [web]
 
   - name: bitsrunlogin
-    github_id: BIT-zhwang/BIT-Srun-Login-Public
+    github_id: zhwang1694/BIT-Srun-AutoLogin
     pypi_id: bitsrunlogin
     category: srun
     labels: [python]
