@@ -7,6 +7,13 @@ on:
       version:
         description: "Version to use for this update"
         required: false
+      generator:
+        description: "Git ref of best-of generator, such as a branch name"
+        # pip documentation on VSC support: https://pip.pypa.io/en/stable/topics/vcs-support/#git
+        required: true
+        default: "best-of-bits"
+        type: string
+
   schedule:
     - cron: "0 1 26 * *"
 
@@ -30,7 +37,7 @@ jobs:
           git fetch --tags --force
           git show-ref --tags --verify --quiet -- "refs/tags/${{ env.VERSION }}" && echo "VERSION=$(date '+%Y.%m.%d-%H.%M')" >> $GITHUB_ENV || exit 0
       - name: Install best-of generator
-        run: pip install "best-of @ git+https://github.com/YDX-2147483647/best-of-generator.git@best-of-bits"
+        run: pip install "best-of @ git+https://github.com/YDX-2147483647/best-of-generator.git@${{ inputs.generator }}"
       - name: Update best-of list
         run: >-
           best-of generate projects.yaml
