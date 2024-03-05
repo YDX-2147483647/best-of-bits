@@ -856,3 +856,13 @@ projects:
   - name: Python语言程序设计 学习笔记
     github_id: crazykuma/LearnPythonBIT
     category: learning
+
+  - name: BIT-enhanced ➡️ BIT-Programming-Detect
+    github_id: YDX-2147483647/BIT-enhanced
+    category: academic
+    greasy_fork_id: 488587
+
+  - name: BIT-enhanced ➡️ BIT-乐学-修改侧边栏课程-GUI
+    github_id: YDX-2147483647/BIT-enhanced
+    category: academic
+    greasy_fork_id: 488788
