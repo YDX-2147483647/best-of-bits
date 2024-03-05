@@ -152,7 +152,7 @@
 ### 如何收录 monorepo 型项目
 
 - `name`请用` ➡️ `分隔，例如`Batch_Collections ➡️ Campus_network`。
-- 必须提供`description`。默认爬取的描述是整个仓库的描述，提供`description`可以人为指定，覆盖这一行为。
+- 必须提供`description`。默认爬取的描述是整个仓库的描述，提供`description`可以人为指定，覆盖这一行为。（例外：如果提供了`greasy_fork_id`，会优先使用 Greasy Fork 的描述，从而可不提供`description`。）
 - `github_id`仍写整个仓库的。
 
 ## 上游项目
