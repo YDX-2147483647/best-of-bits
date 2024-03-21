@@ -798,7 +798,8 @@ projects:
     homepage: https://donglinkang2021.github.io/DatabaseReview/
 
   - name: BIT_Second_Round_Exam
-    github_id: pandapan1997/BIT_Second_Round_Exam
+    github_id: Sologala/BIT_Second_Round_Exam
+    # pandapan1997/BIT_Second_Round_Exam 事实上是 fork，虽然星更多
     category: learning
 
   - name: biteduML
