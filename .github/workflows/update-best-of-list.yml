@@ -37,7 +37,7 @@ jobs:
           git fetch --tags --force
           git show-ref --tags --verify --quiet -- "refs/tags/${{ env.VERSION }}" && echo "VERSION=$(date '+%Y.%m.%d-%H.%M')" >> $GITHUB_ENV || exit 0
       - name: Install best-of generator
-        run: pip install "best-of @ git+https://github.com/YDX-2147483647/best-of-generator.git@${{ inputs.generator }}"
+        run: pip install "best-of @ git+https://github.com/YDX-2147483647/best-of-generator.git@${{ inputs.generator || 'best-of-bits' }}"
       - name: Update best-of list
         run: >-
           best-of generate projects.yaml
