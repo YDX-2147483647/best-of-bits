@@ -868,6 +868,7 @@ projects:
     category: academic
     greasy_fork_id: 488788
 
-  - name: 导出物理实验课表
-    github_id: CJJ-amateur-programmer/BIT-physics-experiment-schedule-export
+  - name: BIT-enhanced ➡️ BIT-物理实验中心-下载日历
+    github_id: YDX-2147483647/BIT-enhanced
     category: academic
+    greasy_fork_id: 491539
