@@ -49,7 +49,7 @@ jobs:
           echo "# Best-of update: ${{ env.VERSION  }}" >> "$GITHUB_STEP_SUMMARY"
           cat latest-changes.md >> "$GITHUB_STEP_SUMMARY"
       - name: Create pull request
-        uses: peter-evans/create-pull-request@v5
+        uses: peter-evans/create-pull-request@v6
         with:
           branch: ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }}
           committer: best-of update <actions@github.com>
