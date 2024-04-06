@@ -24,7 +24,7 @@ jobs:
           # For GitHub CLI
           GH_TOKEN: ${{ github.token }}
       - name: Create pull request
-        uses: peter-evans/create-pull-request@v5
+        uses: peter-evans/create-pull-request@v6
         with:
           branch: |
             create-pull-request/patch-for-issue-${{ github.event.issue.number }}
