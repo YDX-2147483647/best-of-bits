@@ -872,3 +872,7 @@ projects:
     github_id: YDX-2147483647/BIT-enhanced
     category: academic
     greasy_fork_id: 491539
+
+  - name: 数字逻辑期末考试复习
+    github_id: donglinkang2021/DigitLogic
+    category: learning
