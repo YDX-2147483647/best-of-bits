@@ -885,3 +885,8 @@ projects:
   - name: 北京理工大学-计算机科学与技术-计科课程资料-持续更新
     github_id: liujiaqun/BIT-CS
     category: learning
+
+  - name: Beamer Template for Beijing Institute of Technology
+    github_id: CharlieLeee/My_Beamer_Template
+    category: template
+    homepage: https://www.overleaf.com/latex/templates/beamer-template-for-beijing-institute-of-technology/kvcxtftsbrrh
