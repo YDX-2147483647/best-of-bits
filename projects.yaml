@@ -271,11 +271,13 @@ projects:
     github_id: wanicca/BIT-Thesis-Bachelor
     category: template
     labels: [latex]
+    homepage: https://www.overleaf.com/latex/templates/bei-jing-li-gong-da-xue-zi-dong-hua-xue-yuan-kai-ti-bao-gao-mo-ban/cxkjykzkgstb
 
   - name: BIT-Report-LaTeX
     github_id: CharlieLeee/BIT-Report-LaTeX
     category: template
     labels: [latex]
+    homepage: https://www.overleaf.com/latex/templates/beijing-institute-of-technology-report-template/szxqnwxtbcrb
 
   - name: FDUZS/BIThesis
     github_id: FDUZS/BIThesis
@@ -885,3 +887,13 @@ projects:
   - name: 北京理工大学-计算机科学与技术-计科课程资料-持续更新
     github_id: liujiaqun/BIT-CS
     category: learning
+
+  - name: Beamer Template for Beijing Institute of Technology
+    github_id: CharlieLeee/My_Beamer_Template
+    category: template
+    homepage: https://www.overleaf.com/latex/templates/beamer-template-for-beijing-institute-of-technology/kvcxtftsbrrh
+
+  - name: BIT Beamer Theme
+    category: template
+    license: CC BY 4.0
+    homepage: https://www.overleaf.com/latex/templates/bit-beamer-theme/ycbqhbxrqjvs
