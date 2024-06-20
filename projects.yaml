@@ -897,3 +897,7 @@ projects:
     category: template
     license: CC BY 4.0
     homepage: https://www.overleaf.com/latex/templates/bit-beamer-theme/ycbqhbxrqjvs
+
+  - name: Beijing-Institute-of-Technology-University-Physics
+    github_id: EnjunDu/Beijing-Institute-of-Technology-University-Physics-I
+    category: learning
