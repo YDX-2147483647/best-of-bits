@@ -905,3 +905,7 @@ projects:
     # 修改自 v3.0 幻灯片第一页使用说明和推送
     updated_at: 2024-02-17
     # 综合幻灯片说明落款、推送修改日期、网盘分享时间手动记录
+
+  - name: Beijing-Institute-of-Technology-University-Physics
+    github_id: EnjunDu/Beijing-Institute-of-Technology-University-Physics-I
+    category: learning
