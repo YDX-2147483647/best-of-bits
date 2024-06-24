@@ -909,3 +909,7 @@ projects:
   - name: Beijing-Institute-of-Technology-University-Physics
     github_id: EnjunDu/Beijing-Institute-of-Technology-University-Physics-I
     category: learning
+
+  - name: BIT_885_Problems
+    github_id: hc495/BIT_885_Problems
+    category: learning
