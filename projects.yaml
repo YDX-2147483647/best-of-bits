@@ -921,3 +921,4 @@ projects:
   - name: BIT_Automatic_praise_program
     github_id: sycapple/BIT_Automatic_praise_program
     category: academic
+    description: “北理工全自动好评系统”，可选择全部好评或选择想要差评的老师。
