@@ -917,3 +917,7 @@ projects:
   - name: Numerical_Analysis_Notes
     github_id: hc495/Numerical_Analysis_Notes
     category: learning
+
+  - name: BIT_Automatic_praise_program
+    github_id: sycapple/BIT_Automatic_praise_program
+    category: academic
