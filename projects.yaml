@@ -922,3 +922,7 @@ projects:
     github_id: sycapple/BIT_Automatic_praise_program
     category: academic
     description: “北理工全自动好评系统”，可全部好评或选择想要差评的老师。
+
+  - name: Remaining-reminders-of-the-art-course
+    github_id: sycapple/Remaining-reminders-of-the-art-course
+    category: academic
