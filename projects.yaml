@@ -917,3 +917,8 @@ projects:
   - name: Numerical_Analysis_Notes
     github_id: hc495/Numerical_Analysis_Notes
     category: learning
+
+  - name: BIT_Automatic_praise_program
+    github_id: sycapple/BIT_Automatic_praise_program
+    category: academic
+    description: “北理工全自动好评系统”，可全部好评或选择想要差评的老师。
