@@ -922,3 +922,8 @@ projects:
     github_id: sycapple/BIT_Automatic_praise_program
     category: academic
     description: “北理工全自动好评系统”，可全部好评或选择想要差评的老师。
+
+  - name: Remaining-reminders-of-the-art-course
+    github_id: sycapple/Remaining-reminders-of-the-art-course
+    category: academic
+    description: 本项目是基于selenium4的一个爬虫项目，旨在帮助没能抽中艺术课等自己心仪课程的同学一个再次选择的机会。
