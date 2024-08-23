@@ -41,7 +41,7 @@ jobs:
         with:
           args: >-
             build/index.md
-            --from gfm
+            --from gfm+alerts
             --standalone
             --output build/index.html
       - name: Upload artifact
