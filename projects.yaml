@@ -927,3 +927,7 @@ projects:
     github_id: sycapple/Remaining-reminders-of-the-art-course
     category: academic
     description: 本项目是基于selenium4的一个爬虫项目，旨在帮助没能抽中艺术课等自己心仪课程的同学一个再次选择的机会。
+
+  - name: torchattack
+    github_id: daisylab-bit/torchattack
+    category: apollo
