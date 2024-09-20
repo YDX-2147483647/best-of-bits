@@ -935,3 +935,7 @@ projects:
   - name: BITLeXueRANK
     github_id: Decent898/BITLeXueRANK_2024C
     category: academic
+
+  - name: Slide-Style
+    github_id: Devil-SX/Slide-Style
+    category: apollo
