@@ -900,10 +900,10 @@ projects:
 
   - name: 北京理工大学学术答辩PPT模板（BITPPT）
     category: template
-    homepage: https://mp.weixin.qq.com/s/TAQ239saLWDT4kpvTNodfQ
-    description: 选用北理代表的绿色和褐色，融入校徽、校训等校园文化元素，适合学术答辩、德育答辩、工作汇报等场景。此模板为在校学生个人制作，非学校官方制作；不用于营利，开放共享给所有北理人，可[从百度网盘下载 v3.0](https://pan.baidu.com/s/1zlMEelm6_wcxyhPMQ66Bzw?pwd=ibit)。
+    homepage: https://mp.weixin.qq.com/s/8A_tKNG62o2lMrnDjqm6hw
+    description: 选用北理代表的绿色和褐色，融入校徽、校训等校园文化元素，适合学术答辩、德育答辩、工作汇报等场景。此模板为在校学生个人制作，非学校官方制作；不用于营利，开放共享给所有北理人，可[从百度网盘下载 v4.0](https://pan.baidu.com/s/1-XEFPfeEPJiNoTWVf18-Yw?pwd=ibit)。
     # 修改自 v3.0 幻灯片第一页使用说明和推送
-    updated_at: 2024-02-17
+    updated_at: 2024-09-21
     # 综合幻灯片说明落款、推送修改日期、网盘分享时间手动记录
 
   - name: Beijing-Institute-of-Technology-University-Physics
