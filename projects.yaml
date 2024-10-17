@@ -947,3 +947,7 @@ projects:
     # 修改自“在开始之前”和首页
     updated_at: 2024-09-07
     # 从页面更新时间手动记录
+
+  - name: Bing Sun ➡️ Teaching
+    github_id: sunamss/sunamss.github.io
+    category: learning
