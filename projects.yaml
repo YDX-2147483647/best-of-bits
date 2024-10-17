@@ -939,3 +939,11 @@ projects:
   - name: Slide-Style
     github_id: Devil-SX/Slide-Style
     category: apollo
+
+  - name: BITNP 新生电脑选购指南
+    homepage: https://docs.qq.com/aio/p/scmzu718dzus0zl
+    category: agg
+    description: 本篇电脑推荐表旨在以较为普适而全面的视角，依据参数和价格推荐适合同学们在校园使用的笔记本。（电脑诊所是我校纯志愿性质组织，为全校师生无偿提供电脑维护服务。）
+    # 修改自“在开始之前”和首页
+    updated_at: 2024-09-07
+    # 从页面更新时间手动记录
