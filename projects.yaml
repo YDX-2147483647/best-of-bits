@@ -950,4 +950,5 @@ projects:
 
   - name: 钉钉i北理UI
     github_id: yyysyyy/harmony-nb
+    description: 使用鸿蒙原生artks搭建了钉钉i北理的UI。
     category: misc
