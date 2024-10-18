@@ -948,6 +948,12 @@ projects:
     updated_at: 2024-09-07
     # 从页面更新时间手动记录
 
+  - name: Bing Sun ➡️ Teaching
+    github_id: sunamss/sunamss.github.io
+    category: learning
+    homepage: https://sunamss.github.io/teaching.html
+    description: 孙兵老师是我校数学学院教授，《工科数学分析》教材作者之一。该网页有教材及习题全解勘误、学期情况和PPT课件、教学大纲、试题试卷等资料。
+
   - name: xioneko/延河课堂视频下载
     github_id: xioneko/yanhekt-downloader
     category: academic
