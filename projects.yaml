@@ -693,7 +693,7 @@ projects:
     category: academic
     labels: [web]
 
-  - name: 延河课堂视频下载
+  - name: 神楽坂暮雪/延河课堂视频下载
     greasy_fork_id: 420055
     category: academic
     labels: [web]
@@ -947,6 +947,11 @@ projects:
     # 修改自“在开始之前”和首页
     updated_at: 2024-09-07
     # 从页面更新时间手动记录
+
+  - name: xioneko/延河课堂视频下载
+    github_id: xioneko/yanhekt-downloader
+    category: academic
+    greasy_fork_id: 496320
 
   - name: 钉钉i北理UI
     github_id: yyysyyy/harmony-nb
