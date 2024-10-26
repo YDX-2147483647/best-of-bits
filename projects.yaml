@@ -971,3 +971,7 @@ projects:
   - name: donglinkang2021/os_review
     github_id: donglinkang2021/os_review
     category: learning
+
+  - name: Bitnoc12/CSAPP_BIT
+    github_id: Bitnoc12/CSAPP_BIT
+    category: learning
