@@ -963,3 +963,7 @@ projects:
     github_id: yyysyyy/harmony-nb
     description: 使用鸿蒙原生artks搭建了钉钉i北理的UI。
     category: misc
+
+  - name: wyt8/bit-cs
+    github_id: wyt8/bit-cs
+    category: learning
