@@ -967,3 +967,7 @@ projects:
   - name: wyt8/bit-cs
     github_id: wyt8/bit-cs
     category: learning
+
+  - name: donglinkang2021/os_review
+    github_id: donglinkang2021/os_review
+    category: learning
