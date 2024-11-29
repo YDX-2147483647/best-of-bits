@@ -975,3 +975,7 @@ projects:
   - name: Bitnoc12/CSAPP_BIT
     github_id: Bitnoc12/CSAPP_BIT
     category: learning
+
+  - name: Traccy-Debugging/BIT-CS-Learning
+    github_id: Traccy-Debugging/BIT-CS-Learning
+    category: learning
