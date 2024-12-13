@@ -987,3 +987,7 @@ projects:
   - name: 培养方案显示已获得学分
     greasy_fork_id: 472940
     category: academic
+
+  - name: 网瑞达科技的资源访问控制系统（WebVPN） 助手
+    greasy_fork_id: 496336
+    category: edu-cn
