@@ -983,3 +983,7 @@ projects:
   - name: 乐学增强脚本整合包
     greasy_fork_id: 510922
     category: academic
+
+  - name: 培养方案显示已获得学分
+    greasy_fork_id: 472940
+    category: academic
