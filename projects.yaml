@@ -979,3 +979,7 @@ projects:
   - name: Traccy-Debugging/BIT-CS-Learning
     github_id: Traccy-Debugging/BIT-CS-Learning
     category: learning
+
+  - name: 乐学增强脚本整合包
+    greasy_fork_id: 510922
+    category: academic
