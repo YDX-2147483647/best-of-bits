@@ -991,3 +991,7 @@ projects:
   - name: 网瑞达科技的资源访问控制系统（WebVPN） 助手
     greasy_fork_id: 496336
     category: edu-cn
+
+  - name: CreateSDelightFabricJava
+    github_id: Phoupraw/CreateSDelightFabricJava
+    category: apollo
