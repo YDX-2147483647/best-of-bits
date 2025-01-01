@@ -995,3 +995,7 @@ projects:
   - name: CreateSDelightFabricJava
     github_id: Phoupraw/CreateSDelightFabricJava
     category: apollo
+
+  - name: BIT-SCORE
+    github_id: yht0511/BIT-SCORE
+    category: academic
