@@ -999,3 +999,7 @@ projects:
   - name: BIT-SCORE
     github_id: yht0511/BIT-SCORE
     category: academic
+
+  - name: Ri-Nai/BIT-Typst-Template
+    github_id: Ri-Nai/BIT-Typst-Template
+    category: template
