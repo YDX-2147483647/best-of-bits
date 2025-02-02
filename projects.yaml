@@ -1003,3 +1003,7 @@ projects:
   - name: Ri-Nai/BIT-Typst-Template
     github_id: Ri-Nai/BIT-Typst-Template
     category: template
+
+  - name: huyufeifei/bitypst
+    github_id: huyufeifei/bitypst
+    category: template
