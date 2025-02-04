@@ -1007,3 +1007,7 @@ projects:
   - name: huyufeifei/bitypst
     github_id: huyufeifei/bitypst
     category: template
+
+  - name: Quaternijkon/Typst_BIT
+    github_id: Quaternijkon/Typst_BIT
+    category: template
