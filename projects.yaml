@@ -1011,3 +1011,7 @@ projects:
   - name: Quaternijkon/Typst_BIT
     github_id: Quaternijkon/Typst_BIT
     category: template
+
+  - name: bitsrun.sh
+    github_id: BITNP/bitsrun.sh
+    category: srun
