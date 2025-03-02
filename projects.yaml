@@ -1015,3 +1015,7 @@ projects:
   - name: bitsrun.sh
     github_id: BITNP/bitsrun.sh
     category: srun
+
+  - name: 北京理工大学物理实验报告
+    github_id: laonuo2004/BIT_Physics_experiments
+    category: learning
