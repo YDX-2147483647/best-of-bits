@@ -1015,3 +1015,7 @@ projects:
   - name: bitsrun.sh
     github_id: BITNP/bitsrun.sh
     category: srun
+
+  - name: open_ibit
+    github_id: yht0511/open_ibit
+    category: edu-cn
