@@ -1016,6 +1016,10 @@ projects:
     github_id: BITNP/bitsrun.sh
     category: srun
 
+  - name: open_ibit
+    github_id: yht0511/open_ibit
+    category: edu-cn
+
   - name: 北京理工大学物理实验报告
     github_id: laonuo2004/BIT_Physics_experiments
     category: learning
