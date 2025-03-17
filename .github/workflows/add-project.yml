@@ -15,7 +15,7 @@ jobs:
           python-version: "3.11"
           cache: pip
           cache-dependency-path: justfile
-      - uses: extractions/setup-just@v2
+      - uses: extractions/setup-just@v3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: just bootstrap
