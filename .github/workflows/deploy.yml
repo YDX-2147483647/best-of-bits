@@ -29,7 +29,7 @@ jobs:
             README.md
             justfile
           sparse-checkout-cone-mode: false
-      - uses: extractions/setup-just@v2
+      - uses: extractions/setup-just@v3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Pages
