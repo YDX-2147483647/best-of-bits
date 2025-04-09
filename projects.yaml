@@ -103,7 +103,7 @@ projects:
   - name: Bulletin Issues Transferred
     github_id: YDX-2147483647/bulletin-issues-transferred
     gitee_id: YDX-2147483647/bulletin-issues-transferred
-    homepage: https://haobit.top/dev/site/notice/
+    homepage: https://haobit.top/notice/
     category: agg
     labels: [Web]
 
