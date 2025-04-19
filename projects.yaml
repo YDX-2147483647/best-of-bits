@@ -1023,3 +1023,7 @@ projects:
   - name: 北京理工大学物理实验报告
     github_id: laonuo2004/BIT_Physics_experiments
     category: learning
+
+  - name: bit_economy
+    github_id: haohaolalahao/bit_economy
+    category: learning
