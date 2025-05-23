@@ -1027,3 +1027,7 @@ projects:
   - name: bit_economy
     github_id: haohaolalahao/bit_economy
     category: learning
+
+  - name: BITLeXueRANK_2024C
+    github_id: Decent898/BITLeXueRANK_2024C
+    category: academic
