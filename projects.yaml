@@ -1031,3 +1031,7 @@ projects:
   - name: BITLeXueRANK_2024C
     github_id: Decent898/BITLeXueRANK_2024C
     category: academic
+
+  - name: live2d-project-for-HCI
+    github_id: Decent898/live2d-project-for-HCI
+    category: misc
