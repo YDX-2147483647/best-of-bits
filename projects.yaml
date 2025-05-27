@@ -1035,3 +1035,7 @@ projects:
   - name: live2d-project-for-HCI
     github_id: Decent898/live2d-project-for-HCI
     category: misc
+
+  - name: faq-bot
+    github_id: YDX-2147483647/faq-bot
+    category: agg
