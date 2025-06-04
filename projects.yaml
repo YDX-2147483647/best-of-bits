@@ -1039,3 +1039,7 @@ projects:
   - name: faq-bot
     github_id: YDX-2147483647/faq-bot
     category: agg
+
+  - name: BIT-big-data
+    github_id: lan-tiancheng/BIT-big-data
+    category: learning
