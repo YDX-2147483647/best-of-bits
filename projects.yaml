@@ -1043,3 +1043,7 @@ projects:
   - name: BIT-big-data
     github_id: lan-tiancheng/BIT-big-data
     category: learning
+
+  - name: Yanhekt-AutoSlides
+    github_id: bit-admin/Yanhekt-AutoSlides
+    category: academic
