@@ -1047,3 +1047,7 @@ projects:
   - name: Yanhekt-AutoSlides
     github_id: bit-admin/Yanhekt-AutoSlides
     category: academic
+
+  - name: Yanhekt-downloader-electron
+    github_id: bit-admin/Yanhekt-downloader-electron
+    category: academic
