@@ -1044,6 +1044,14 @@ projects:
     github_id: lan-tiancheng/BIT-big-data
     category: learning
 
+  - name: Yanhekt-AutoSlides
+    github_id: bit-admin/Yanhekt-AutoSlides
+    category: academic
+
+  - name: Yanhekt-downloader-electron
+    github_id: bit-admin/Yanhekt-downloader-electron
+    category: academic
+
   - name: BIT-CourseRace
     github_id: Jump-Wang-111/BIT-CourseRace
     category: academic
