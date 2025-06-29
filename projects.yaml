@@ -1055,3 +1055,8 @@ projects:
   - name: BIT-CourseRace
     github_id: Jump-Wang-111/BIT-CourseRace
     category: academic
+
+  - name: BIT-AutoLogin-UserScript
+    github_id: YuhangHere/BIT-AutoLogin-UserScript
+    category: edu-cn
+    license: MIT
