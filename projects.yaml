@@ -1071,3 +1071,7 @@ projects:
   - name: auto_course_select
     github_id: entalent/auto_course_select
     category: academic
+
+  - name: NetworkSecurity2019
+    github_id: Crysflair/NetworkSecurity2019
+    category: edu-cn
