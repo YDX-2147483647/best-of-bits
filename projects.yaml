@@ -1059,3 +1059,7 @@ projects:
   - name: BIT-AutoLogin-UserScript
     github_id: YuhangHere/BIT-AutoLogin-UserScript
     category: edu-cn
+
+  - name: BitBusGrab
+    github_id: YaphetLee2002/BitBusGrab
+    category: cal
