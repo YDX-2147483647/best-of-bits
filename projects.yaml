@@ -1063,3 +1063,7 @@ projects:
   - name: BitBusGrab
     github_id: YaphetLee2002/BitBusGrab
     category: cal
+
+  - name: BitBMTGrab
+    github_id: YaphetLee2002/BitBMTGrab
+    category: cal
