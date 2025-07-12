@@ -1067,3 +1067,7 @@ projects:
   - name: BitBMTGrab
     github_id: YaphetLee2002/BitBMTGrab
     category: cal
+
+  - name: auto_course_select
+    github_id: entalent/auto_course_select
+    category: academic
