@@ -1075,3 +1075,7 @@ projects:
   - name: NetworkSecurity2019
     github_id: Crysflair/NetworkSecurity2019
     category: edu-cn
+
+  - name: bit-guide
+    github_id: yht0511/bit-guide
+    category: agg
