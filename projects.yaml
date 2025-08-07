@@ -1083,4 +1083,4 @@ projects:
   - name: BIT-SE
     github_id: Ri-Nai-BIT-SE/BIT-SE
     category: learning
-    description_id: 北京理工大学软件工程课程个人学习经验分享
+    description: 北京理工大学软件工程课程个人学习经验分享
