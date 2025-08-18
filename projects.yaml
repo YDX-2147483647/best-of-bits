@@ -1084,3 +1084,7 @@ projects:
     github_id: Ri-Nai-BIT-SE/BIT-SE
     category: learning
     description: 北京理工大学软件工程课程个人学习经验分享
+
+  - name: cdowen/BIT-Login
+    github_id: cdowen/BIT-Login
+    category: srun
