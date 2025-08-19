@@ -30,7 +30,7 @@ jobs:
       - name: Set version via date
         if: ${{ ! (env.VERSION != null && env.VERSION != '') }}
         run: echo "VERSION=$(date '+%Y.%m.%d')" >> $GITHUB_ENV
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Append time to version if necessary
         shell: bash
         run: |
