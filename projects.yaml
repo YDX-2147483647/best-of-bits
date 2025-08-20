@@ -1092,3 +1092,7 @@ projects:
   - name: bit-cas-profile
     github_id: liling/bit-cas-profile
     category: edu-cn
+
+  - name: bit-cas-server
+    github_id: liling/bit-cas-server
+    category: edu-cn
