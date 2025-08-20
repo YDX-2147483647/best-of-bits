@@ -1088,3 +1088,7 @@ projects:
   - name: cdowen/BIT-Login
     github_id: cdowen/BIT-Login
     category: srun
+
+  - name: bit-cas-profile
+    github_id: liling/bit-cas-profile
+    category: edu-cn
