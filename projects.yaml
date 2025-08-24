@@ -1100,3 +1100,7 @@ projects:
   - name: bit-sso
     github_id: bit-admin/bit-sso
     category: edu-cn
+
+  - name: yht0511/bit-login
+    github_id: yht0511/bit-login
+    category: edu-cn
