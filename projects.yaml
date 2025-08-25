@@ -1104,3 +1104,7 @@ projects:
   - name: yht0511/bit-login
     github_id: yht0511/bit-login
     category: edu-cn
+
+  - name: BIT-Login-Python
+    github_id: Ri-Nai/BIT-Login-Python
+    category: edu-cn
