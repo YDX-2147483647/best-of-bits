@@ -1109,3 +1109,7 @@ projects:
   - name: BIT-Login-Python
     github_id: Ri-Nai/BIT-Login-Python
     category: edu-cn
+
+  - name: 朋辈导师评价系统
+    github_id: Ri-Nai/BIT-Peer-Mentor-Evaluation
+    category: office
