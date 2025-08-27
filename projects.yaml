@@ -1109,3 +1109,11 @@ projects:
   - name: BIT-Login-Python
     github_id: Ri-Nai/BIT-Login-Python
     category: edu-cn
+
+  - name: 贝塔驿站 - 微信小程序
+    github_id: x-zip/beita-frontend
+    category: agg
+
+  - name: 贝塔驿站后端系统
+    github_id: x-zip/beita-backend
+    category: agg
