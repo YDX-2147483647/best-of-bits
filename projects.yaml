@@ -1109,3 +1109,9 @@ projects:
   - name: BIT-Login-Python
     github_id: Ri-Nai/BIT-Login-Python
     category: edu-cn
+
+  - name: 朋辈导师评价系统
+    github_id: Ri-Nai/BIT-Peer-Mentor-Evaluation
+    category: office
+    description: |
+      📝 用于自动完成对朋辈导师下学生的德育评价工作。
