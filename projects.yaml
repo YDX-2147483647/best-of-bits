@@ -1115,3 +1115,8 @@ projects:
     category: office
     description: |
       📝 用于自动完成对朋辈导师下学生的德育评价工作。
+
+  - name: Treehole
+    github_id: Treehole-Project/Treehole
+    category: agg
+    homepage: https://treehole.club
