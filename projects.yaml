@@ -1112,10 +1112,12 @@ projects:
 
   - name: 贝塔驿站 - 微信小程序
     github_id: x-zip/beita-frontend
+    homepage: https://mp.weixin.qq.com/s/g1bzBHUI6CbSlYjWN1BnOw
     category: agg
 
   - name: 贝塔驿站后端系统
     github_id: x-zip/beita-backend
+    homepage: https://mp.weixin.qq.com/s/g1bzBHUI6CbSlYjWN1BnOw
     category: agg
 
   - name: 朋辈导师评价系统
