@@ -1130,3 +1130,7 @@ projects:
     github_id: Treehole-Project/Treehole
     category: agg
     homepage: https://treehole.club
+
+  - name: BITSGUI
+    github_id: so1ve/bitsgui
+    category: srun
