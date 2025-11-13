@@ -1137,3 +1137,4 @@ projects:
 
   - name: 北理工-实验选课助手
     greasy_fork_id: 555729
+    category: academic
