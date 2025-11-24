@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Fetch projects.yaml
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           sparse-checkout: |
             projects.yaml
