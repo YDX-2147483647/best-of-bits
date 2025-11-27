@@ -1138,3 +1138,7 @@ projects:
   - name: 北理工-实验选课助手
     greasy_fork_id: 555729
     category: academic
+
+  - name: BIT分享进步小组
+    github_id: zzzzquan/share-and-improve-in-BIT
+    category: org
