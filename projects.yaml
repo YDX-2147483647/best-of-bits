@@ -1140,5 +1140,6 @@ projects:
     category: academic
 
   - name: BIT分享进步小组
+    homepage: https://www.zzzzquan.cn/2025/08/25/share-and-improve-in-BIT/
     github_id: zzzzquan/share-and-improve-in-BIT
     category: org
