@@ -1139,6 +1139,11 @@ projects:
     greasy_fork_id: 555729
     category: academic
 
+  - name: BIT分享进步小组
+    homepage: https://www.zzzzquan.cn/2025/08/25/share-and-improve-in-BIT/
+    github_id: zzzzquan/share-and-improve-in-BIT
+    category: org
+
   - name: Ti-FDGG/BIT-CS-2023
     github_id: Ti-FDGG/BIT-CS-2023
     category: learning
