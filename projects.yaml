@@ -105,14 +105,14 @@ projects:
     gitee_id: YDX-2147483647/bulletin-issues-transferred
     homepage: https://haobit.top/notice/
     category: agg
-    labels: [Web]
+    labels: [web]
 
   - name: BIT-enhanced
     github_id: YDX-2147483647/BIT-enhanced
     gitee_id: YDX-2147483647/BIT-enhanced
     homepage: https://ydx-2147483647.github.io/BIT-enhanced/
     category: edu-cn
-    labels: [Web]
+    labels: [web]
 
   - name: Bus Interrogation Tunnel
     github_id: YDX-2147483647/bus-interrogation-tunnel
@@ -148,13 +148,13 @@ projects:
     github_id: spencerwooo/bit-webvpn-converter
     homepage: https://webvpn.swo.moe/
     category: edu-cn
-    labels: [Web]
+    labels: [web]
 
   - name: BIT WebVPN URL 双向转换器（浏览器扩展）
     github_id: YDX-2147483647/bit-webvpn-converter-web-extension
     homepage: https://addons.mozilla.org/zh-CN/firefox/addon/bit-webvpn-converter/
     category: edu-cn
-    labels: [Web]
+    labels: [web]
 
   - name: BIT自动请假
     github_id: YoungKlaus/BIT_Auto_Leave
@@ -358,6 +358,9 @@ projects:
     homepage: https://leidawt.gitee.io/bit-pse-public/
     gitee_id: leidawt/bit-pse
     category: exp
+    # 此仓库已无法访问，故隐藏
+    # https://gitee.com/leidawt 显示此仓库在2022-06-05后再无公开提交，且该账号于2024-10-17删除了 leidawt/bit-pse-public，但2025-06-19仍对非公开仓库有贡献。
+    show: false
 
   - name: BIT物理实验数据处理工具
     gitee_id: Creeper_LKF/BIT-Physics-Experiment
