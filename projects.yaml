@@ -1154,3 +1154,7 @@ projects:
   - name: 矩阵分析学堂在线习题与复习整理
     github_id: fishyy119/Matrix_Analysis_Homework
     category: learning
+
+  - name: 百丽宫年度吃饭报告生成器
+    github_id: rinevard/BIT-Annual-Eat
+    category: cal
