@@ -21,41 +21,8 @@ list-project-suggestions:
 add-project ISSUE_NUMBER:
     gh issue view {{ ISSUE_NUMBER }} --json body | {{ python }} ./scripts/add_project.py ./projects.yaml
 
-# 用`README.md`构建可用于`pandoc --from gfm`的`build/index.md`
-build-for-pandoc:
-    #!/usr/bin/env bash
-    set -euxo pipefail
-
-    rm -rf build
+# 构建`build/index.html`
+build-typ LANG="zh":
     mkdir -p build
-    cd build
-
-    # Write metadata
-    cat > index.md <<- "EOF"
-    ---
-    title: best-of-BITs (bytes)
-    lang: zh-CN
-    header-includes: |
-        <style>
-        details {
-            margin-top: 1em;
-        }
-        li {
-            margin-top: 0.2em;
-        }
-        .note {
-            border-left: 0.25em solid #004daa;
-            padding-left: 1em;
-        }
-        .note > .title {
-            color: #004daa;
-        }
-        </style>
-    ---
-    EOF
-
-    # Delete `<h1>` and unnecessary buttons
-    cat ../README.md \
-        | sed '1,5d' \
-        | grep --invert-match '<a href="#contents">.* alt="Back to top"></a>' \
-        >> index.md
+    uv run typ/history_to_json.py > build/latest.json
+    typst compile typ/main.typ build/index.html --root . --features html --input lang={{ LANG }}

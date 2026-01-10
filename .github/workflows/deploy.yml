@@ -28,24 +28,25 @@ jobs:
           sparse-checkout: |
             README.md
             justfile
+            scripts/history_to_json.py
+            typ/*
+            history/*
+            config/*
+            projects.yaml
           sparse-checkout-cone-mode: false
       - uses: extractions/setup-just@v3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-      - run: just build-for-pandoc
-      - name: Convert to HTML
-        uses: docker://pandoc/core:3
+      - uses: astral-sh/setup-uv@v7
+      - uses: typst-community/setup-typst@v4
         with:
-          args: >-
-            build/index.md
-            --from gfm+alerts
-            --standalone
-            --output build/index.html
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+          typst-version: v0.14.2
+
+      - run: just build-typ
+      - run: cp projects.yaml build/
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: ./build
 
