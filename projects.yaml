@@ -1158,3 +1158,7 @@ projects:
   - name: 百丽宫年度吃饭报告生成器
     github_id: rinevard/BIT-Annual-Eat
     category: cal
+
+  - name: BIT 新版物理实验选课系统增强
+    greasy_fork_id: 529476
+    category: academic
