@@ -1159,6 +1159,10 @@ projects:
     github_id: rinevard/BIT-Annual-Eat
     category: cal
 
-  - name: [BIT AutoLogin] 一键登录北理工统一身份认证
+  - name: BIT 新版物理实验选课系统增强
+    greasy_fork_id: 529476
+    category: academic
+
+  - name: "[BIT AutoLogin] 一键登录北理工统一身份认证"
     greasy_fork_id: 562208
     category: edu-cn
