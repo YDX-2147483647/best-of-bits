@@ -1,4 +1,4 @@
-#import "@preview/tcdm:0.0.1": load, md
+#import "@preview/tcdm:0.0.2": load, md
 #let (configuration, statistics, assets, body) = load(
   projects-data: json("/build/latest.json"),
   projects-yaml: yaml("/projects.yaml"),
