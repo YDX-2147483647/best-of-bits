@@ -109,7 +109,9 @@ projects:
 
   - name: BIT-enhanced
     github_id: YDX-2147483647/BIT-enhanced
-    gitee_id: YDX-2147483647/BIT-enhanced
+    # Gitee 镜像已无法公开访问，为避免数据异常而注释 gitee_id
+    # https://github.com/YDX-2147483647/BIT-enhanced/issues/49
+    # gitee_id: YDX-2147483647/BIT-enhanced
     homepage: https://ydx-2147483647.github.io/BIT-enhanced/
     category: edu-cn
     labels: [web]
