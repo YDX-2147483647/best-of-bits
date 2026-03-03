@@ -1172,3 +1172,7 @@ projects:
   - name: BIT-AeroSpace-Learning
     github_id: Aray42/BIT-AeroSpace-Learning
     category: agg
+
+  - name: BITBusGrab
+    github_id: LingRuo-BIT/BITBusGrab
+    category: cal
