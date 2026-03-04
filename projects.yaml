@@ -1177,3 +1177,13 @@ projects:
     github_id: LingRuo-BIT/CourseGrab
     category: academic
     license: MIT
+
+  - name: LingRuo-BIT/BITBusGrab
+    github_id: LingRuo-BIT/BITBusGrab
+    category: cal
+    license: MIT
+
+  - name: YaphetLee2002/BITBusGrab
+    github_id: YaphetLee2002/BITBusGrab
+    category: cal
+    license: MIT
