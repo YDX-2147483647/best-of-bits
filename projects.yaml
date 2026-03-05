@@ -1191,4 +1191,5 @@ projects:
   - name: 物理实验计算平台
     github_id: lamaper/lamaper.github.io
     category: misc
+    homepage: https://lamaper.github.io/physics/
     license: CC BY-NC-SA 4.0
