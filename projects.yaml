@@ -1193,3 +1193,7 @@ projects:
     category: misc
     homepage: https://lamaper.github.io/physics/
     license: CC BY-NC-SA 4.0
+
+  - name: Library Access MCP (Academic Research Agent)
+    github_id: yang-kun-long/library-access-mcp
+    category: edu-cn
