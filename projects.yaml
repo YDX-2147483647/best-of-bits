@@ -1197,3 +1197,7 @@ projects:
   - name: Library Access MCP (Academic Research Agent)
     github_id: yang-kun-long/library-access-mcp
     category: edu-cn
+
+  - name: NeuroMark
+    github_id: BobH233/NeuroMark
+    category: apollo
