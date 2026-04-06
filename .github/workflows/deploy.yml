@@ -34,7 +34,7 @@ jobs:
             config/*
             projects.yaml
           sparse-checkout-cone-mode: false
-      - uses: extractions/setup-just@v3
+      - uses: extractions/setup-just@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: astral-sh/setup-uv@v7
