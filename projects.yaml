@@ -1201,3 +1201,7 @@ projects:
   - name: NeuroMark
     github_id: BobH233/NeuroMark
     category: apollo
+
+  - name: BIT101-iOS
+    github_id: BIT101-dev/BIT101-iOS
+    category: agg
