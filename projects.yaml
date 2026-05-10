@@ -381,7 +381,7 @@ projects:
     labels: [python]
 
   - name: 北理工延河课堂视频下载
-    github_id: GDDG08/YanHeKT_Downloader
+    github_id: HansZ8/YanHeKT_Downloader
     category: academic
     labels: [python]
 
