@@ -1209,3 +1209,7 @@ projects:
   - name: BIT PPT 模板生成器
     github_id: yang-kun-long/bit-ppt-template
     category: template
+
+  - name: SenseCaption
+    github_id: sukurajima-mai/SenseCaption
+    category: academic
