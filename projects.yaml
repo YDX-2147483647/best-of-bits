@@ -1210,6 +1210,10 @@ projects:
     github_id: yang-kun-long/bit-ppt-template
     category: template
 
+  - name: SenseCaption
+    github_id: sukurajima-mai/SenseCaption
+    category: academic
+
   - name: BITshare
     github_id: BITshare-dev/BITshare
     category: agg
