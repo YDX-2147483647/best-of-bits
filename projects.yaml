@@ -1217,3 +1217,7 @@ projects:
   - name: BITshare
     github_id: BITshare-dev/BITshare
     category: agg
+
+  - name: BIT-PJ-System
+    github_id: playchess2005/BIT-PJ-System
+    category: academic
