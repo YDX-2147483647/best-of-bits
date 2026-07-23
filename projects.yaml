@@ -1106,8 +1106,8 @@ projects:
     github_id: bit-admin/bit-sso
     category: edu-cn
 
-  - name: yht0511/bit-login
-    github_id: yht0511/bit-login
+  - name: BIT101-dev/BIT-Login
+    github_id: BIT101-dev/BIT-Login
     category: edu-cn
     pypi_id: bit-login
 
