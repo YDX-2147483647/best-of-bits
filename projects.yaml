@@ -1219,3 +1219,7 @@ projects:
   - name: BIT-PJ-System
     github_id: playchess2005/BIT-PJ-System
     category: academic
+
+  - name: bitsrun.c
+    github_id: everything411/bitsrun.c
+    category: srun
