@@ -33,14 +33,15 @@ jobs:
             history/*
             config/*
             projects.yaml
+            .github/typst-versions.yaml
           sparse-checkout-cone-mode: false
-      - uses: extractions/setup-just@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: taiki-e/install-action@v2
+        with:
+          tool: just
       - uses: astral-sh/setup-uv@v7
       - uses: typst-community/setup-typst@v5
         with:
-          typst-version: v0.14.2
+          typst-versions-file: .github/typst-versions.yaml
 
       - run: just build-typ
       - run: cp projects.yaml build/

@@ -15,9 +15,9 @@ jobs:
           python-version: "3.11"
           cache: pip
           cache-dependency-path: justfile
-      - uses: extractions/setup-just@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: taiki-e/install-action@v2
+        with:
+          tool: just
       - run: just bootstrap
       - run: just add-project ${{ github.event.issue.number }}
         env:

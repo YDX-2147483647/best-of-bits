@@ -35,3 +35,29 @@ jobs:
             echo '```' >> $GITHUB_STEP_SUMMARY
             exit 1
           fi
+
+  build-typ:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch README
+        uses: actions/checkout@v7
+        with:
+          sparse-checkout: |
+            README.md
+            justfile
+            scripts/history_to_json.py
+            typ/*
+            history/*
+            config/*
+            projects.yaml
+            .github/typst-versions.yaml
+          sparse-checkout-cone-mode: false
+      - uses: taiki-e/install-action@v2
+        with:
+          tool: just
+      - uses: astral-sh/setup-uv@v7
+      - uses: typst-community/setup-typst@v5
+        with:
+          typst-versions-file: .github/typst-versions.yaml
+
+      - run: just build-typ
