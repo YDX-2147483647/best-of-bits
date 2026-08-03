@@ -35,7 +35,7 @@ jobs:
             projects.yaml
             .github/typst-versions.yaml
           sparse-checkout-cone-mode: false
-      - uses: taiki-e/install-action@v2
+      - uses: taiki-e/install-action@v2.85.5
         with:
           tool: just
       - uses: astral-sh/setup-uv@v7
