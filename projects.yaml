@@ -1223,3 +1223,7 @@ projects:
   - name: bitsrun.c
     github_id: everything411/bitsrun.c
     category: srun
+
+  - name: campus-shuttle-board
+    github_id: KJH-x/bit_shuttles
+    category: cal
