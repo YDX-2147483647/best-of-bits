@@ -1227,3 +1227,7 @@ projects:
   - name: campus-shuttle-board
     github_id: KJH-x/bit_shuttles
     category: cal
+
+  - name: 计协 · 茵蒂克丝
+    github_id: bit-acca/ACCA-Index
+    category: org
