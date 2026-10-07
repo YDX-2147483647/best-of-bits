@@ -1200,29 +1200,6 @@ projects:
     github_id: BobH233/NeuroMark
     category: apollo
 
-  - name: SmallGBM
-    description: |
-      Gradient boosting for small tabular data (n < 1000). Native C core,
-      robust leaf regularization, stochastic split selection. Outperforms
-      XGBoost, LightGBM, RandomForest on 27 datasets.
-    github_id: nsdmlk/SmallGBM
-    pypi_id: smallgbm
-    homepage: https://doi.org/10.5281/zenodo.21934674
-    category: apollo
-    labels: [python, cpp]
-
-  - name: SmallMLP
-    description: |
-      Adaptive MLP for small nonlinear data (n < 500). Width, dropout,
-      and weight decay derived from dataset parameters (n, d, K).
-      Weighted conformal prediction intervals with finite-sample
-      coverage guarantees.
-    github_id: nsdmlk/SmallMLP
-    pypi_id: smallmlp
-    homepage: https://github.com/nsdmlk/SmallMLP
-    category: apollo
-    labels: [python]
-
   - name: BIT101-iOS
     github_id: BIT101-dev/BIT101-iOS
     category: agg
@@ -1254,3 +1231,14 @@ projects:
   - name: 计协 · 茵蒂克丝
     github_id: bit-acca/ACCA-Index
     category: org
+
+    
+  - name: SmallGBM
+    github_id: nsdmlk/SmallGBM
+    pypi_id: smallgbm
+    category: apollo
+
+  - name: SmallMLP
+    github_id: nsdmlk/SmallMLP
+    pypi_id: smallmlp
+    category: apollo
