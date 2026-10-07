@@ -1232,7 +1232,6 @@ projects:
     github_id: bit-acca/ACCA-Index
     category: org
 
-    
   - name: SmallGBM
     github_id: nsdmlk/SmallGBM
     pypi_id: smallgbm
