@@ -1231,3 +1231,13 @@ projects:
   - name: 计协 · 茵蒂克丝
     github_id: bit-acca/ACCA-Index
     category: org
+
+  - name: SmallGBM
+    github_id: nsdmlk/SmallGBM
+    pypi_id: smallgbm
+    category: apollo
+
+  - name: SmallMLP
+    github_id: nsdmlk/SmallMLP
+    pypi_id: smallmlp
+    category: apollo
