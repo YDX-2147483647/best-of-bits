@@ -1055,6 +1055,12 @@ projects:
     github_id: bit-admin/Yanhekt-downloader-electron
     category: academic
 
+  - name: yanhekt-local
+    description: 延河课堂录播本地化套件：批量下载双路录播（PPT 屏幕 + 教室画面），附双屏同步播放器。
+    github_id: Disc13/yanhekt-local
+    category: academic
+    labels: [python]
+
   - name: BIT-CourseRace
     github_id: Jump-Wang-111/BIT-CourseRace
     category: academic
