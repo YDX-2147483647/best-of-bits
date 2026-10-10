@@ -1241,3 +1241,7 @@ projects:
     github_id: nsdmlk/SmallMLP
     pypi_id: smallmlp
     category: apollo
+
+  - name: yanhekt-local
+    github_id: Disc13/yanhekt-local
+    category: academic
