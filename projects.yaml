@@ -1245,3 +1245,7 @@ projects:
   - name: yanhekt-local
     github_id: Disc13/yanhekt-local
     category: academic
+
+  - name: 北京理工大学公开通知整理
+    github_id: 1whoarei1/Bit-Official-Notices-Compilation
+    category: agg
