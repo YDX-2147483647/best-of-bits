@@ -1245,3 +1245,7 @@ projects:
   - name: yanhekt-local
     github_id: Disc13/yanhekt-local
     category: academic
+
+  - name: 延河课堂 PDF 下载助手
+    github_id: heguangV/BIT-eclass-PDF-downloader
+    category: academic
