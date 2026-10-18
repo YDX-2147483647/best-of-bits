@@ -1245,3 +1245,7 @@ projects:
   - name: yanhekt-local
     github_id: Disc13/yanhekt-local
     category: academic
+
+  - name: zy-eclass-evolved
+    github_id: dongdigua/zy-eclass-evolved
+    category: academic
