@@ -1245,3 +1245,7 @@ projects:
   - name: yanhekt-local
     github_id: Disc13/yanhekt-local
     category: academic
+
+  - name: lexue-attention
+    github_id: 1whoarei1/lexue-attention-for-astrbot
+    category: academic
