@@ -1246,6 +1246,10 @@ projects:
     github_id: Disc13/yanhekt-local
     category: academic
 
+  - name: lexue-attention
+    github_id: 1whoarei1/lexue-attention-for-astrbot
+    category: academic
+
   - name: zy-eclass-evolved
     github_id: dongdigua/zy-eclass-evolved
     # 待此仓库补上许可证、描述、README后，可以按脚本拆分成多个项目
