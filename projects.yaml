@@ -1249,3 +1249,18 @@ projects:
   - name: 延河课堂 PDF 下载助手
     github_id: heguangV/BIT-eclass-PDF-downloader
     category: academic
+
+  - name: lexue-attention
+    github_id: 1whoarei1/lexue-attention-for-astrbot
+    category: academic
+
+  - name: zy-eclass-evolved
+    github_id: dongdigua/zy-eclass-evolved
+    # 待此仓库补上许可证、描述、README后，可以按脚本拆分成多个项目
+    description: |
+      优化新版延河课堂：Moodle 风格树状课程导航（魂兮归来！）、待办显示课程名、隐藏课程、修正返回链接、移动端按钮……
+    category: academic
+
+  - name: 北京理工大学公开通知整理
+    github_id: 1whoarei1/Bit-Official-Notices-Compilation
+    category: agg
