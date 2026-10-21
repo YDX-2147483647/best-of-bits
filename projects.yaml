@@ -1264,3 +1264,8 @@ projects:
   - name: 北京理工大学公开通知整理
     github_id: 1whoarei1/Bit-Official-Notices-Compilation
     category: agg
+
+  - name: BITGATEWAY
+    github_id: so1ve/bitgateway
+    category: srun
+    cargo_id_id: bitgateway
