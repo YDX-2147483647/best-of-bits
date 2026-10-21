@@ -1268,4 +1268,4 @@ projects:
   - name: BITGATEWAY
     github_id: so1ve/bitgateway
     category: srun
-    cargo_id_id: bitgateway
+    cargo_id: bitgateway
