@@ -1269,3 +1269,7 @@ projects:
     github_id: so1ve/bitgateway
     category: srun
     cargo_id: bitgateway
+
+  - name: BITBadminton
+    github_id: GGBondHere/BITBadminton
+    category: cal
