@@ -1269,3 +1269,11 @@ projects:
     github_id: so1ve/bitgateway
     category: srun
     cargo_id: bitgateway
+
+  - name: BitBMTGrab+
+    github_id: GGBondHere/BitBMTGrab
+    description: 北理工羽毛球场地预约工具，支持多场地错峰检查、跨平台运行、订单确认及钉钉和 Windows 弹窗通知。
+    category: cal
+    labels: [go]
+    license: MIT
+    
