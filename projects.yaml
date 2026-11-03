@@ -1275,3 +1275,4 @@ projects:
   - name: biternet-go
     github_id: bitoolkit/biternet-go
     category: srun
+    go_id: github.com/bitoolkit/biternet-go
