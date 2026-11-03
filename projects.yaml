@@ -1139,9 +1139,12 @@ projects:
     category: agg
     homepage: https://treehole.club
 
-  - name: BITSGUI
-    github_id: so1ve/bitsgui
+  - name: BITERNET
+    # 仓库曾用地址 so1ve/bitsgui、so1ve/bitgateway 均已重定向至新地址
+    github_id: bitoolkit/biternet
     category: srun
+    # 曾以 bitgateway 发布，并且 crates.io 上仍能访问；不过新版只发布于 biternet
+    cargo_id: biternet
 
   - name: 北理工-实验选课助手
     greasy_fork_id: 555729
@@ -1264,11 +1267,6 @@ projects:
   - name: 北京理工大学公开通知整理
     github_id: 1whoarei1/Bit-Official-Notices-Compilation
     category: agg
-
-  - name: BITGATEWAY
-    github_id: so1ve/bitgateway
-    category: srun
-    cargo_id: bitgateway
 
   - name: BITBadminton
     github_id: GGBondHere/BITBadminton
