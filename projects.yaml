@@ -1272,6 +1272,10 @@ projects:
     github_id: GGBondHere/BITBadminton
     category: cal
 
+  - name: 延河课堂 · 课程与录播管理
+    github_id: Fangwenky/yanhekt-downloader
+    category: academic
+
   - name: biternet-go
     github_id: bitoolkit/biternet-go
     category: srun
