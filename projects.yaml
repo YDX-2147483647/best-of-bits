@@ -1275,3 +1275,8 @@ projects:
   - name: 延河课堂 · 课程与录播管理
     github_id: Fangwenky/yanhekt-downloader
     category: academic
+
+  - name: biternet-go
+    github_id: bitoolkit/biternet-go
+    category: srun
+    go_id: github.com/bitoolkit/biternet-go
