@@ -1280,3 +1280,7 @@ projects:
     github_id: bitoolkit/biternet-go
     category: srun
     go_id: github.com/bitoolkit/biternet-go
+
+  - name: yanhekit - 延河课堂工具包
+    github_id: bitoolkit/yanhekit
+    category: academic
