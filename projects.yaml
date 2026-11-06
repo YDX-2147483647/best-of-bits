@@ -1284,3 +1284,7 @@ projects:
   - name: yanhekit - 延河课堂工具包
     github_id: bitoolkit/yanhekit
     category: academic
+
+  - name: BITree 理枝
+    github_id: bitoolkit/bitree
+    category: agg
